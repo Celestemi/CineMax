@@ -7,5 +7,6 @@ data class Funcion(
     val sala: Sala,
     val fecha: String,
     val hora: String,
-    val precio: Double
+    val precio: Double,
+    val activa: Boolean = true
 )

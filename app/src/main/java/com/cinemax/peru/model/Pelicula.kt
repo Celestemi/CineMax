@@ -8,5 +8,6 @@ data class Pelicula(
     val duracionMinutos: Int,
     val sinopsis: String,
     val posterUrl: String,
-    val trailerUrl: String
+    val trailerUrl: String,
+    val activo: Boolean = true
 )
