@@ -1,0 +1,2 @@
+10-02 01:36:12.869 10460 10474 I TestRunner: started: g_unaSalaInexistenteDevuelveMapaVacio(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:12.961 10460 10474 I TestRunner: finished: g_unaSalaInexistenteDevuelveMapaVacio(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

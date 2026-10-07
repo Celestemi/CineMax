@@ -1,0 +1,3 @@
+10-02 01:36:08.258 10460 10474 I TestRunner: started: a_lasFuncionesActivasSonTodasLasSembradas(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:08.273   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:36:08.356 10460 10474 I TestRunner: finished: a_lasFuncionesActivasSonTodasLasSembradas(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

@@ -1,0 +1,2 @@
+10-02 01:38:40.835 10460 10474 I TestRunner: started: g_unaFuncionInexistenteTerminaEnFuncionNoEncontrada(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:40.933 10460 10474 I TestRunner: finished: g_unaFuncionInexistenteTerminaEnFuncionNoEncontrada(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

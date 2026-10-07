@@ -1,0 +1,2 @@
+10-02 01:38:31.716 10460 10474 I TestRunner: started: elCambioDeFiltroNoMeteLaCarteleraEnCargando(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)
+10-02 01:38:31.905 10460 10474 I TestRunner: finished: elCambioDeFiltroNoMeteLaCarteleraEnCargando(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)

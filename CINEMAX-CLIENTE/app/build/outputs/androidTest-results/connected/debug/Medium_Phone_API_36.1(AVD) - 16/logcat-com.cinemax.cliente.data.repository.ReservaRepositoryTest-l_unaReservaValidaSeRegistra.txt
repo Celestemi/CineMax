@@ -1,0 +1,2 @@
+10-02 01:36:09.467 10460 10474 I TestRunner: started: l_unaReservaValidaSeRegistra(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:09.560 10460 10474 I TestRunner: finished: l_unaReservaValidaSeRegistra(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

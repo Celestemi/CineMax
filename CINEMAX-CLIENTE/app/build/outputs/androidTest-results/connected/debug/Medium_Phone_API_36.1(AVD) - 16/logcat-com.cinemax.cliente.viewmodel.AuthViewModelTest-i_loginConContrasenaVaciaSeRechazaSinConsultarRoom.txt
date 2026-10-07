@@ -1,0 +1,6 @@
+10-02 01:38:30.836 10460 10474 I TestRunner: started: i_loginConContrasenaVaciaSeRechazaSinConsultarRoom(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:30.850  1189  1202 I s.nexuslauncher: NativeAlloc concurrent mark compact GC freed 805KB AllocSpace bytes, 4(208KB) LOS objects, 49% free, 5537KB/10MB, paused 248us,1.403ms total 128.970ms
+10-02 01:38:30.852  1189  1204 W System  : A resource failed to call release.
+10-02 01:38:30.852  1189  1204 W System  : A resource failed to call release.
+10-02 01:38:30.852  1189  1204 W System  : A resource failed to call release.
+10-02 01:38:30.858 10460 10474 I TestRunner: finished: i_loginConContrasenaVaciaSeRechazaSinConsultarRoom(com.cinemax.cliente.viewmodel.AuthViewModelTest)

@@ -1,0 +1,2 @@
+10-02 01:36:05.775 10460 10474 I TestRunner: started: b_filtrarPorGeneroDevuelveSoloSusFunciones(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:05.879 10460 10474 I TestRunner: finished: b_filtrarPorGeneroDevuelveSoloSusFunciones(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

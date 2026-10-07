@@ -1,0 +1,2 @@
+10-02 01:38:31.160 10460 10474 I TestRunner: started: b_registroDuplicadoTerminaEnUsuarioDuplicado(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:31.186 10460 10474 I TestRunner: finished: b_registroDuplicadoTerminaEnUsuarioDuplicado(com.cinemax.cliente.viewmodel.AuthViewModelTest)

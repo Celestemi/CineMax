@@ -1,0 +1,2 @@
+10-02 01:38:40.309 10460 10474 I TestRunner: started: i_seleccionarUnaButacaLibreActualizaElTotal(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:40.410 10460 10474 I TestRunner: finished: i_seleccionarUnaButacaLibreActualizaElTotal(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

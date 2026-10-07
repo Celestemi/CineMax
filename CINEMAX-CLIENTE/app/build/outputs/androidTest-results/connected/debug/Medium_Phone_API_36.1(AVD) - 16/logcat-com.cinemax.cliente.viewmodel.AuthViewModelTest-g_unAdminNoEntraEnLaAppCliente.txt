@@ -1,0 +1,2 @@
+10-02 01:38:31.122 10460 10474 I TestRunner: started: g_unAdminNoEntraEnLaAppCliente(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:31.147 10460 10474 I TestRunner: finished: g_unAdminNoEntraEnLaAppCliente(com.cinemax.cliente.viewmodel.AuthViewModelTest)

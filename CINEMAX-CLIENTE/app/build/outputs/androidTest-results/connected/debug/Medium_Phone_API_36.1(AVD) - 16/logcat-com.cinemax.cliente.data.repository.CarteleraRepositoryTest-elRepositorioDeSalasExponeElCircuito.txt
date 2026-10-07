@@ -1,0 +1,2 @@
+10-02 01:36:07.110 10460 10474 I TestRunner: started: elRepositorioDeSalasExponeElCircuito(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:07.233 10460 10474 I TestRunner: finished: elRepositorioDeSalasExponeElCircuito(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

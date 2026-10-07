@@ -1,0 +1,2 @@
+10-02 01:38:36.131 10460 10474 I TestRunner: started: laReservaConfirmadaApareceConSuCodigoYSuTotalReales(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)
+10-02 01:38:36.271 10460 10474 I TestRunner: finished: laReservaConfirmadaApareceConSuCodigoYSuTotalReales(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)

@@ -1,0 +1,2 @@
+10-02 01:36:05.405 10460 10474 I TestRunner: started: c_losUsuariosDemoDelSeedSiguenSirviendoParaEntrar(com.cinemax.cliente.data.repository.AuthRepositoryTest)
+10-02 01:36:05.441 10460 10474 I TestRunner: finished: c_losUsuariosDemoDelSeedSiguenSirviendoParaEntrar(com.cinemax.cliente.data.repository.AuthRepositoryTest)

@@ -1,0 +1,5 @@
+10-02 01:38:30.514 10460 10474 I TestRunner: started: elEstadoInicialEsInicialYCargandoDespuesDeIntentar(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:30.522  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:30.523  1189  1189 D RecentsView: onTaskRemoved: 241, not handling task stack changes
+10-02 01:38:30.524  1189  1189 D RecentsView: onTaskRemoved: 241, not handling task stack changes
+10-02 01:38:30.587 10460 10474 I TestRunner: finished: elEstadoInicialEsInicialYCargandoDespuesDeIntentar(com.cinemax.cliente.viewmodel.AuthViewModelTest)

@@ -1,0 +1,2 @@
+10-02 01:36:07.750 10460 10474 I TestRunner: started: lasSedesDisponiblesSonTodasLasDelCircuito(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:07.839 10460 10474 I TestRunner: finished: lasSedesDisponiblesSonTodasLasDelCircuito(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

@@ -1,0 +1,5 @@
+10-02 01:38:40.616 10460 10474 I TestRunner: started: j_unaButacaQueSeOcupaDesapareceDeLaSeleccion(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:40.671   772   929 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+10-02 01:38:40.671   772   929 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+10-02 01:38:40.671   772   929 D InetDiagMessage: Destroyed live tcp sockets for uids={10241} in 1ms
+10-02 01:38:40.720 10460 10474 I TestRunner: finished: j_unaButacaQueSeOcupaDesapareceDeLaSeleccion(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

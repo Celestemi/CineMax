@@ -1,0 +1,2 @@
+10-02 01:36:13.152 10460 10474 I TestRunner: started: g_unaFuncionInexistenteNoTieneSala(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:13.279 10460 10474 I TestRunner: finished: g_unaFuncionInexistenteNoTieneSala(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

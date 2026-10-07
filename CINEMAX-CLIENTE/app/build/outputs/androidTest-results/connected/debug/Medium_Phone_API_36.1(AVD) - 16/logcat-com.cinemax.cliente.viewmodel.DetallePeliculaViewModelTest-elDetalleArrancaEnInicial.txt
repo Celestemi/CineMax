@@ -1,0 +1,2 @@
+10-02 01:38:35.853 10460 10474 I TestRunner: started: elDetalleArrancaEnInicial(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)
+10-02 01:38:35.960 10460 10474 I TestRunner: finished: elDetalleArrancaEnInicial(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)

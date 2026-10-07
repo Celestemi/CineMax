@@ -1,0 +1,3 @@
+10-02 01:36:09.872 10460 10474 I TestRunner: started: n_unaFuncionInactivaSeRechaza(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:09.972 10460 10489 D ProfileInstaller: Installing profile for com.cinemax.cliente
+10-02 01:36:09.973 10460 10474 I TestRunner: finished: n_unaFuncionInactivaSeRechaza(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

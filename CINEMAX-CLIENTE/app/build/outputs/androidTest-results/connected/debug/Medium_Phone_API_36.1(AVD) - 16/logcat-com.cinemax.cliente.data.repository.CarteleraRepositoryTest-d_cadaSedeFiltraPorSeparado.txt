@@ -1,0 +1,2 @@
+10-02 01:36:06.225 10460 10474 I TestRunner: started: d_cadaSedeFiltraPorSeparado(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:06.349 10460 10474 I TestRunner: finished: d_cadaSedeFiltraPorSeparado(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

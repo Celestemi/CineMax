@@ -1,0 +1,2 @@
+10-02 01:36:11.983 10460 10474 I TestRunner: started: laMismaFilaExisteComoButacasDistintasEnSalasDistintas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:12.061 10460 10474 I TestRunner: finished: laMismaFilaExisteComoButacasDistintasEnSalasDistintas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

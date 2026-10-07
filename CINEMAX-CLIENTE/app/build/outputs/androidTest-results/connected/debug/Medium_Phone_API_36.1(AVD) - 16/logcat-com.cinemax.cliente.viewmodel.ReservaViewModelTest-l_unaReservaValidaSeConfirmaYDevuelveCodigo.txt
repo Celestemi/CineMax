@@ -1,0 +1,4 @@
+10-02 01:38:38.620 10460 10474 I TestRunner: started: l_unaReservaValidaSeConfirmaYDevuelveCodigo(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:38.622  2733  2733 I Finsky:background: [2] RF: onProgress request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=1556480/1632006 pkg_bytes=7188445/46801944
+10-02 01:38:38.624  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:38.758 10460 10474 I TestRunner: finished: l_unaReservaValidaSeConfirmaYDevuelveCodigo(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

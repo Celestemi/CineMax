@@ -1,0 +1,4 @@
+10-02 01:38:38.759 10460 10474 I TestRunner: started: limpiarVuelveAlEstadoInicial(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:38.792   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:38:38.856 11042 11042 W libbinder.BackendUnifiedServiceManager: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: package
+10-02 01:38:38.869 10460 10474 I TestRunner: finished: limpiarVuelveAlEstadoInicial(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

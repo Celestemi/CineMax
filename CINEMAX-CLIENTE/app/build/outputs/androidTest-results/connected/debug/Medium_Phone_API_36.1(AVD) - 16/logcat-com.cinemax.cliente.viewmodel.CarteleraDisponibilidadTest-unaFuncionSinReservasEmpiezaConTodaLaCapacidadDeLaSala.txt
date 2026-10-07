@@ -1,0 +1,16 @@
+10-02 01:38:32.085 10460 10474 I TestRunner: started: unaFuncionSinReservasEmpiezaConTodaLaCapacidadDeLaSala(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)
+10-02 01:38:32.191  2733  2905 I Finsky:background: [51] SCH: Resuming system job 10960 from hub.
+10-02 01:38:32.192  2733  2921 I Finsky:background: [58] SCH: Resuming system job 10960 from hub.
+10-02 01:38:32.193  2733 10822 I Finsky:background: [398] SCH: Satisfied jobs for 10960 are: 3-92, 40-9998
+10-02 01:38:32.194  2733 10822 I Finsky:background: [398] SCH: Satisfied jobs for 10960 are: 3-92, 40-9998
+10-02 01:38:32.254  2733  2903 I Finsky:background: [49] SCH: Resuming system job 10960 from hub.
+10-02 01:38:32.256  2733  2921 I Finsky:background: [58] SCH: Resuming system job 10960 from hub.
+10-02 01:38:32.257  2733 10822 I Finsky:background: [398] SCH: Satisfied jobs for 10960 are: 3-92, 40-9998, 40-9999
+10-02 01:38:32.258  2733 10823 I Finsky:background: [399] SCH: Job 40-9999 starting
+10-02 01:38:32.259  2733 10822 I Finsky:background: [398] SCH: Satisfied jobs for 10960 are: 3-92, 40-9998, 40-9999
+10-02 01:38:32.260  2733  2733 I Finsky:background: [2] WM::SCH: Logging work start for 40-9999
+10-02 01:38:32.262  2733  2733 I Finsky:background: [2] Running RetryDownloadJob
+10-02 01:38:32.273  2733 10579 I Finsky:background: [374] DS: downloadState filtering results: {72=false, 73=false, 74=false, 75=false, 76=false, 77=false, 78=false, 79=false, 80=false, 81=false, 82=false, 83=false, 84=false, 85=false, 86=false, 87=false, 88=false, 89=false, 90=false, 91=false, 92=false, 93=false, 94=false, 95=false, 96=false, 97=false, 98=false, 99=false, 100=false, 101=false, 102=false, 103=false, 104=false, 105=false, 106=false, 107=false, 108=false, 109=false, 110=false, 111=false, 112=false, 113=false, 114=false, 115=false, 116=false, 117=false, 118=false, 119=false, 120=false, 121=false, 122=false, 123=false, 124=false, 125=false, 126=false, 127=false, 128=false, 129=false, 130=false, 131=false, 132=false, 133=false, 134=false, 135=false, 136=false, 137=false, 139=false, 140=false, 141=false, 142=false, 143=false, 144=false, 145=false, 146=false, 147=true, 148=true, 149=true, 150=true, 151=false}
+10-02 01:38:32.276  2733 10579 E Finsky:background: [374] DS: Wrong state provided to update on retry due : <150:RUNNING:6%[6%]>
+10-02 01:38:32.319  2733 10579 I Finsky:background: [374] DS: enqueue with parallel downloads (request_id=147,groupId=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A)
+10-02 01:38:32.324 10460 10474 I TestRunner: finished: unaFuncionSinReservasEmpiezaConTodaLaCapacidadDeLaSala(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)

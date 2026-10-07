@@ -1,0 +1,2 @@
+10-02 01:38:31.300 10460 10474 I TestRunner: started: laDisponibilidadInicialReflejaLoQueElSeedYaVendi(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)
+10-02 01:38:31.506 10460 10474 I TestRunner: finished: laDisponibilidadInicialReflejaLoQueElSeedYaVendi(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)

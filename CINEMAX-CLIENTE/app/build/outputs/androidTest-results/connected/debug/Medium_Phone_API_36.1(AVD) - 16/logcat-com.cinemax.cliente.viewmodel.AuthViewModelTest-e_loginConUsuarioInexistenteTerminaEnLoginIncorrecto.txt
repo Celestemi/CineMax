@@ -1,0 +1,16 @@
+10-02 01:38:30.864 10460 10474 I TestRunner: started: e_loginConUsuarioInexistenteTerminaEnLoginIncorrecto(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:30.893  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <150:RUNNING:6%[6%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:30.893  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:30.893  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:30.893  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:30.893  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=150
+10-02 01:38:30.893  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=150, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 2113520/30772447
+10-02 01:38:30.894  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <150:RUNNING:6%[6%]>
+10-02 01:38:30.896  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=e0b4f8ac-31da-4597-a3d4-0059d66701a3 request_id=150 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:30.899  2733  2918 I Finsky:background: [56] DSC: reviveDownload(150)
+10-02 01:38:30.900  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=150)
+10-02 01:38:30.900  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=150, files_to_download=[com.google.android.gm.apk(size:30772447)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=2113520, total_bytes=30772447, retry[count=0, next_retry=n/a])
+10-02 01:38:30.902  2733  2733 I Finsky:background: [2] RF: onProgress request_id=150, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=2113520/30772447 pkg_bytes=5152591/46801944
+10-02 01:38:30.904  2733  2733 I Finsky:background: [2] Updated time lastBroadcast=2026-10-02T01:38:28.891Z current=2026-10-02T01:38:30.904Z
+10-02 01:38:30.904  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 5381951 / 46801944 / 0.114994
+10-02 01:38:30.904 10460 10474 I TestRunner: finished: e_loginConUsuarioInexistenteTerminaEnLoginIncorrecto(com.cinemax.cliente.viewmodel.AuthViewModelTest)

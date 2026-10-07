@@ -1,0 +1,2 @@
+10-02 01:36:08.360 10460 10474 I TestRunner: started: lasFuncionesDeUnaSalaYFechaSeLeenSeparadas(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:08.460 10460 10474 I TestRunner: finished: lasFuncionesDeUnaSalaYFechaSeLeenSeparadas(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

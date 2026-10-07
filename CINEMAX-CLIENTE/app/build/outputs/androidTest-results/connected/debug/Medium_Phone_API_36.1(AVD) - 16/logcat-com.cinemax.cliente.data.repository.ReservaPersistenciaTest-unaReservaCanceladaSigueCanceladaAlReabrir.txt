@@ -1,0 +1,2 @@
+10-02 01:36:09.076 10460 10474 I TestRunner: started: unaReservaCanceladaSigueCanceladaAlReabrir(com.cinemax.cliente.data.repository.ReservaPersistenciaTest)
+10-02 01:36:09.292 10460 10474 I TestRunner: finished: unaReservaCanceladaSigueCanceladaAlReabrir(com.cinemax.cliente.data.repository.ReservaPersistenciaTest)

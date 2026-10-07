@@ -1,0 +1,2 @@
+10-02 01:36:04.638 10460 10474 I TestRunner: started: useAppContext(com.cinemax.cliente.ExampleInstrumentedTest)
+10-02 01:36:04.644 10460 10474 I TestRunner: finished: useAppContext(com.cinemax.cliente.ExampleInstrumentedTest)

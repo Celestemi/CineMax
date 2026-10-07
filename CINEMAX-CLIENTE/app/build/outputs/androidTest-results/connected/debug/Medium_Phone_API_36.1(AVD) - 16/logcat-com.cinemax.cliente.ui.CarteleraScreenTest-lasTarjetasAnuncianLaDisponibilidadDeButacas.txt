@@ -1,0 +1,238 @@
+10-02 01:36:30.576 10460 10474 I TestRunner: started: lasTarjetasAnuncianLaDisponibilidadDeButacas(com.cinemax.cliente.ui.CarteleraScreenTest)
+10-02 01:36:30.579  1189  1189 D RecentsView: onTaskRemoved: 169, not handling task stack changes
+10-02 01:36:30.580  1189  1189 D RecentsView: onTaskRemoved: 169, not handling task stack changes
+10-02 01:36:30.590 10460 10474 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@fe36b5]
+10-02 01:36:30.594  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:30.595 10460 10474 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-02 01:36:30.615   772  1558 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cbc3aaef does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:36:30.627   613   626 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:36:30.632  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+10-02 01:36:30.632  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+10-02 01:36:30.633  1189  1189 W SplitSelectStateCtor: Missing session instanceIds
+10-02 01:36:30.633  1189  1189 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-02 01:36:30.649  1189  1189 D RecentsView: onTaskDisplayChanged: 171, new displayId = 0
+10-02 01:36:30.654  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:30.657 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@fc7e08f in: PRE_ON_CREATE
+10-02 01:36:30.657 10460 10460 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-02 01:36:30.658  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:30.661 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@fc7e08f in: CREATED
+10-02 01:36:30.661 10460 10460 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@fc7e08f
+10-02 01:36:30.662 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@fc7e08f in: STARTED
+10-02 01:36:30.662 10460 10460 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@fc7e08f
+10-02 01:36:30.666 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@fc7e08f in: RESUMED
+10-02 01:36:30.667 10460 10460 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@fc7e08f
+10-02 01:36:30.673  1189  1189 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+10-02 01:36:30.683 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@ee842d9
+10-02 01:36:30.684 10460 10460 D VRI[ComponentActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:36:30.776 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:36:30.798  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:30.807  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:30.808  1189  1189 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-02 01:36:30.810   772   796 I ActivityTaskManager: Displayed com.cinemax.cliente/androidx.activity.ComponentActivity for user 0: +187ms
+10-02 01:36:30.838 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:36:30.840   772   850 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed App frame:UNKNOWN: 3, 213810, 34462625, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:UNKNOWN: 3, 213810, 34462625, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed App frame:UNKNOWN: 3, 213844, 34982202, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:UNKNOWN: 3, 213844, 34982202, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed App frame:UNKNOWN: 3, 213866, 50877859, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:UNKNOWN: 3, 213866, 50877859, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 213895, 51836817, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 213939, 28427181, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 213961, 34589826, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed App frame:UNKNOWN: 3, 213997, 36243379, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:UNKNOWN: 3, 213997, 36243379, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 214048, 24441642, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 214063, 9191431, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed App frame:JANK_APPLICATION, 214085, 100331680, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 214100, 117536312, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:30.844   772   890 I ImeTracker: com.cinemax.cliente:1b70812d: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:36:30.845 10460 10460 I ImeTracker: com.cinemax.cliente:1b70812d: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:36:30.846 10503 10503 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:36:30.858  1189  1189 D RecentsView: onTaskRemoved: 170, not handling task stack changes
+10-02 01:36:30.858  1189  1189 D RecentsView: onTaskRemoved: 170, not handling task stack changes
+10-02 01:36:30.858  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:36:30.859  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:36:30.859  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:36:30.860  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:36:30.879  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:30.879   772   850 I ImeTracker: system_server:eb4b3830: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:36:30.881   772   799 I ImeTracker: system_server:eb4b3830: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:36:30.921  1189  1204 W System  : A resource failed to call release.
+10-02 01:36:30.921  1189  1204 W System  : A resource failed to call release.
+10-02 01:36:30.921  1189  1204 W System  : A resource failed to call release.
+10-02 01:36:31.107  1189  1189 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:36:31.107  1025  1349 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:36:31.117  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-02 01:36:31.120   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:36:31.139  1189  1189 D BaseActivity: Launcher flags updated: [] -[state_started]
+10-02 01:36:31.139  1189  1189 D BaseDepthController: setSurface:
+10-02 01:36:31.139  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:36:31.139  1189  1189 D BaseDepthController: 	mBaseSurface: null
+10-02 01:36:31.139  1189  1189 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-02 01:36:31.140  1189  1189 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+10-02 01:36:31.140  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:6)
+10-02 01:36:31.140  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:2)
+10-02 01:36:31.140  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:32)
+10-02 01:36:31.140  1189  1189 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+10-02 01:36:31.140  1189  1189 D ActivityContext: hideKeyboard
+10-02 01:36:31.140  1189  1189 D ActivityContext: isImeShown: false
+10-02 01:36:31.141  1189  1189 D StatsLog: LAUNCHER_ONSTOP
+10-02 01:36:31.142  1189  1189 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-02 01:36:31.179  1025  1119 W FrameTracker: Missed App frame:UNKNOWN: 3, 214299, 34980192, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.179  1025  1119 W FrameTracker: Missed SF frame:UNKNOWN: 3, 214299, 34980192, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.179  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 214328, 34396446, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.179  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 214371, 34670062, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.179  1025  1119 W FrameTracker: Missed App frame:UNKNOWN: 3, 214407, 35556048, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.180  1025  1119 W FrameTracker: Missed SF frame:UNKNOWN: 3, 214407, 35556048, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.180  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 214450, 34713370, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.180  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 214472, 27702938, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.180  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 214508, 29063365, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.180  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 214537, 34383294, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:36:31.906   772  1779 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cd78838e does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:36:31.909   613  1294 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:36:31.915  1189  1189 D RecentsView: onTaskDisplayChanged: 172, new displayId = 0
+10-02 01:36:31.916 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@fc7e08f in: PAUSED
+10-02 01:36:31.916 10460 10460 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@fc7e08f
+10-02 01:36:31.921  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:31.923 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+10-02 01:36:31.923 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+10-02 01:36:31.935  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:31.940 10503 10519 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-02 01:36:31.951 10503 10519 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-02 01:36:31.959  2733  2908 I Finsky:background: [52] IV2: Finishing up unsuccessful install: 25, installState: 5
+10-02 01:36:32.020 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@84da4e3
+10-02 01:36:32.021 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:36:32.026  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:32.060  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:32.060  2733  2899 I Finsky:background: [48] IV2::TM: canceling tid: 1000000025
+10-02 01:36:32.083  2733  2899 I Finsky:background: [48] Submitter: cancel permitted.
+10-02 01:36:32.088  2733  2908 I Finsky:background: [52] IV2: Task canceled: tid:1000000025.
+10-02 01:36:32.093  2733  2908 I Finsky:background: [52] MF: cancel no-op.
+10-02 01:36:32.094  2733  2908 I Finsky:background: [52] AV: cancel no-op.
+10-02 01:36:32.105  2733  2908 I Finsky:background: [52] Submitter: cancel no-op.
+10-02 01:36:32.111   772   796 I ActivityTaskManager: Displayed com.cinemax.cliente.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +205ms
+10-02 01:36:32.116  2733  2905 I Finsky:background: [51] RF: Cancelling resource_request_id=21575fc2-2acf-4f10-8340-65079bcf0ea9 pkg_id=com.google.android.youtube, artifact_id=config.x86_64, isid=HyHpVN7WQuqHHKPjx-6xoA
+10-02 01:36:32.125  2733  2904 I Finsky:background: [50] RM: cancel resource_request=21575fc2-2acf-4f10-8340-65079bcf0ea9 request_id=138 pkg_id=com.google.android.youtube artifact_id=config.x86_64 isid=HyHpVN7WQuqHHKPjx-6xoA
+10-02 01:36:32.127  2733  2904 I Finsky:background: [50] DSC: cancel(138)
+10-02 01:36:32.139  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:32.143  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=21575fc2-2acf-4f10-8340-65079bcf0ea9 request_id=138 pkg_id=com.google.android.youtube artifact_id=config.x86_64 isid=HyHpVN7WQuqHHKPjx-6xoA
+10-02 01:36:32.143  2733  2918 I Finsky:background: [56] DSC: reviveDownload(138)
+10-02 01:36:32.143  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=138)
+10-02 01:36:32.143  2733  2917 I Finsky:background: [55] DS: cancel(request_id=138)
+10-02 01:36:32.151   613  1294 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:36:32.159  1189  1189 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:36:32.159  1189  1189 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+10-02 01:36:32.159  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+10-02 01:36:32.162  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+10-02 01:36:32.162  1189  1189 D StatsLog: LAUNCHER_ONRESUME
+10-02 01:36:32.173  2733 10579 I Finsky:background: [374] DS: enqueue with parallel downloads (request_id=138,groupId=com.google.android.youtube:HyHpVN7WQuqHHKPjx-6xoA)
+10-02 01:36:32.175  2733 10579 I Finsky:background: [374] DS::CD: download(138)
+10-02 01:36:32.177  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <138:QUEUED with WAITING_FOR_START:73%[73%]> in group com.google.android.youtube:HyHpVN7WQuqHHKPjx-6xoA
+10-02 01:36:32.177  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:36:32.177  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:36:32.177  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:36:32.178  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=138
+10-02 01:36:32.183  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=138, pkg_id=com.google.android.youtube artifact_id=config.x86_64 reason=auto_update isid=HyHpVN7WQuqHHKPjx-6xoA, status_code=RESOURCE_STATUS_PENDING, legacy_status_code=190, size: 20250480/27736128
+10-02 01:36:32.183  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <138:QUEUED with WAITING_FOR_START:73%[73%]>
+10-02 01:36:32.183  2733 10579 I Finsky:background: [374] DS::ISM: Starting invisible download job
+10-02 01:36:32.185  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-02 01:36:32.191  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=21575fc2-2acf-4f10-8340-65079bcf0ea9 request_id=138 pkg_id=com.google.android.youtube artifact_id=config.x86_64 isid=HyHpVN7WQuqHHKPjx-6xoA
+10-02 01:36:32.191  2733  2918 I Finsky:background: [56] DSC: reviveDownload(138)
+10-02 01:36:32.192  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=138)
+10-02 01:36:32.192  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=138, files_to_download=[config.x86_64(size:27736128)], context[group_id=com.google.android.youtube:HyHpVN7WQuqHHKPjx-6xoA], display_data[invisible=true, title=YouTube], network_restrictions=UNMETERED_ONLY status=queued[1], bytes_downloaded=20250480, total_bytes=27736128, retry[count=1, next_retry=2026-10-02T01:25:13.864Z[GMT]])
+10-02 01:36:32.193  2733 10581 I Finsky:background: [376] SCH: Received scheduling request: Id: 40-9998, Constraints: [{ L: 0, D: 86400000, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+10-02 01:36:32.195  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=138, files_to_download=[config.x86_64(size:27736128)], context[group_id=com.google.android.youtube:HyHpVN7WQuqHHKPjx-6xoA], display_data[invisible=true, title=YouTube], network_restrictions=UNMETERED_ONLY status=canceled[1], bytes_downloaded=20250480, total_bytes=27736128, retry[count=1, next_retry=2026-10-02T01:25:13.864Z[GMT]])
+10-02 01:36:32.198  2733 10580 W Finsky:background: [375] DS: Attempted to update download state [requestId=138] in terminal state [statusCode=6]. Update ignored.
+10-02 01:36:32.198  1189  1247 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+10-02 01:36:32.200  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <138:CANCELED with CANCELED_THROUGH_SERVICE_API:73%[73%]> in group com.google.android.youtube:HyHpVN7WQuqHHKPjx-6xoA
+10-02 01:36:32.200  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:36:32.200  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:36:32.205  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:36:32.208  2733  2733 I Finsky:background: [2] RF: onCancel request_id=138, pkg_id=com.google.android.youtube artifact_id=config.x86_64 isid=HyHpVN7WQuqHHKPjx-6xoA artifact_bytes=20250480/27736128 pkg_bytes=48706808/56192456
+10-02 01:36:32.210  2733 10579 I Finsky:background: [374] RM: receive resource status onCancel download_request_id=138, pkg_id=com.google.android.youtube artifact_id=config.x86_64 reason=auto_update isid=HyHpVN7WQuqHHKPjx-6xoA, status_code=RESOURCE_STATUS_CANCELED, legacy_status_code=490, size: 20250480/27736128
+10-02 01:36:32.210  2733 10579 I Finsky:background: [374] RM: Skipping onCancel for already cancelled ResourceId for com.google.android.youtube
+10-02 01:36:32.211  2733  2903 I Finsky:background: [49] RM::SR: Artifacts will be not be retained for request 21575fc2-2acf-4f10-8340-65079bcf0ea9
+10-02 01:36:32.211  2733  2917 I Finsky:background: [55] RM: remove resources for request 21575fc2-2acf-4f10-8340-65079bcf0ea9
+10-02 01:36:32.212  1603  1942 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-02 01:36:32.212  1603  1942 I AiAiEcho: EchoTargets:
+10-02 01:36:32.212  1603  1942 I AiAiEcho: Filtered by AiAi flag check:
+10-02 01:36:32.212  1603  1942 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-02 01:36:32.212  1603  1942 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-02 01:36:32.218  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <138:CANCELED with CANCELED_THROUGH_SERVICE_API:73%[73%]>
+10-02 01:36:32.218  2733 10579 I Finsky:background: [374] DS::IDC: All invisible downloads are finished.
+10-02 01:36:32.218  2733 10579 I Finsky:background: [374] DS::ISM: Stopping invisible download job
+10-02 01:36:32.223  1603  1942 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-02 01:36:32.224  2733 10579 I Finsky:background: [374] DS: DS: onCancel(request_id=138, files_to_download=[config.x86_64(size:27736128)], context[group_id=com.google.android.youtube:HyHpVN7WQuqHHKPjx-6xoA], display_data[invisible=true, title=YouTube], network_restrictions=UNMETERED_ONLY status=canceled[1], bytes_downloaded=20250480, total_bytes=27736128, retry[count=1, next_retry=2026-10-02T01:25:13.864Z[GMT]])
+10-02 01:36:32.225  2733 10579 I Finsky:background: [374] DSC::L: Skipping updating listeners of <138:CANCELED with CANCELED_THROUGH_SERVICE_API:73%[73%]> because it's already done.
+10-02 01:36:32.225  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <138:CANCELED with CANCELED_THROUGH_SERVICE_API:73%[73%]>
+10-02 01:36:32.225  2733 10579 I Finsky:background: [374] DS::IDC: All invisible downloads are finished.
+10-02 01:36:32.225  2733 10579 I Finsky:background: [374] DS::ISM: Stopping invisible download job
+10-02 01:36:32.230  2733 10579 I Finsky:background: [374] DS::CD: Using Cronet.
+10-02 01:36:32.230  2733  2904 I Finsky:background: [50] RM: remove resource_request=21575fc2-2acf-4f10-8340-65079bcf0ea9 request_id=138 pkg_id=com.google.android.youtube artifact_id=config.x86_64 isid=HyHpVN7WQuqHHKPjx-6xoA
+10-02 01:36:32.231  2733  2904 I Finsky:background: [50] DSC: remove(138)
+10-02 01:36:32.235  1025  1349 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:36:32.235  1189  1189 D BaseDepthController: setSurface:
+10-02 01:36:32.235  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:36:32.235  1189  1189 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3171)/@0x5ee1042
+10-02 01:36:32.235  1189  1189 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3171)/@0x5ee1042 applyImmediately: false
+10-02 01:36:32.235  1189  1189 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{c12d8a9 V.ED..... .......D 0,0-1080,2400 #7f0a049d app:id/workspace}, com.android.launcher3.Hotseat{dbfee2e V.ED..... .......D 0,1905-1080,2400 #7f0a01ee app:id/hotseat}]
+10-02 01:36:32.237  2733  2904 I Finsky:background: [50] DS: remove(request_id=138)
+10-02 01:36:32.238  2733 10579 I Finsky:background: [374] DS: Current runningDownloadsCount: 0, queuedCount: 1
+10-02 01:36:32.238  2733 10579 I Finsky:background: [374] DS: Incremented runningDownloadsCount to: 1
+10-02 01:36:32.293  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:32.295  2733  2899 I Finsky:background: [48] IV2::TM: cleaning up tid: 1000000025
+10-02 01:36:32.297  2733  2899 I Finsky:background: [48] IV2:TM: cleaning up task. com.google.android.youtube[iid:25] [isid:HyHpVN7WQuqHHKPjx-6xoA] [tid: 1000000025]
+10-02 01:36:32.300  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:36:32.300  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:36:32.300  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:36:32.300  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:36:32.300  1189  1189 I SsBaseTemplateCard: Secondary card pane is null
+10-02 01:36:32.323  2733  2903 I Finsky:background: [49] RM: remove resources for request
+10-02 01:36:32.323  2733  2903 I Finsky:background: [49] RM: remove resources for request
+10-02 01:36:32.323  2733  2903 I Finsky:background: [49] RM: remove resources for request
+10-02 01:36:32.323  2733  2903 I Finsky:background: [49] RM: remove resources for request 21575fc2-2acf-4f10-8340-65079bcf0ea9
+10-02 01:36:32.323  2733  2903 I Finsky:background: [49] RM: remove resources for request
+10-02 01:36:32.324  2733  2918 E Finsky:background: [56] RM: no data for ID, not removing
+10-02 01:36:32.326  2733  2918 E Finsky:background: [56] RM: no data for ID, not removing
+10-02 01:36:32.326  2733  2918 E Finsky:background: [56] RM: no data for ID, not removing
+10-02 01:36:32.326  2733  2904 E Finsky:background: [50] RM: no data for ID, not removing
+10-02 01:36:32.326  2733  2917 E Finsky:background: [55] RM: no data for ID, not removing
+10-02 01:36:32.339   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:36:32.341  2733 10579 I Finsky:background: [374] DS: DS: onRemove(request_id=138, files_to_download=[config.x86_64(size:27736128)], context[group_id=com.google.android.youtube:HyHpVN7WQuqHHKPjx-6xoA], display_data[invisible=true, title=YouTube], network_restrictions=UNMETERED_ONLY status=canceled[1], bytes_downloaded=20250480, total_bytes=27736128, retry[count=1, next_retry=2026-10-02T01:25:13.864Z[GMT]])
+10-02 01:36:32.364 10460 10460 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:36:32.384  1189  1189 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+10-02 01:36:32.384  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:18)
+10-02 01:36:32.384  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:646)
+10-02 01:36:32.384  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:96)
+10-02 01:36:32.385  1189  1189 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+10-02 01:36:32.385  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:20)
+10-02 01:36:32.385  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:11)
+10-02 01:36:32.385  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:683)
+10-02 01:36:32.385  1189  1189 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+10-02 01:36:32.385  1189  1189 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+10-02 01:36:32.385  1189  1189 D b/311077782: LauncherAnimationRunner.setAnimation
+10-02 01:36:32.387  2733 10586 I Finsky:background: [379] DU: Stored data usage stats for package com.google.android.youtube; completed bytes: 20250480.
+10-02 01:36:32.392  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-02 01:36:32.395   772   890 I ImeTracker: com.google.android.apps.nexuslauncher:fa1d7e53: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:36:32.402  1189  1189 I ImeTracker: com.google.android.apps.nexuslauncher:fa1d7e53: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:36:32.411  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:36:32.412  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:36:32.412  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:36:32.413   772  2182 I ImeTracker: system_server:61c9c024: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:36:32.418   772   799 I ImeTracker: system_server:61c9c024: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:36:32.416 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@fc7e08f in: STOPPED
+10-02 01:36:32.418 10460 10460 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@fc7e08f
+10-02 01:36:32.421  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:36:32.485  2733 10593 I Finsky:background: [384] IQ: Using RuleBased RetryStrategyFactoryImpl.
+10-02 01:36:32.491  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.youtube, isid:HyHpVN7WQuqHHKPjx-6xoA] state:INSTALL_ERROR, status=INSTALL_ERROR, status_code=6583, reason=auto_update, tsc=PT1H18M1.397S, attempt=0
+10-02 01:36:32.508  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.youtube, isid: HyHpVN7WQuqHHKPjx-6xoA
+10-02 01:36:32.521  2733  2905 I Finsky:background: [51] RM::CM: Clearing artifacts for install of com.google.android.youtube
+10-02 01:36:32.524  2733  2921 W Finsky:background: [58] Failed to delete file: /data/user/0/com.android.vending/files/phonesky-resource-cache/com.google.android.youtube:1561299901
+10-02 01:36:32.542   772   849 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:36:32.562 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:36:32.562 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@fc7e08f in: DESTROYED
+10-02 01:36:32.562 10460 10460 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-02 01:36:32.567 10460 10460 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:36:32.575 10460 10474 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@fe36b5]
+10-02 01:36:32.588 10460 10474 I TestRunner: finished: lasTarjetasAnuncianLaDisponibilidadDeButacas(com.cinemax.cliente.ui.CarteleraScreenTest)

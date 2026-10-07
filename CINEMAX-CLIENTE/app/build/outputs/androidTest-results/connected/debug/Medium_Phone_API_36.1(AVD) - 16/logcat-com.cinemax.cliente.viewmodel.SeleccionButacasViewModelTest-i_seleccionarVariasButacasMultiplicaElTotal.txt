@@ -1,0 +1,2 @@
+10-02 01:38:41.264 10460 10474 I TestRunner: started: i_seleccionarVariasButacasMultiplicaElTotal(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:41.381 10460 10474 I TestRunner: finished: i_seleccionarVariasButacasMultiplicaElTotal(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

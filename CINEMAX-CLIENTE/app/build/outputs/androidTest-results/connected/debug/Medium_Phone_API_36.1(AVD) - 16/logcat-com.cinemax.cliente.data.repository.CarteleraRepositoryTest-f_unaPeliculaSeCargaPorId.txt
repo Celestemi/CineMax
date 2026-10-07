@@ -1,0 +1,2 @@
+10-02 01:36:06.001 10460 10474 I TestRunner: started: f_unaPeliculaSeCargaPorId(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:06.113 10460 10474 I TestRunner: finished: f_unaPeliculaSeCargaPorId(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

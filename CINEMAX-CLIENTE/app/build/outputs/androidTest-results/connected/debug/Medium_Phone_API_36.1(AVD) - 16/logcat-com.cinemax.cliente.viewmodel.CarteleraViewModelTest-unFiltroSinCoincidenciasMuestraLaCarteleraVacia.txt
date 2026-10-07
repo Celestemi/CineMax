@@ -1,0 +1,2 @@
+10-02 01:38:33.722 10460 10474 I TestRunner: started: unFiltroSinCoincidenciasMuestraLaCarteleraVacia(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)
+10-02 01:38:33.881 10460 10474 I TestRunner: finished: unFiltroSinCoincidenciasMuestraLaCarteleraVacia(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)

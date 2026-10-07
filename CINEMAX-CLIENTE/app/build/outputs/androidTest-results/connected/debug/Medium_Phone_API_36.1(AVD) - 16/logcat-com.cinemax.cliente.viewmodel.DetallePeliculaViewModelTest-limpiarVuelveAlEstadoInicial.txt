@@ -1,0 +1,2 @@
+10-02 01:38:35.464 10460 10474 I TestRunner: started: limpiarVuelveAlEstadoInicial(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)
+10-02 01:38:35.588 10460 10474 I TestRunner: finished: limpiarVuelveAlEstadoInicial(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)

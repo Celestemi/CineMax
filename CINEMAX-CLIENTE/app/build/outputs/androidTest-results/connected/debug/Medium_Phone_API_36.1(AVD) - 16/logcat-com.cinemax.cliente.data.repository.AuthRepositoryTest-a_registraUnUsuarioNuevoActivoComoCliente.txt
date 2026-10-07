@@ -1,0 +1,2 @@
+10-02 01:36:05.341 10460 10474 I TestRunner: started: a_registraUnUsuarioNuevoActivoComoCliente(com.cinemax.cliente.data.repository.AuthRepositoryTest)
+10-02 01:36:05.353 10460 10474 I TestRunner: finished: a_registraUnUsuarioNuevoActivoComoCliente(com.cinemax.cliente.data.repository.AuthRepositoryTest)

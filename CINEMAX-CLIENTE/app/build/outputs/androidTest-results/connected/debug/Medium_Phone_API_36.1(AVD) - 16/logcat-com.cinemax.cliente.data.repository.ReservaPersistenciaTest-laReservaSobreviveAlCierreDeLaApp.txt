@@ -1,0 +1,2 @@
+10-02 01:36:08.669 10460 10474 I TestRunner: started: laReservaSobreviveAlCierreDeLaApp(com.cinemax.cliente.data.repository.ReservaPersistenciaTest)
+10-02 01:36:08.816 10460 10474 I TestRunner: finished: laReservaSobreviveAlCierreDeLaApp(com.cinemax.cliente.data.repository.ReservaPersistenciaTest)

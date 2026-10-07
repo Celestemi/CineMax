@@ -1,0 +1,2 @@
+10-02 01:38:41.141 10460 10474 I TestRunner: started: i_deseleccionarRestaElButacaDelTotal(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:41.262 10460 10474 I TestRunner: finished: i_deseleccionarRestaElButacaDelTotal(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

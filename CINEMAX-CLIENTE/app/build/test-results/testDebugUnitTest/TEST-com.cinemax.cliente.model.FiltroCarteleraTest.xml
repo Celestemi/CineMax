@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinemax.cliente.model.FiltroCarteleraTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-02T01:35:45.498Z" hostname="DESKTOP-65CNQ55" time="0.002">
+  <properties/>
+  <testcase name="sinFiltrosNoTieneNingunCriterio" classname="com.cinemax.cliente.model.FiltroCarteleraTest" time="0.0"/>
+  <testcase name="normalizadoConvierteLosTextosVaciosEnSinFiltro" classname="com.cinemax.cliente.model.FiltroCarteleraTest" time="0.0"/>
+  <testcase name="laCombinacionCompletaExigeLosTresCriterios" classname="com.cinemax.cliente.model.FiltroCarteleraTest" time="0.0"/>
+  <testcase name="unSoloCriterioCuentaComoFiltro" classname="com.cinemax.cliente.model.FiltroCarteleraTest" time="0.0"/>
+  <testcase name="normalizadoEsIdempotente" classname="com.cinemax.cliente.model.FiltroCarteleraTest" time="0.0"/>
+  <testcase name="dosFiltrosDistintosNoSonIguales" classname="com.cinemax.cliente.model.FiltroCarteleraTest" time="0.0"/>
+  <testcase name="normalizadoIgnoraUnIdDeSedeNoPositivo" classname="com.cinemax.cliente.model.FiltroCarteleraTest" time="0.0"/>
+  <testcase name="normalizadoQuitaLosEspaciosSobrantes" classname="com.cinemax.cliente.model.FiltroCarteleraTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

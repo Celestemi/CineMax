@@ -1,0 +1,59 @@
+10-02 01:38:37.787 10460 10474 I TestRunner: started: laCotizacionUsaLaFechaDelRelojInyectado(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:37.959  2733 11005 E Finsky:background: [417] CronetDownloader: onFailed
+10-02 01:38:37.959  2733 11005 E Finsky:background: org.chromium.net.impl.AndroidNetworkExceptionWrapper: Exception in CronetUrlRequest: net::ERR_CONTENT_LENGTH_MISMATCH, ErrorCode=11, InternalErrorCode=-354, Retryable=false
+10-02 01:38:37.959  2733 11005 E Finsky:background: 	at android.net.connectivity.org.chromium.net.impl.CronetUrlRequest.onError(CronetUrlRequest.java:798)
+10-02 01:38:37.959  2733 11005 E Finsky:background: 	Suppressed: android.net.http.NetworkExceptionWrapper: Exception in CronetUrlRequest: net::ERR_CONTENT_LENGTH_MISMATCH, ErrorCode=11, InternalErrorCode=-354, Retryable=false
+10-02 01:38:37.959  2733 11005 E Finsky:background: 		at android.net.http.CronetExceptionTranslationUtils.translateException(CronetExceptionTranslationUtils.java:45)
+10-02 01:38:37.959  2733 11005 E Finsky:background: 		at android.net.http.UrlRequestCallbackWrapper.onFailed(UrlRequestCallbackWrapper.java:104)
+10-02 01:38:37.959  2733 11005 E Finsky:background: 		at android.net.connectivity.org.chromium.net.impl.VersionSafeCallbacks$UrlRequestCallback.onFailed(VersionSafeCallbacks.java:65)
+10-02 01:38:37.959  2733 11005 E Finsky:background: 		at android.net.connectivity.org.chromium.net.impl.CronetUrlRequest$8.run(CronetUrlRequest.java:934)
+10-02 01:38:37.959  2733 11005 E Finsky:background: 		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+10-02 01:38:37.959  2733 11005 E Finsky:background: 		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+10-02 01:38:37.959  2733 11005 E Finsky:background: 		at ausy.run(PG:465)
+10-02 01:38:37.959  2733 11005 E Finsky:background: 		at java.lang.Thread.run(Thread.java:1563)
+10-02 01:38:37.959  2733 11005 E Finsky:background: 	Caused by: android.net.connectivity.org.chromium.net.impl.NetworkExceptionImpl: Exception in CronetUrlRequest: net::ERR_CONTENT_LENGTH_MISMATCH, ErrorCode=11, InternalErrorCode=-354, Retryable=false
+10-02 01:38:37.959  2733 11005 E Finsky:background: 		at android.net.connectivity.org.chromium.net.impl.CronetUrlRequest.onError(CronetUrlRequest.java:798)
+10-02 01:38:37.959  2733 11005 I Finsky:background: [417] DS: Decremented runningDownloadsCount to: 2
+10-02 01:38:37.959  2733 11005 I Finsky:background: [417] DS: Current runningDownloadsCount: 2, queuedCount: 0
+10-02 01:38:37.964  2733 10579 E Finsky:background: [374] DS::CD: Retrying download <149:RUNNING:59%[59%]> after 6000 millis. Already tried 1 times.
+10-02 01:38:37.964  2733 10579 E Finsky:background: com.google.android.finsky.downloadservicecommon.DownloadServiceException: Download Service Error: HTTP_DATA_ERROR (5)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at xbs.a(PG:170)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at cjbg.onFailed(PG:14)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at android.net.http.UrlRequestCallbackWrapper.onFailed(UrlRequestCallbackWrapper.java:105)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at android.net.connectivity.org.chromium.net.impl.VersionSafeCallbacks$UrlRequestCallback.onFailed(VersionSafeCallbacks.java:65)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at android.net.connectivity.org.chromium.net.impl.CronetUrlRequest$8.run(CronetUrlRequest.java:934)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at ausy.run(PG:465)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at java.lang.Thread.run(Thread.java:1563)
+10-02 01:38:37.964  2733 10579 E Finsky:background: Caused by: org.chromium.net.impl.AndroidNetworkExceptionWrapper: Exception in CronetUrlRequest: net::ERR_CONTENT_LENGTH_MISMATCH, ErrorCode=11, InternalErrorCode=-354, Retryable=false
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	at android.net.connectivity.org.chromium.net.impl.CronetUrlRequest.onError(CronetUrlRequest.java:798)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	Suppressed: android.net.http.NetworkExceptionWrapper: Exception in CronetUrlRequest: net::ERR_CONTENT_LENGTH_MISMATCH, ErrorCode=11, InternalErrorCode=-354, Retryable=false
+10-02 01:38:37.964  2733 10579 E Finsky:background: 		at android.net.http.CronetExceptionTranslationUtils.translateException(CronetExceptionTranslationUtils.java:45)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 		at android.net.http.UrlRequestCallbackWrapper.onFailed(UrlRequestCallbackWrapper.java:104)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 		at android.net.connectivity.org.chromium.net.impl.VersionSafeCallbacks$UrlRequestCallback.onFailed(VersionSafeCallbacks.java:65)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 		at android.net.connectivity.org.chromium.net.impl.CronetUrlRequest$8.run(CronetUrlRequest.java:934)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 		at ausy.run(PG:465)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 		at java.lang.Thread.run(Thread.java:1563)
+10-02 01:38:37.964  2733 10579 E Finsky:background: 	Caused by: android.net.connectivity.org.chromium.net.impl.NetworkExceptionImpl: Exception in CronetUrlRequest: net::ERR_CONTENT_LENGTH_MISMATCH, ErrorCode=11, InternalErrorCode=-354, Retryable=false
+10-02 01:38:37.964  2733 10579 E Finsky:background: 		at android.net.connectivity.org.chromium.net.impl.CronetUrlRequest.onError(CronetUrlRequest.java:798)
+10-02 01:38:37.965  2733 10579 I Finsky:background: [374] DS: Queuing download (request id: 149) for retry
+10-02 01:38:37.979  2733 10579 I Finsky:background: [374] DS: Scheduling retry after 5986 milliseconds.
+10-02 01:38:37.979  2733 10579 I Finsky:background: [374] DS::ISM: Scheduling download retry; job latency: PT5.986S
+10-02 01:38:37.980  2733 10579 I Finsky:background: [374] SCH: Received scheduling request: Id: 40-9999, Constraints: [{ L: 5986, D: 86405986, C: CHARGING_NONE, I: IDLE_NONE, N: NET_NONE, B: BATTERY_ANY }]
+10-02 01:38:37.980  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <149:QUEUED with WAITING_FOR_RETRY:95%[95%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:37.980  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:37.980  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:37.980  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:37.980  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=149
+10-02 01:38:37.981  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_PENDING, legacy_status_code=194, size: 1556480/1632006
+10-02 01:38:37.981  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <149:QUEUED with WAITING_FOR_RETRY:95%[95%]>
+10-02 01:38:37.984  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=bab213b6-9560-4dab-a474-dd723a57af3d request_id=149 pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:37.986  2733  2918 I Finsky:background: [56] DSC: reviveDownload(149)
+10-02 01:38:37.986  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=149)
+10-02 01:38:37.987  2733 10579 I Finsky:background: [374] DS: Scheduling retry after 5978 milliseconds.
+10-02 01:38:37.987  2733 10579 I Finsky:background: [374] DS::ISM: Scheduling download retry; job latency: PT5.978S
+10-02 01:38:37.987  2733 10579 I Finsky:background: [374] SCH: Received scheduling request: Id: 40-9999, Constraints: [{ L: 5978, D: 86405978, C: CHARGING_NONE, I: IDLE_NONE, N: NET_NONE, B: BATTERY_ANY }]
+10-02 01:38:37.995 10460 10474 I TestRunner: finished: laCotizacionUsaLaFechaDelRelojInyectado(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

@@ -1,0 +1,2 @@
+10-02 01:36:09.977 10460 10474 I TestRunner: started: l_unaReservaNoOcupaLasButacasDeOtraFuncion(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:10.071 10460 10474 I TestRunner: finished: l_unaReservaNoOcupaLasButacasDeOtraFuncion(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

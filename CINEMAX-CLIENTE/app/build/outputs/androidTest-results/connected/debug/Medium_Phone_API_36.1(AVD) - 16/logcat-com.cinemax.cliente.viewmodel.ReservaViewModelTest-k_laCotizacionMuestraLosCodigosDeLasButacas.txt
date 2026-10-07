@@ -1,0 +1,2 @@
+10-02 01:38:38.291 10460 10474 I TestRunner: started: k_laCotizacionMuestraLosCodigosDeLasButacas(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:38.437 10460 10474 I TestRunner: finished: k_laCotizacionMuestraLosCodigosDeLasButacas(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

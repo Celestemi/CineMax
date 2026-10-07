@@ -1,0 +1,2 @@
+10-02 01:38:33.573 10460 10474 I TestRunner: started: unaFuncionInactivaDesapareceDeLaCarteleraEnVivo(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)
+10-02 01:38:33.718 10460 10474 I TestRunner: finished: unaFuncionInactivaDesapareceDeLaCarteleraEnVivo(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)

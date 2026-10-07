@@ -1,0 +1,2 @@
+10-02 01:36:08.059 10460 10474 I TestRunner: started: c_unaFechaSinProgramacionDevuelveListaVacia(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:08.156 10460 10474 I TestRunner: finished: c_unaFechaSinProgramacionDevuelveListaVacia(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

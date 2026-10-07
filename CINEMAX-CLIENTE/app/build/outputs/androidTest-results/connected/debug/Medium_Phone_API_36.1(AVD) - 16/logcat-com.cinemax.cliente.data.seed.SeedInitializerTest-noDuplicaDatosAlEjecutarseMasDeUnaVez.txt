@@ -1,0 +1,2 @@
+10-02 01:36:13.908 10460 10474 I TestRunner: started: noDuplicaDatosAlEjecutarseMasDeUnaVez(com.cinemax.cliente.data.seed.SeedInitializerTest)
+10-02 01:36:14.030 10460 10474 I TestRunner: finished: noDuplicaDatosAlEjecutarseMasDeUnaVez(com.cinemax.cliente.data.seed.SeedInitializerTest)

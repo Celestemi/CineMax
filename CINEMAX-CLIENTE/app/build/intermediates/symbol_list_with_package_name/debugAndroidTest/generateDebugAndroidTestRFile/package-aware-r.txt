@@ -1,0 +1,1 @@
+com.cinemax.cliente.test

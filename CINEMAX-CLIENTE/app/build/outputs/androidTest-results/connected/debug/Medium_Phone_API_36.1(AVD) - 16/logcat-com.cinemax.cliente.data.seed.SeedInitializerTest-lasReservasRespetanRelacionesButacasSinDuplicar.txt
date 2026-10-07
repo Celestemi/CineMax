@@ -1,0 +1,2 @@
+10-02 01:36:14.322 10460 10474 I TestRunner: started: lasReservasRespetanRelacionesButacasSinDuplicar(com.cinemax.cliente.data.seed.SeedInitializerTest)
+10-02 01:36:14.442 10460 10474 I TestRunner: finished: lasReservasRespetanRelacionesButacasSinDuplicar(com.cinemax.cliente.data.seed.SeedInitializerTest)

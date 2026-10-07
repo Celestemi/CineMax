@@ -1,0 +1,2 @@
+10-02 01:36:12.156 10460 10474 I TestRunner: started: g_lasButacasVienenOrdenadasPorFilaYNumero(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:12.242 10460 10474 I TestRunner: finished: g_lasButacasVienenOrdenadasPorFilaYNumero(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

@@ -1,0 +1,2 @@
+10-02 01:36:06.115 10460 10474 I TestRunner: started: e_unCriterioQueNoEncajaVaciaLaCombinacion(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:06.223 10460 10474 I TestRunner: finished: e_unCriterioQueNoEncajaVaciaLaCombinacion(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

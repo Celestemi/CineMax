@@ -1,0 +1,2 @@
+10-02 01:36:04.817 10460 10474 I TestRunner: started: h_unaCuentaRegistradaNoSeBorraAlVolverASembrar(com.cinemax.cliente.data.repository.AuthPersistenceTest)
+10-02 01:36:04.866 10460 10474 I TestRunner: finished: h_unaCuentaRegistradaNoSeBorraAlVolverASembrar(com.cinemax.cliente.data.repository.AuthPersistenceTest)

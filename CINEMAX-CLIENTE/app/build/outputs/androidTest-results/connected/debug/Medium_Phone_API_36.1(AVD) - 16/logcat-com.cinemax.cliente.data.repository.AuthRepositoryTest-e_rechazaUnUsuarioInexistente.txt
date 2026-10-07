@@ -1,0 +1,2 @@
+10-02 01:36:05.306 10460 10474 I TestRunner: started: e_rechazaUnUsuarioInexistente(com.cinemax.cliente.data.repository.AuthRepositoryTest)
+10-02 01:36:05.322 10460 10474 I TestRunner: finished: e_rechazaUnUsuarioInexistente(com.cinemax.cliente.data.repository.AuthRepositoryTest)

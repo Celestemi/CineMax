@@ -1,0 +1,2 @@
+10-02 01:36:05.325 10460 10474 I TestRunner: started: d_rechazaUnaContrasenaIncorrecta(com.cinemax.cliente.data.repository.AuthRepositoryTest)
+10-02 01:36:05.338 10460 10474 I TestRunner: finished: d_rechazaUnaContrasenaIncorrecta(com.cinemax.cliente.data.repository.AuthRepositoryTest)

@@ -1,0 +1,2 @@
+10-02 01:38:31.188 10460 10474 I TestRunner: started: elFormularioSeLimpiaAlEscribirEnCadaCampo(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:31.191 10460 10474 I TestRunner: finished: elFormularioSeLimpiaAlEscribirEnCadaCampo(com.cinemax.cliente.viewmodel.AuthViewModelTest)

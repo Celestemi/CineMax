@@ -1,0 +1,2 @@
+10-02 01:38:30.418 10460 10474 I TestRunner: started: c_loginCorrectoTerminaEnAutenticadoYGuardaLaSesion(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:30.501 10460 10474 I TestRunner: finished: c_loginCorrectoTerminaEnAutenticadoYGuardaLaSesion(com.cinemax.cliente.viewmodel.AuthViewModelTest)

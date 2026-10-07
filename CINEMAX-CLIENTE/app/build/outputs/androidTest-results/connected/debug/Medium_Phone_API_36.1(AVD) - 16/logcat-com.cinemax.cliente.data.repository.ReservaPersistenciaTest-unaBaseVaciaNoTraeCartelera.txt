@@ -1,0 +1,2 @@
+10-02 01:36:09.016 10460 10474 I TestRunner: started: unaBaseVaciaNoTraeCartelera(com.cinemax.cliente.data.repository.ReservaPersistenciaTest)
+10-02 01:36:09.073 10460 10474 I TestRunner: finished: unaBaseVaciaNoTraeCartelera(com.cinemax.cliente.data.repository.ReservaPersistenciaTest)

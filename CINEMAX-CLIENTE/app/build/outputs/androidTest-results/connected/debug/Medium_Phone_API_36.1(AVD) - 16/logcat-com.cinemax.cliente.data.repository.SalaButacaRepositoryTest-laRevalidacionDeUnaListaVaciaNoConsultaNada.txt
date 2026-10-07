@@ -1,0 +1,2 @@
+10-02 01:36:12.462 10460 10474 I TestRunner: started: laRevalidacionDeUnaListaVaciaNoConsultaNada(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:12.567 10460 10474 I TestRunner: finished: laRevalidacionDeUnaListaVaciaNoConsultaNada(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

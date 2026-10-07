@@ -1,0 +1,5 @@
+10-02 01:38:34.995 10460 10474 I TestRunner: started: f_unaPeliculaInexistenteTerminaEnNoEncontrado(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)
+10-02 01:38:35.030  1178  1307 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+10-02 01:38:35.031   772  1293 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:35.040  1178  1307 D SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+10-02 01:38:35.164 10460 10474 I TestRunner: finished: f_unaPeliculaInexistenteTerminaEnNoEncontrado(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)

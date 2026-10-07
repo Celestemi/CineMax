@@ -1,0 +1,2 @@
+10-02 01:38:31.258 10460 10474 I TestRunner: started: a_elUsuarioRegistradoPuedeEntrarInmediatamente(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:31.296 10460 10474 I TestRunner: finished: a_elUsuarioRegistradoPuedeEntrarInmediatamente(com.cinemax.cliente.viewmodel.AuthViewModelTest)

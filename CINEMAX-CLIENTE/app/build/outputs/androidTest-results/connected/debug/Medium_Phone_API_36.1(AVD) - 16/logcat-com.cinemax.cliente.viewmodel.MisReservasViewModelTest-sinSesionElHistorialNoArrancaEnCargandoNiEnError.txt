@@ -1,0 +1,3 @@
+10-02 01:38:37.267 10460 10474 I TestRunner: started: sinSesionElHistorialNoArrancaEnCargandoNiEnError(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)
+10-02 01:38:37.282  1457  1866 I ProtoXDBBufferWrapper: ProtoXDBBufferWrapper.flushToStorage():158 Flushed 6 data item(s) to storage.
+10-02 01:38:37.389 10460 10474 I TestRunner: finished: sinSesionElHistorialNoArrancaEnCargandoNiEnError(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)

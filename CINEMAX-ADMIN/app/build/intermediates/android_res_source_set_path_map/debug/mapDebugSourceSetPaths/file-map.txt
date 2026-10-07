@@ -1,0 +1,8 @@
+com.cinemax.admin.app-pngs-0 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-ADMIN\app\build\generated\res\pngs\debug
+com.cinemax.admin.app-updated_navigation_xml-1 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-ADMIN\app\build\generated\updated_navigation_xml\debug
+com.cinemax.admin.app-packageDebugResources-2 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-ADMIN\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.cinemax.admin.app-packageDebugResources-3 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-ADMIN\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.cinemax.admin.app-debug-4 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-ADMIN\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.cinemax.admin.app-debug-5 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-ADMIN\app\src\debug\res
+com.cinemax.admin.app-main-6 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-ADMIN\app\src\main\res
+gradleHome-0 C:\Users\algue\.gradle

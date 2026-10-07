@@ -1,0 +1,2 @@
+10-02 01:38:33.226 10460 10474 I TestRunner: started: lasOpcionesDeFiltroVienenDeLoQueEstaEnCartelera(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)
+10-02 01:38:33.410 10460 10474 I TestRunner: finished: lasOpcionesDeFiltroVienenDeLoQueEstaEnCartelera(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)

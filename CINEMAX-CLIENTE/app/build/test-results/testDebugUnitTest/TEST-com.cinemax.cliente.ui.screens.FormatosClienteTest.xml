@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinemax.cliente.ui.screens.FormatosClienteTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-02T01:35:45.551Z" hostname="DESKTOP-65CNQ55" time="0.01">
+  <properties/>
+  <testcase name="laHoraSeDevuelveNormalizadaYNoSeReinterpreta" classname="com.cinemax.cliente.ui.screens.FormatosClienteTest" time="0.001"/>
+  <testcase name="lasFechasDeHoyMananaYAyerSeReconocenPorSuNombre" classname="com.cinemax.cliente.ui.screens.FormatosClienteTest" time="0.001"/>
+  <testcase name="unaFechaIlegibleSeMuestraTalCualEnLugarDeInventarUna" classname="com.cinemax.cliente.ui.screens.FormatosClienteTest" time="0.006"/>
+  <testcase name="laFechaYLaHoraDeUnaFuncionSeLeenJuntas" classname="com.cinemax.cliente.ui.screens.FormatosClienteTest" time="0.001"/>
+  <testcase name="unaFechaLejanaNoSeEtiquetaComoHoyNiMañana" classname="com.cinemax.cliente.ui.screens.FormatosClienteTest" time="0.0"/>
+  <testcase name="unaFechaVaciaNoProvocaFallo" classname="com.cinemax.cliente.ui.screens.FormatosClienteTest" time="0.0"/>
+  <testcase name="laFechaLargaIncluyeElNombreDelMes" classname="com.cinemax.cliente.ui.screens.FormatosClienteTest" time="0.0"/>
+  <testcase name="unaFechaRelativaInvalidaSeDevuelveSinCambios" classname="com.cinemax.cliente.ui.screens.FormatosClienteTest" time="0.0"/>
+  <testcase name="unaFechaIsoSeConvierteEnTextoLegible" classname="com.cinemax.cliente.ui.screens.FormatosClienteTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

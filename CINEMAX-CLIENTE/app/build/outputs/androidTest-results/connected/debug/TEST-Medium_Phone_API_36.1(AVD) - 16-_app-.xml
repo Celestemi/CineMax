@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="225" failures="0" errors="0" skipped="0" time="158.316" timestamp="2026-10-02T01:38:43" hostname="localhost">
+  <testsuite name="com.cinemax.cliente.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="0.031" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="useAppContext" classname="com.cinemax.cliente.ExampleInstrumentedTest" time="0.031" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.data.repository.AuthPersistenceTest" tests="3" failures="0" errors="0" skipped="0" time="0.399" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="h_elUsuarioRegistradoPersisteAlCerrarYReabrirLaBase" classname="com.cinemax.cliente.data.repository.AuthPersistenceTest" time="0.11" />
+    <testcase name="h_unaCuentaRegistradaNoSeBorraAlVolverASembrar" classname="com.cinemax.cliente.data.repository.AuthPersistenceTest" time="0.031" />
+    <testcase name="h_losUsuariosDemoDelSeedTambienPersistenYSirvenParaEntrar" classname="com.cinemax.cliente.data.repository.AuthPersistenceTest" time="0.258" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.data.repository.AuthRepositoryTest" tests="14" failures="0" errors="0" skipped="0" time="0.265" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="c_loginCorrectoDevuelveElUsuarioDeRoom" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.031" />
+    <testcase name="a_creadoEnGuardaUnTimestampReal" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.004" />
+    <testcase name="laQueryLoginDeRoomSoloDevuelveConCoincidenciaExacta" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.031" />
+    <testcase name="f_desactivarYReactivarCambiaElAcceso" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.03" />
+    <testcase name="a_elRolYElActivoNoDependenDeQuienRegistra" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.003" />
+    <testcase name="f_rechazaUnUsuarioInactivoAunqueLaContrasenaSeaCorrecta" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.029" />
+    <testcase name="b_rechazaElDuplicadoInclusiveConTrasEspacios" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.003" />
+    <testcase name="e_distingueUsuarioInexistenteDeContrasenaIncorrecta" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.029" />
+    <testcase name="e_rechazaUnUsuarioInexistente" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.004" />
+    <testcase name="d_rechazaUnaContrasenaIncorrecta" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.032" />
+    <testcase name="a_registraUnUsuarioNuevoActivoComoCliente" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.004" />
+    <testcase name="elDaoSoportaContarBuscarExistirActualizarYEliminar" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.032" />
+    <testcase name="b_rechazaUnUsuarioDuplicado" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.004" />
+    <testcase name="c_losUsuariosDemoDelSeedSiguenSirviendoParaEntrar" classname="com.cinemax.cliente.data.repository.AuthRepositoryTest" time="0.029" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" tests="28" failures="0" errors="0" skipped="0" time="3.149" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="f_unaPeliculaInactivaNoEstaActiva" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.212" />
+    <testcase name="c_filtrarPorFechaDevuelveSoloLasFuncionesDeEseDia" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.106" />
+    <testcase name="b_filtrarPorGeneroDevuelveSoloSusFunciones" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.106" />
+    <testcase name="e_laCombinacionEsLaInterseccionDeLosTresCriterios" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.132" />
+    <testcase name="f_unaPeliculaSeCargaPorId" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.107" />
+    <testcase name="e_unCriterioQueNoEncajaVaciaLaCombinacion" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.107" />
+    <testcase name="d_cadaSedeFiltraPorSeparado" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.132" />
+    <testcase name="lasFechasDisponiblesSonLasQueTienenFunciones" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.084" />
+    <testcase name="b_unGeneroNoActivoSeNormalizaAntesDeConsultar" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.107" />
+    <testcase name="d_filtrarPorSedeDevuelveSoloLasFuncionesDeEsaSede" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.133" />
+    <testcase name="unaFuncionSeLeeCompletaPorId" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.108" />
+    <testcase name="c_cadaFechaDeLaCarteleraFiltraPorSeparado" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.107" />
+    <testcase name="f_unaPeliculaSeFiltraPorGenero" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.105" />
+    <testcase name="a_laCarteleraVieneOrdenadaPorFechaYHora" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.08" />
+    <testcase name="elRepositorioDeSalasExponeElCircuito" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.133" />
+    <testcase name="unaFuncionInexistenteDevuelveNull" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.131" />
+    <testcase name="f_lasFuncionesDeUnaPeliculaTraenSedeYSala" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.159" />
+    <testcase name="a_cadaFuncionLlegaCompletaConPeliculaSedeYSala" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.107" />
+    <testcase name="losGenerosDisponiblesSonLosDeLasPeliculasActivas" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.107" />
+    <testcase name="lasSedesDisponiblesSonTodasLasDelCircuito" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.084" />
+    <testcase name="a_unaFuncionInactivaDesapareceDeLaCartelera" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.13" />
+    <testcase name="b_filtrarPorGeneroSinCoincidenciasDevuelveListaVacia" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.08" />
+    <testcase name="c_unaFechaSinProgramacionDevuelveListaVacia" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.107" />
+    <testcase name="f_unaPeliculaInexistenteDevuelveNull" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.085" />
+    <testcase name="a_lasFuncionesActivasSonTodasLasSembradas" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.105" />
+    <testcase name="lasFuncionesDeUnaSalaYFechaSeLeenSeparadas" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.107" />
+    <testcase name="e_laCombinacionDevuelveMenosQueCadaCriterioPorSeparado" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.105" />
+    <testcase name="a_laCarteleraCargaTodasLasFuncionesSembradas" classname="com.cinemax.cliente.data.repository.CarteleraRepositoryTest" time="0.083" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.data.repository.ReservaPersistenciaTest" tests="5" failures="0" errors="0" skipped="0" time="0.745" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="laReservaSobreviveAlCierreDeLaApp" classname="com.cinemax.cliente.data.repository.ReservaPersistenciaTest" time="0.134" />
+    <testcase name="laSesionDelUsuarioNoCambiaAlReabrirLaBase" classname="com.cinemax.cliente.data.repository.ReservaPersistenciaTest" time="0.185" />
+    <testcase name="unaBaseVaciaNoTraeCartelera" classname="com.cinemax.cliente.data.repository.ReservaPersistenciaTest" time="0.059" />
+    <testcase name="unaReservaCanceladaSigueCanceladaAlReabrir" classname="com.cinemax.cliente.data.repository.ReservaPersistenciaTest" time="0.209" />
+    <testcase name="elHistorialDelUsuarioPersiste" classname="com.cinemax.cliente.data.repository.ReservaPersistenciaTest" time="0.158" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.data.repository.ReservaRepositoryTest" tests="24" failures="0" errors="0" skipped="0" time="2.337" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="l_unaReservaValidaSeRegistra" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.111" />
+    <testcase name="dosReservasSimultaneasDeLaMismaButacaSoloUnaGana" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.104" />
+    <testcase name="m_unaReservaSinButacasSeRechaza" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.084" />
+    <testcase name="butacasDeOtraSalaSeRechazan" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.105" />
+    <testcase name="n_unaFuncionInactivaSeRechaza" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.111" />
+    <testcase name="l_unaReservaNoOcupaLasButacasDeOtraFuncion" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.079" />
+    <testcase name="o_sinSesionSeRechaza" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.107" />
+    <testcase name="cancelarLiberaLasButacas" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.084" />
+    <testcase name="butacasRepetidasSeRechazan" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.082" />
+    <testcase name="q_elIndiceUnicoRevierteLaTransaccionDelDao" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.105" />
+    <testcase name="unTotalInvalidoSeRechaza" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.083" />
+    <testcase name="n_unaFuncionSinIdSeRechaza" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.108" />
+    <testcase name="dosReservasSimultaneasDeButacasDistintasAmbasGanan" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.08" />
+    <testcase name="l_laReservaEsConsultaPorCodigo" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.106" />
+    <testcase name="o_unUsuarioInexistenteSeRechaza" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.103" />
+    <testcase name="l_lasButacasQuedanOcupadasParaEsaFuncion" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.108" />
+    <testcase name="lasButacasDeUnaReservaSeLeenPorReserva" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.108" />
+    <testcase name="butacasInexistentesSeRechazan" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.083" />
+    <testcase name="laButacaCanceladaVuelveAEstarLibreParaOtraReserva" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.132" />
+    <testcase name="q_siUnaButacaSeOcupaSeRevierteTodo" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.107" />
+    <testcase name="cancelarRechazaLoQueNoLePertenece" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.079" />
+    <testcase name="butacasYaOcupadasSeRechazan" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.081" />
+    <testcase name="l_lasReservasDelUsuarioSeListanPorUsuario" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.108" />
+    <testcase name="n_unaFuncionInexistenteSeRechaza" classname="com.cinemax.cliente.data.repository.ReservaRepositoryTest" time="0.079" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" tests="16" failures="0" errors="0" skipped="0" time="1.832" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="h_unaReservaConfirmadaOcupaSusButacas" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.107" />
+    <testcase name="laMismaFilaExisteComoButacasDistintasEnSalasDistintas" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.082" />
+    <testcase name="g_laSalaTraeSuMapaDeButacasCompleto" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.082" />
+    <testcase name="g_lasButacasVienenOrdenadasPorFilaYNumero" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.081" />
+    <testcase name="h_lasButacasOcupadasDeUnaFuncionSonLasReservadas" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.083" />
+    <testcase name="unaButacaOcupadaEnUnaFuncionSigueLibreEnOtraDeLaMismaSala" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.132" />
+    <testcase name="laRevalidacionDeUnaListaVaciaNoConsultaNada" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.108" />
+    <testcase name="g_todasLasButacasPertenecenASuSala" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.189" />
+    <testcase name="i_ningunaButacaOcupadaApareceEntreLasDisponibles" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.109" />
+    <testcase name="g_unaSalaInexistenteDevuelveMapaVacio" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.082" />
+    <testcase name="g_laSalaDeUnaFuncionSeResuelveDesdeLaFuncion" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.111" />
+    <testcase name="laRevalidacionInformaQueButacasYaEstanOcupadas" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.081" />
+    <testcase name="g_unaFuncionInexistenteNoTieneSala" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.131" />
+    <testcase name="i_unaButacaOcupadaDesapareceDeLasDisponibles" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.158" />
+    <testcase name="h_lasReservasCanceladasNoBloqueanButacas" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.134" />
+    <testcase name="i_lasDisponiblesSonLaSalaMenosLasOcupadas" classname="com.cinemax.cliente.data.repository.SalaButacaRepositoryTest" time="0.162" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.data.seed.SeedInitializerTest" tests="6" failures="0" errors="0" skipped="0" time="0.774" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="lasFuncionesNoEstanVencidas" classname="com.cinemax.cliente.data.seed.SeedInitializerTest" time="0.16" />
+    <testcase name="noDuplicaDatosAlEjecutarseMasDeUnaVez" classname="com.cinemax.cliente.data.seed.SeedInitializerTest" time="0.108" />
+    <testcase name="siembraConLasCantidadesAcordadas" classname="com.cinemax.cliente.data.seed.SeedInitializerTest" time="0.159" />
+    <testcase name="elGeneroYElEstadoSeGuardanComoTexto" classname="com.cinemax.cliente.data.seed.SeedInitializerTest" time="0.11" />
+    <testcase name="lasReservasRespetanRelacionesButacasSinDuplicar" classname="com.cinemax.cliente.data.seed.SeedInitializerTest" time="0.132" />
+    <testcase name="cadaSalaTiene80Butacas" classname="com.cinemax.cliente.data.seed.SeedInitializerTest" time="0.105" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.ui.CarteleraScreenTest" tests="14" failures="0" errors="0" skipped="0" time="30.881" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="elPrimerElementoVisibleEsUnaTarjetaDeFuncion" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="3.327" />
+    <testcase name="unFiltroSinCoincidenciasOfreceQuitarElFiltroEnLugarDeRecargar" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="2.673" />
+    <testcase name="unaFuncionSinReservasAnunciaLaCapacidadCompleta" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="1.934" />
+    <testcase name="sinFiltrosLaListaMuestraLasFuncionesDelSeed" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="2.038" />
+    <testcase name="laBarraDeFiltrosMuestraGeneroFechaYSede" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="2.013" />
+    <testcase name="elBotonMisReservasEstaDisponible" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="1.888" />
+    <testcase name="alPulsarUnaTarjetaSeAbreSuPelicula" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="2.115" />
+    <testcase name="lasTarjetasAnuncianLaDisponibilidadDeButacas" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="2.007" />
+    <testcase name="cerrarSesionSaleDeLaPantalla" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="2.085" />
+    <testcase name="laCarteleraMuestraElSaludoDelUsuarioReal" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="1.965" />
+    <testcase name="filtrarPorGeneroRecortaLaListaYApareceElBotonDeLimpiar" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="2.296" />
+    <testcase name="limpiarFiltrosDevuelveLaCarteleraCompleta" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="2.774" />
+    <testcase name="comprarDesdeOtroDispositivoBajaLaDisponibilidadEnPantalla" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="1.856" />
+    <testcase name="elContadorAnunciaCuantasFuncionesHayEnCartelera" classname="com.cinemax.cliente.ui.CarteleraScreenTest" time="1.91" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.ui.MisReservasScreenTest" tests="9" failures="0" errors="0" skipped="0" time="15.246" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="elBotonVolverCierraElHistorial" classname="com.cinemax.cliente.ui.MisReservasScreenTest" time="1.622" />
+    <testcase name="elContadorDiceCuantasReservasHay" classname="com.cinemax.cliente.ui.MisReservasScreenTest" time="1.701" />
+    <testcase name="elEstadoVacioTambienOfreceVerLaCartelera" classname="com.cinemax.cliente.ui.MisReservasScreenTest" time="1.868" />
+    <testcase name="elBotonIrACarteleraFunciona" classname="com.cinemax.cliente.ui.MisReservasScreenTest" time="1.778" />
+    <testcase name="cadaUsuarioVeSoloSusPropiasReservas" classname="com.cinemax.cliente.ui.MisReservasScreenTest" time="1.44" />
+    <testcase name="unUsuarioSinComprasVeElEstadoVacioYUnaInvitacionAComprar" classname="com.cinemax.cliente.ui.MisReservasScreenTest" time="1.726" />
+    <testcase name="laTarjetaMuestraElTituloYLaFechaDeLaPeliculaReservada" classname="com.cinemax.cliente.ui.MisReservasScreenTest" time="1.883" />
+    <testcase name="elHistorialDelSeedTambienAparece" classname="com.cinemax.cliente.ui.MisReservasScreenTest" time="1.545" />
+    <testcase name="unaReservaConfirmadaApareceConSuCodigoYSuTotal" classname="com.cinemax.cliente.ui.MisReservasScreenTest" time="1.683" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.ui.SeleccionButacasScreenTest" tests="10" failures="0" errors="0" skipped="0" time="20.51" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="continuarEntregaElIdDeLaFuncionYLasButacasElegidas" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="2.601" />
+    <testcase name="alQuitarUnaButacaVuelveALibre" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="2.061" />
+    <testcase name="elMapaMuestraLaLeyendaConLosTresEstados" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="1.7" />
+    <testcase name="unaFuncionInexistentePideVolverEnLugarDeMostrarUnMapaVacio" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="1.601" />
+    <testcase name="elMapaEmpiezaConLasOchentaButacasDeLaSala" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="1.956" />
+    <testcase name="lasButacasSeIdentificanPorSuCodigoReal" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="2.186" />
+    <testcase name="unaButacaQueSeOcupaDesapareceDeLaSeleccionEnVivo" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="1.989" />
+    <testcase name="unaButacaOcupadaPorRoomNoSePuedeSeleccionar" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="1.99" />
+    <testcase name="elMapaDescuentaLasButacasQueElSeedYaVendi" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="1.966" />
+    <testcase name="alPulsarUnaButacaSeSeleccionaYApareceEnElTotal" classname="com.cinemax.cliente.ui.SeleccionButacasScreenTest" time="2.46" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" tests="10" failures="0" errors="0" skipped="0" time="68.905" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="i_unaRutaProtegidaSinSesionExpulsaAlLogin" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="6.191" />
+    <testcase name="d_homeLlevaAlDetalleYElDetalleAButacas" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="8.4" />
+    <testcase name="a_splashLlevaAlLoginYNoSeVuelveASplash" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="5.589" />
+    <testcase name="e_flujoCompletoDeCompraHastaLaConfirmacionYElHistorial" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="10.945" />
+    <testcase name="b_loginCorrectoLlevaAlHomeSinDejarLoginDetras" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="7.112" />
+    <testcase name="g_misReservasVuelveALaCarteleraBorrandoElHistorial" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="8.024" />
+    <testcase name="j_loginFallidoMuestraErrorYNoNavega" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="6.733" />
+    <testcase name="c_loginYRegistroSeAlternanConservandoElLogin" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="6.08" />
+    <testcase name="h_cerrarSesionVuelveAlLoginConElBackStackLimpio" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="7.975" />
+    <testcase name="k_laPoliticaDeRutasCubreTodasLasPantallas" classname="com.cinemax.cliente.ui.navigation.NavegacionClienteTest" time="1.856" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.viewmodel.AuthViewModelTest" tests="19" failures="0" errors="0" skipped="0" time="0.748" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="c_loginCorrectoTerminaEnAutenticadoYGuardaLaSesion" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.096" />
+    <testcase name="elEstadoInicialEsInicialYCargandoDespuesDeIntentar" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.07" />
+    <testcase name="g_elAdminDelSeedTampocoEntra" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.083" />
+    <testcase name="f_loginConUsuarioInactivoTerminaEnUsuarioInactivo" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.061" />
+    <testcase name="cerrarSesionLimpiaElEstadoYVuelveAlLogin" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.082" />
+    <testcase name="i_loginConContrasenaVaciaSeRechazaSinConsultarRoom" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.009" />
+    <testcase name="e_loginConUsuarioInexistenteTerminaEnLoginIncorrecto" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.033" />
+    <testcase name="g_todosLosClientesDelSeedEntranYElAdminNo" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.135" />
+    <testcase name="j_registroConEmailMalFormadoSeRechaza" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.004" />
+    <testcase name="limpiarEstadoNoBorraUnaSesionYaConcedida" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.003" />
+    <testcase name="d_loginConContrasenaIncorrectaTerminaEnLoginIncorrecto" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.032" />
+    <testcase name="g_unAdminNoEntraEnLaAppCliente" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.031" />
+    <testcase name="j_registroConUnSoloCampoVacioSeRechaza" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.003" />
+    <testcase name="b_registroDuplicadoTerminaEnUsuarioDuplicado" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.035" />
+    <testcase name="elFormularioSeLimpiaAlEscribirEnCadaCampo" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.002" />
+    <testcase name="j_registroConTodosLosCamposVaciosSeRechaza" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.005" />
+    <testcase name="g_unRolDesconocidoTambienSeRechaza" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.032" />
+    <testcase name="a_registroNuevoTerminaEnRegistroExitosoYCreaElCliente" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.002" />
+    <testcase name="a_elUsuarioRegistradoPuedeEntrarInmediatamente" classname="com.cinemax.cliente.viewmodel.AuthViewModelTest" time="0.03" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest" tests="7" failures="0" errors="0" skipped="0" time="1.555" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="laDisponibilidadInicialReflejaLoQueElSeedYaVendi" classname="com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest" time="0.211" />
+    <testcase name="unaCompraReduceSoloLaDisponibilidadDeSuFuncion" classname="com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest" time="0.213" />
+    <testcase name="elCambioDeFiltroNoMeteLaCarteleraEnCargando" classname="com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest" time="0.182" />
+    <testcase name="laOcupacionSeActualizaEnVivoSinVolverAPedirLaCartelera" classname="com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest" time="0.184" />
+    <testcase name="unaFuncionSinReservasEmpiezaConTodaLaCapacidadDeLaSala" classname="com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest" time="0.245" />
+    <testcase name="unaFuncionConReservasDelSeedArrancaYaDescontadas" classname="com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest" time="0.259" />
+    <testcase name="unaFuncionAgotadaSeMarcaComoTal" classname="com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest" time="0.261" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" tests="10" failures="0" errors="0" skipped="0" time="1.686" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="c_filtrarPorFechaReduceLaCartelera" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.182" />
+    <testcase name="a_laCarteleraArrancaCargandoYTerminaEnExito" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.156" />
+    <testcase name="lasOpcionesDeFiltroVienenDeLoQueEstaEnCartelera" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.184" />
+    <testcase name="d_filtrarPorSedeReduceLaCartelera" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.135" />
+    <testcase name="unaFuncionInactivaDesapareceDeLaCarteleraEnVivo" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.133" />
+    <testcase name="unFiltroSinCoincidenciasMuestraLaCarteleraVacia" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.157" />
+    <testcase name="quitarElGeneroDejaElRestoDelFiltro" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.161" />
+    <testcase name="e_losFiltrosSeAcumulanYSeLimpian" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.185" />
+    <testcase name="e_losTresFiltrosSeCombinan" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.21" />
+    <testcase name="b_filtrarPorGeneroReduceLaCartelera" classname="com.cinemax.cliente.viewmodel.CarteleraViewModelTest" time="0.183" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" tests="9" failures="0" errors="0" skipped="0" time="1.306" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="f_cadaFuncionTraeSuSedeYSala" classname="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" time="0.212" />
+    <testcase name="f_unaPeliculaSinFuncionesSeMuestraSinPrecios" classname="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" time="0.133" />
+    <testcase name="f_unaPeliculaInexistenteTerminaEnNoEncontrado" classname="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" time="0.187" />
+    <testcase name="cargarOtraPeliculaRemplazaElDetalle" classname="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" time="0.134" />
+    <testcase name="f_elDetalleConsolidaElRangoDePrecios" classname="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" time="0.134" />
+    <testcase name="limpiarVuelveAlEstadoInicial" classname="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" time="0.131" />
+    <testcase name="f_laFichaCargaLaPeliculaYSusFunciones" classname="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" time="0.131" />
+    <testcase name="f_unaPeliculaInactivaTerminaEnNoEncontrado" classname="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" time="0.137" />
+    <testcase name="elDetalleArrancaEnInicial" classname="com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest" time="0.107" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" tests="9" failures="0" errors="0" skipped="0" time="1.581" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="variasReservasDelMismoUsuarioAparecenTodas" classname="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" time="0.16" />
+    <testcase name="laReservaConfirmadaApareceConSuCodigoYSuTotalReales" classname="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" time="0.13" />
+    <testcase name="unUsuarioNoVeLasReservasDeOtro" classname="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" time="0.185" />
+    <testcase name="elHistorialSeVuelveACargarCuandoCambiaLaSesion" classname="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" time="0.211" />
+    <testcase name="elTituloMuestraEsElDeLaPeliculaDeLaFuncionReservada" classname="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" time="0.187" />
+    <testcase name="alCerrarLaSesionElHistorialSeVacia" classname="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" time="0.184" />
+    <testcase name="dosUsuariosConComprasVenCadaUnoLoSuyo" classname="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" time="0.205" />
+    <testcase name="sinSesionElHistorialNoArrancaEnCargandoNiEnError" classname="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" time="0.132" />
+    <testcase name="unUsuarioSinComprasVeElHistorialVacioYNoUnError" classname="com.cinemax.cliente.viewmodel.MisReservasViewModelTest" time="0.187" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.viewmodel.ReservaViewModelTest" tests="17" failures="0" errors="0" skipped="0" time="2.385" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="k_elTotalEsPrecioPorCantidad" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.186" />
+    <testcase name="laCotizacionUsaLaFechaDelRelojInyectado" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.208" />
+    <testcase name="o_sinSesionNoSePuedeConfirmar" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.156" />
+    <testcase name="m_sinButacasNoSePuedeConfirmar" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.134" />
+    <testcase name="k_laCotizacionMuestraLosCodigosDeLasButacas" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.133" />
+    <testcase name="n_unaFuncionQueSeDesactivaSeRechaza" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.158" />
+    <testcase name="l_unaReservaValidaSeConfirmaYDevuelveCodigo" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.13" />
+    <testcase name="limpiarVuelveAlEstadoInicial" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.107" />
+    <testcase name="l_laReservaQuedaAsociadaAlUsuarioDeLaSesion" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.157" />
+    <testcase name="l_laReservaQuedaPersistidaConSusButacas" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.184" />
+    <testcase name="p_noSeReservaNingunaButacaSiUnaYaEstaOcupada" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.08" />
+    <testcase name="m_confirmarSinPrepararNadaNoInventaUnaReserva" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.158" />
+    <testcase name="k_unaButacaSumaElPrecioDeUnaEntrada" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.108" />
+    <testcase name="p_unaButacaOcupadaDuranteLaCompraSeRechaza" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.133" />
+    <testcase name="o_trasCerrarLaSesionSePuedeVolverAComprar" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.159" />
+    <testcase name="l_confirmarDosVecesNoCreaDosReservas" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.107" />
+    <testcase name="n_unaFuncionInexistenteSeRechaza" classname="com.cinemax.cliente.viewmodel.ReservaViewModelTest" time="0.087" />
+  </testsuite>
+  <testsuite name="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" tests="14" failures="0" errors="0" skipped="0" time="1.552" timestamp="2026-10-02T01:38:43" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="j_seleccionarUnaButacaOcupadaSeIgnoraConAviso" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.107" />
+    <testcase name="h_lasButacasOcupadasAparecenComoOcupadas" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.107" />
+    <testcase name="i_seleccionarUnaButacaLibreActualizaElTotal" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.083" />
+    <testcase name="i_seleccionarTodasLasLibresIgnoraLasOcupadas" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.108" />
+    <testcase name="limpiarSeleccionVuelveACero" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.104" />
+    <testcase name="j_unaButacaQueSeOcupaDesapareceDeLaSeleccion" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.105" />
+    <testcase name="g_alAbrirNoHayNadaSeleccionadoNiTotal" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.107" />
+    <testcase name="g_unaFuncionInexistenteTerminaEnFuncionNoEncontrada" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.107" />
+    <testcase name="limpiarVuelveAlEstadoInicial" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.084" />
+    <testcase name="g_laPantallaCargaElMapaDeButacas" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.106" />
+    <testcase name="i_deseleccionarRestaElButacaDelTotal" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.135" />
+    <testcase name="i_seleccionarVariasButacasMultiplicaElTotal" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.107" />
+    <testcase name="j_elAvisoDesapareceEnLaSiguienteSeleccionValida" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.161" />
+    <testcase name="i_alternarSeleccionaYDeselecciona" classname="com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest" time="0.131" />
+  </testsuite>
+</testsuites>

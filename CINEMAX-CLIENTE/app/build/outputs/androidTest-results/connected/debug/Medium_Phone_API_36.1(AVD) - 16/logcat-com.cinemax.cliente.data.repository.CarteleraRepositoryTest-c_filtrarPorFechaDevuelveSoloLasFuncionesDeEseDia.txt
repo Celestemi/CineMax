@@ -1,0 +1,2 @@
+10-02 01:36:05.651 10460 10474 I TestRunner: started: c_filtrarPorFechaDevuelveSoloLasFuncionesDeEseDia(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:05.772 10460 10474 I TestRunner: finished: c_filtrarPorFechaDevuelveSoloLasFuncionesDeEseDia(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

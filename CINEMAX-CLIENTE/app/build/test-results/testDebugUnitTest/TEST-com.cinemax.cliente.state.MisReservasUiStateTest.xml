@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinemax.cliente.state.MisReservasUiStateTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-02T01:35:45.525Z" hostname="DESKTOP-65CNQ55" time="0.008">
+  <properties/>
+  <testcase name="elHistorialVacioSeDistingueDeUnHistorialConReservas" classname="com.cinemax.cliente.state.MisReservasUiStateTest" time="0.005"/>
+  <testcase name="laReservaLlevaElCodigoYElTotalQueEscribioElRepositorio" classname="com.cinemax.cliente.state.MisReservasUiStateTest" time="0.0"/>
+  <testcase name="soloUnaReservaConfirmadaSeMarcaComoTal" classname="com.cinemax.cliente.state.MisReservasUiStateTest" time="0.0"/>
+  <testcase name="losEstadosPersistidosSeReconocen" classname="com.cinemax.cliente.state.MisReservasUiStateTest" time="0.0"/>
+  <testcase name="elTituloSeBuscaEnElCatalogoYNoEnLaRelacion" classname="com.cinemax.cliente.state.MisReservasUiStateTest" time="0.0"/>
+  <testcase name="unaPeliculaFueraDelCatalogoMuestraSuIdEnLugarDeUnHueco" classname="com.cinemax.cliente.state.MisReservasUiStateTest" time="0.0"/>
+  <testcase name="unEstadoDesconocidoEnRoomNoRompeLaPantalla" classname="com.cinemax.cliente.state.MisReservasUiStateTest" time="0.0"/>
+  <testcase name="laFechaYLaHoraSonLasDeLaFuncionReservada" classname="com.cinemax.cliente.state.MisReservasUiStateTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

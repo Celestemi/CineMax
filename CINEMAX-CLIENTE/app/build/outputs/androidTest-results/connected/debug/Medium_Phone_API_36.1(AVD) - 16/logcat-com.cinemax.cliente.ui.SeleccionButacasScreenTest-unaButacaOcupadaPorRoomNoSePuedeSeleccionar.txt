@@ -1,0 +1,249 @@
+10-02 01:37:15.009 10460 10474 I TestRunner: started: unaButacaOcupadaPorRoomNoSePuedeSeleccionar(com.cinemax.cliente.ui.SeleccionButacasScreenTest)
+10-02 01:37:15.015  1189  1189 D RecentsView: onTaskRemoved: 215, not handling task stack changes
+10-02 01:37:15.025 10460 10474 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@1943727]
+10-02 01:37:15.027  1178  1307 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+10-02 01:37:15.028   772  1789 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:37:15.029  1178  1307 D SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+10-02 01:37:15.039 10460 10474 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-02 01:37:15.040  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:15.075   772  1799 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cbc3aaef does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:37:15.112   613  1242 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:37:15.124  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+10-02 01:37:15.125  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+10-02 01:37:15.125  1189  1189 W SplitSelectStateCtor: Missing session instanceIds
+10-02 01:37:15.125  1189  1189 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-02 01:37:15.134  1189  1189 D RecentsView: onTaskDisplayChanged: 217, new displayId = 0
+10-02 01:37:15.134  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:15.134  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:15.149 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3a587b1 in: PRE_ON_CREATE
+10-02 01:37:15.151 10460 10460 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-02 01:37:15.156 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3a587b1 in: CREATED
+10-02 01:37:15.156 10460 10460 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@3a587b1
+10-02 01:37:15.157 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3a587b1 in: STARTED
+10-02 01:37:15.157 10460 10460 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@3a587b1
+10-02 01:37:15.158 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3a587b1 in: RESUMED
+10-02 01:37:15.159 10460 10460 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@3a587b1
+10-02 01:37:15.190 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@1c3d12b
+10-02 01:37:15.193 10460 10460 D VRI[ComponentActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:37:15.231  1189  1189 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+10-02 01:37:15.283  1189  1189 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-02 01:37:15.292   772   796 I ActivityTaskManager: Displayed com.cinemax.cliente/androidx.activity.ComponentActivity for user 0: +216ms
+10-02 01:37:15.303 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:37:15.304  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:15.305  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:15.349   772  1789 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:37:15.354 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:37:15.363 10503 10503 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:37:15.378   772   890 I ImeTracker: com.cinemax.cliente:d17ab132: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:37:15.383 10460 10460 I ImeTracker: com.cinemax.cliente:d17ab132: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:37:15.388  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:37:15.388  1189  1189 D RecentsView: onTaskRemoved: 216, not handling task stack changes
+10-02 01:37:15.388  1189  1189 D RecentsView: onTaskRemoved: 216, not handling task stack changes
+10-02 01:37:15.388  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:37:15.389  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:37:15.391  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:37:15.392   772  1391 I ImeTracker: system_server:bafff297: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:37:15.395   772   799 I ImeTracker: system_server:bafff297: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:37:15.402  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:15.438  1189  1204 W System  : A resource failed to call release.
+10-02 01:37:15.438  1189  1204 W System  : A resource failed to call release.
+10-02 01:37:15.438  1189  1204 W System  : A resource failed to call release.
+10-02 01:37:15.644  1025  1349 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:37:15.644  1189  1189 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:37:15.649  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-02 01:37:15.659   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:37:15.677  1189  1189 D BaseActivity: Launcher flags updated: [] -[state_started]
+10-02 01:37:15.677  1189  1189 D BaseDepthController: setSurface:
+10-02 01:37:15.677  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:37:15.677  1189  1189 D BaseDepthController: 	mBaseSurface: null
+10-02 01:37:15.677  1189  1189 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-02 01:37:15.680  1189  1189 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+10-02 01:37:15.680  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:6)
+10-02 01:37:15.680  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:2)
+10-02 01:37:15.680  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:32)
+10-02 01:37:15.681  1189  1189 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+10-02 01:37:15.681  1189  1189 D ActivityContext: hideKeyboard
+10-02 01:37:15.681  1189  1189 D ActivityContext: isImeShown: false
+10-02 01:37:15.681  1189  1189 D StatsLog: LAUNCHER_ONSTOP
+10-02 01:37:15.689  1189  1189 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-02 01:37:15.704  8996  9066 D WM-DelayedWorkTracker: Scheduling work af586ceb-abf7-440d-ae4d-17bc47156872
+10-02 01:37:15.713  8996  9066 D WM-GreedyScheduler: Starting tracking for af586ceb-abf7-440d-ae4d-17bc47156872
+10-02 01:37:15.716  8996  9066 D WM-DelayedWorkTracker: Scheduling work a737afca-9ec0-4900-a298-3af701b63464
+10-02 01:37:15.719  8996  9066 D WM-GreedyScheduler: Starting tracking for a737afca-9ec0-4900-a298-3af701b63464
+10-02 01:37:15.719  8996  9066 D WM-DelayedWorkTracker: Scheduling work da817864-2437-4dc0-aea5-99537bc37a35
+10-02 01:37:15.719  8996  9066 D WM-GreedyScheduler: Starting tracking for da817864-2437-4dc0-aea5-99537bc37a35
+10-02 01:37:15.719  8996  9066 D WM-DelayedWorkTracker: Scheduling work 2f6d1c2c-8046-49ee-b544-c9069b3428f9
+10-02 01:37:15.719  8996  9066 D WM-GreedyScheduler: Starting tracking for 2f6d1c2c-8046-49ee-b544-c9069b3428f9
+10-02 01:37:15.739  8996  8996 D WM-SystemJobService: onStartJob for WorkGenerationalId(workSpecId=2f6d1c2c-8046-49ee-b544-c9069b3428f9, generation=12)
+10-02 01:37:15.786  8996  9044 D WM-Processor: reb: processing WorkGenerationalId(workSpecId=2f6d1c2c-8046-49ee-b544-c9069b3428f9, generation=12)
+10-02 01:37:15.828  8996  8996 D WM-WorkerWrapper: Starting work for androidx.work.multiprocess.RemoteListenableDelegatingWorker
+10-02 01:37:15.838  8996  9035 D WM-WorkConstraintsTrack: NetworkRequestConstraintController send initial capabilities
+10-02 01:37:15.838  8996  8996 D WM-ListenableWorkerImpl: Binding to com.google.android.googlequicksearchbox, com.google.android.libraries.search.integrations.tiktok.RemoteWorkerService_googleapp
+10-02 01:37:15.843  8996  9044 D WM-WorkConstraintsTrack: NetworkRequestConstraintController send initial capabilities
+10-02 01:37:15.848  8996  9047 D WM-WorkConstraintsTrack: NetworkRequestConstraintController send initial capabilities
+10-02 01:37:15.857  8996  9044 D WM-GreedyScheduler: Constraints not met: Cancelling work ID WorkGenerationalId(workSpecId=af586ceb-abf7-440d-ae4d-17bc47156872, generation=25)
+10-02 01:37:15.859  8996  9035 D WM-GreedyScheduler: Constraints not met: Cancelling work ID WorkGenerationalId(workSpecId=a737afca-9ec0-4900-a298-3af701b63464, generation=12)
+10-02 01:37:15.859  8996  9035 D WM-GreedyScheduler: Constraints not met: Cancelling work ID WorkGenerationalId(workSpecId=da817864-2437-4dc0-aea5-99537bc37a35, generation=12)
+10-02 01:37:15.864  8996  9047 D WM-GreedyScheduler: Constraints met: Scheduling work ID WorkGenerationalId(workSpecId=2f6d1c2c-8046-49ee-b544-c9069b3428f9, generation=12)
+10-02 01:37:15.873  8996  9047 D WM-Processor: Work WorkGenerationalId(workSpecId=2f6d1c2c-8046-49ee-b544-c9069b3428f9, generation=12) is already enqueued for processing
+10-02 01:37:15.940  9056  9056 I WM-RemoteWorkerService: Binding to RemoteWorkerService
+10-02 01:37:15.941  8996  8996 D WM-ListenableWorkerImpl: Service connected
+10-02 01:37:15.950  9056 10771 D WM-ListenableWorkerImpl: Executing work request (2f6d1c2c-8046-49ee-b544-c9069b3428f9, com.google.apps.tiktok.contrib.work.TikTokListenableWorker)
+10-02 01:37:16.024  1365  1365 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.clearcut.sampler.service.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.PersistentDirectBootAwareApiService }
+10-02 01:37:16.271  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <139:RUNNING:63%[63%]> in group com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:16.271  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:37:16.271  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:37:16.271  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:37:16.271  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=139
+10-02 01:37:16.271  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=139, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.apk reason=auto_update isid=ZQBBwd7NRia81GL7af8Hsw, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 5439456/8595605
+10-02 01:37:16.271  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <139:RUNNING:63%[63%]>
+10-02 01:37:16.274  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=79a71f48-7712-4ae7-8063-e07737497d87 request_id=139 pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.apk isid=ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:16.274  2733  2917 I Finsky:background: [55] DSC: reviveDownload(139)
+10-02 01:37:16.274  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=139)
+10-02 01:37:16.284  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=139, files_to_download=[com.google.android.contacts.apk(size:8595605)], context[group_id=com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw], display_data[invisible=true, title=Contacts], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=5439456, total_bytes=8595605, retry[count=0, next_retry=n/a])
+10-02 01:37:16.287  2733  2733 I Finsky:background: [2] RF: onProgress request_id=139, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.apk isid=ZQBBwd7NRia81GL7af8Hsw artifact_bytes=5439456/8595605 pkg_bytes=5284753/8965190
+10-02 01:37:16.290  2733  2733 I Finsky:background: [2] Updated time lastBroadcast=2026-10-02T01:37:14.238Z current=2026-10-02T01:37:16.290Z
+10-02 01:37:16.291  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 5809041 / 8965190 / 0.647955
+10-02 01:37:16.292   772   849 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:37:16.298  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.contacts[iid:26] [isid:ZQBBwd7NRia81GL7af8Hsw] status:RESOURCE_FETCH_PROGRESS, size: 5809041/8965190
+10-02 01:37:16.302  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.contacts, isid:ZQBBwd7NRia81GL7af8Hsw] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H18M45.179S, attempt=0
+10-02 01:37:16.315  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.contacts, isid: ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:16.319  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.contacts
+10-02 01:37:16.324  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.contacts, isid:ZQBBwd7NRia81GL7af8Hsw] state:DOWNLOADING]
+10-02 01:37:16.326  9056  9056 I cmtb    : (REDACTED) #sharesheet enabled: %s #sharesheet with image type enabled: %s
+10-02 01:37:16.328  9056  9056 I cmtf    : (REDACTED) AvailabilityUtils.updateAvailability() component:%s enabled:%s
+10-02 01:37:16.330  9056  9056 I cmtf    : (REDACTED) Update complete. %s enabled: %s
+10-02 01:37:16.330  9056  9056 I cmtf    : (REDACTED) AvailabilityUtils.updateAvailability() component:%s enabled:%s
+10-02 01:37:16.331  9056  9056 I cmtf    : (REDACTED) Update complete. %s enabled: %s
+10-02 01:37:16.331  9056  9056 I cmtb    : #synclet interval set for every : 12 hours
+10-02 01:37:16.336  9056  9056 I fsox    : #sync(). Running Synclets and scheduling next sync.
+10-02 01:37:16.391  9056  9072 I cjfp$a  : (REDACTED) #provideSyncletBinding isEmberNativeEnabled:%s enableAutofetch:%s
+10-02 01:37:16.434  9056  9072 I fsox    : (REDACTED) Running synclets: %s
+10-02 01:37:16.443  9056  9085 I fsox    : (REDACTED) Starting synclet: %s
+10-02 01:37:16.459  9056 10773 I cmog    : #triggerSync - account is not a google account, skipping sync
+10-02 01:37:16.480  9056  9072 I evgz    : (REDACTED) AppFlow %s is about to be transmitted
+10-02 01:37:16.492  9056  9085 I fsox    : Scheduling next wakeup
+10-02 01:37:16.493  9056  9085 I fsqa    : Scheduling next periodic WorkManager workers
+10-02 01:37:16.506   772  2177 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cd78838e does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:37:16.509  9056  9081 D WM-SystemJobScheduler: Cancelling work ID a546a91b-ab9c-43fd-8454-cce09ed6d8c6, Job ID 175
+10-02 01:37:16.511   613  1242 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:37:16.522  9056  9081 I WM-GreedyScheduler: Ignoring schedule request in non-main process
+10-02 01:37:16.525  1189  1189 D RecentsView: onTaskDisplayChanged: 218, new displayId = 0
+10-02 01:37:16.527 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3a587b1 in: PAUSED
+10-02 01:37:16.527 10460 10460 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@3a587b1
+10-02 01:37:16.534 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+10-02 01:37:16.535 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+10-02 01:37:16.539  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:16.539  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:16.555  9056  9081 D WM-SystemJobScheduler: Scheduling work ID a546a91b-ab9c-43fd-8454-cce09ed6d8c6 (androidx.work.multiprocess.RemoteListenableDelegatingWorker), Job ID 200
+10-02 01:37:16.561  9056  9081 I WM-GreedyScheduler: Ignoring schedule request in a secondary process
+10-02 01:37:16.564  9056  9081 D WM-SystemJobScheduler: Cancelling work ID af586ceb-abf7-440d-ae4d-17bc47156872, Job ID 184
+10-02 01:37:16.568  9056  9081 I WM-GreedyScheduler: Ignoring schedule request in non-main process
+10-02 01:37:16.576  9056  9081 D WM-SystemJobScheduler: Scheduling work ID af586ceb-abf7-440d-ae4d-17bc47156872 (androidx.work.multiprocess.RemoteListenableDelegatingWorker), Job ID 201
+10-02 01:37:16.579 10503 10519 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-02 01:37:16.579  9056  9081 I WM-GreedyScheduler: Ignoring schedule request in a secondary process
+10-02 01:37:16.583  9056  9081 D WM-SystemJobScheduler: Cancelling work ID a737afca-9ec0-4900-a298-3af701b63464, Job ID 176
+10-02 01:37:16.594 10503 10519 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-02 01:37:16.597  9056  9081 I WM-GreedyScheduler: Ignoring schedule request in non-main process
+10-02 01:37:16.604  9056  9081 D WM-SystemJobScheduler: Scheduling work ID a737afca-9ec0-4900-a298-3af701b63464 (androidx.work.multiprocess.RemoteListenableDelegatingWorker), Job ID 202
+10-02 01:37:16.611  9056  9081 I WM-GreedyScheduler: Ignoring schedule request in a secondary process
+10-02 01:37:16.617  9056  9084 D WM-SystemJobScheduler: Cancelling work ID 2f6d1c2c-8046-49ee-b544-c9069b3428f9, Job ID 179
+10-02 01:37:16.620  9056  9084 I WM-GreedyScheduler: Ignoring schedule request in non-main process
+10-02 01:37:16.621  1365  4607 I HeterodyneSyncScheduler: (REDACTED) Scheduling Phenotype for a %s(%d, %s) one off with window [%d, %d] in seconds
+10-02 01:37:16.634  9056  9084 I WM-GreedyScheduler: Ignoring schedule request in a secondary process
+10-02 01:37:16.635  8996  8996 D WM-SystemJobService: onStopJob for WorkGenerationalId(workSpecId=2f6d1c2c-8046-49ee-b544-c9069b3428f9, generation=12)
+10-02 01:37:16.639  8996  9035 D WM-Processor: WorkerWrapper interrupted for 2f6d1c2c-8046-49ee-b544-c9069b3428f9 (androidx.work.multiprocess.RemoteListenableDelegatingWorker), reason: 1
+10-02 01:37:16.640  8996  9035 D WM-StopWorkRunnable: StopWorkRunnable for 2f6d1c2c-8046-49ee-b544-c9069b3428f9; Processor.stopWork = true, reason: 1
+10-02 01:37:16.640  9056 10771 D WM-ListenableWorkerImpl: Interrupting work with id (2f6d1c2c-8046-49ee-b544-c9069b3428f9)
+10-02 01:37:16.643  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:16.644  8996  9044 D RemoteListenableDelegatingWorker: Cleaning up
+10-02 01:37:16.653  9056  9080 D WM-SystemJobScheduler: Cancelling work ID da817864-2437-4dc0-aea5-99537bc37a35, Job ID 178
+10-02 01:37:16.658  9056  9080 I WM-GreedyScheduler: Ignoring schedule request in non-main process
+10-02 01:37:16.671  9056  9080 D WM-SystemJobScheduler: Scheduling work ID da817864-2437-4dc0-aea5-99537bc37a35 (androidx.work.multiprocess.RemoteListenableDelegatingWorker), Job ID 203
+10-02 01:37:16.673  9056  9080 I WM-GreedyScheduler: Ignoring schedule request in a secondary process
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: Work [ id=2f6d1c2c-8046-49ee-b544-c9069b3428f9, class=androidx.work.multiprocess.RemoteListenableDelegatingWorker, tags={ com.google.apps.tiktok.contrib.work.TikTokListenableWorker,com.google.apps.tiktok.sync.impl.workmanager.SyncPeriodicWorker_proc<googleapp>,sync_constraint:connected,TikTokWorker#com.google.apps.tiktok.sync.impl.workmanager.SyncPeriodicWorker } ] was cancelled
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: rfl
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: 	at reb.e(PG:5)
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: 	at rkz.run(PG:92)
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: 	at rkt.run(PG:3)
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: 	at dmqu.run(PG:5)
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: 	at gcma.run(PG:46)
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: 	at dmqg.run(PG:81)
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: 	at java.lang.Thread.run(Thread.java:1563)
+10-02 01:37:16.674  8996  9044 I WM-WorkerWrapper: 	at dmrz.run(PG:63)
+10-02 01:37:16.676  9056  9080 D WM-SystemJobScheduler: Cancelling work ID 127c714b-9593-43b8-86e0-7cb9fa7569ff, Job ID 182
+10-02 01:37:16.682  9056  9080 I WM-GreedyScheduler: Ignoring schedule request in non-main process
+10-02 01:37:16.686  9056  9080 D WM-SystemJobScheduler: Scheduling work ID 127c714b-9593-43b8-86e0-7cb9fa7569ff (androidx.work.multiprocess.RemoteListenableDelegatingWorker), Job ID 204
+10-02 01:37:16.688  9056  9080 I WM-GreedyScheduler: Ignoring schedule request in a secondary process
+10-02 01:37:16.692  9056  9080 D WM-SystemJobScheduler: Cancelling work ID af586ceb-abf7-440d-ae4d-17bc47156872, Job ID 201
+10-02 01:37:16.693  8996  9044 D WM-WorkerWrapper: Status for 2f6d1c2c-8046-49ee-b544-c9069b3428f9 is RUNNING; not doing any work and rescheduling for later execution
+10-02 01:37:16.707  8996  8996 D WM-Processor: reb 2f6d1c2c-8046-49ee-b544-c9069b3428f9 executed; reschedule = true
+10-02 01:37:16.707  8996  8996 D WM-GreedyScheduler: Stopping tracking for WorkGenerationalId(workSpecId=2f6d1c2c-8046-49ee-b544-c9069b3428f9, generation=12)
+10-02 01:37:16.709  8996  9035 D WM-GreedyScheduler: Cancelling work ID 2f6d1c2c-8046-49ee-b544-c9069b3428f9
+10-02 01:37:16.709  9056  9080 I WM-GreedyScheduler: Ignoring schedule request in non-main process
+10-02 01:37:16.716  9056  9080 D WM-SystemJobScheduler: Scheduling work ID af586ceb-abf7-440d-ae4d-17bc47156872 (androidx.work.multiprocess.RemoteListenableDelegatingWorker), Job ID 205
+10-02 01:37:16.727  9056  9080 D WM-SystemJobScheduler: Scheduling work ID 2f6d1c2c-8046-49ee-b544-c9069b3428f9 (androidx.work.multiprocess.RemoteListenableDelegatingWorker), Job ID 206
+10-02 01:37:16.731  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:16.738  9056  9080 I WM-GreedyScheduler: Ignoring schedule request in a secondary process
+10-02 01:37:16.741  9056  9085 I fsqa    : Successfully scheduled next periodic workers
+10-02 01:37:16.743   613   702 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:37:16.743  9056  9081 I fsox    : #sync() complete
+10-02 01:37:16.749 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@c9867c1
+10-02 01:37:16.749 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:37:16.754  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:16.760  8996  9035 D WM-GreedyScheduler: Starting tracking for 356cc234-d096-4daf-94e1-6bf2a2390b57,bd6690e0-4b1c-4779-8677-5b648eebef11,e0021dea-a86b-4ac3-ad1a-161f05fbad0b,328d21e4-f3c0-4748-acdb-ef086b26dd9d,a93abcbe-9d52-43a4-935f-67dc6c912b19,da5f1bbc-0964-4d5a-8268-ba913b0d940b,402a7860-d318-4079-9e1f-118cb46cc5d3,16c65131-195b-4df7-835a-60ea92426333,659bfde9-0d14-41cc-8edc-fcfc873201a6,514222b8-7437-4715-98af-5a68234a4097
+10-02 01:37:16.774  9056 10771 V ClearcutMetricXmitter: Transmission is done.
+10-02 01:37:16.821  1189  1189 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:37:16.821  1189  1189 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+10-02 01:37:16.823  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+10-02 01:37:16.824  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+10-02 01:37:16.825  1189  1189 D StatsLog: LAUNCHER_ONRESUME
+10-02 01:37:16.828  1189  1247 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+10-02 01:37:16.830  1603  1942 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-02 01:37:16.830  1603  1942 I AiAiEcho: EchoTargets:
+10-02 01:37:16.830  1603  1942 I AiAiEcho: Filtered by AiAi flag check:
+10-02 01:37:16.830  1603  1942 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-02 01:37:16.830  1603  1942 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-02 01:37:16.831  1603  1942 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-02 01:37:16.832  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-02 01:37:16.839  1025  1349 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:37:16.841  1189  1189 D BaseDepthController: setSurface:
+10-02 01:37:16.841  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:37:16.841  1189  1189 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#4001)/@0x5ee1042
+10-02 01:37:16.841  1189  1189 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#4001)/@0x5ee1042 applyImmediately: false
+10-02 01:37:16.841  1189  1189 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{c12d8a9 V.ED..... .......D 0,0-1080,2400 #7f0a049d app:id/workspace}, com.android.launcher3.Hotseat{dbfee2e V.ED..... .......D 0,1905-1080,2400 #7f0a01ee app:id/hotseat}]
+10-02 01:37:16.900  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:37:16.900  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:37:16.900  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:37:16.900  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:37:16.900  1189  1189 I SsBaseTemplateCard: Secondary card pane is null
+10-02 01:37:16.908 10460 10460 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:37:16.913  1189  1189 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+10-02 01:37:16.913  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:18)
+10-02 01:37:16.913  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:646)
+10-02 01:37:16.913  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:96)
+10-02 01:37:16.914  1189  1189 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+10-02 01:37:16.914  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:20)
+10-02 01:37:16.914  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:11)
+10-02 01:37:16.914  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:683)
+10-02 01:37:16.914  1189  1189 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+10-02 01:37:16.916  1189  1189 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+10-02 01:37:16.917  1189  1189 D b/311077782: LauncherAnimationRunner.setAnimation
+10-02 01:37:16.921  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-02 01:37:16.928   772   890 I ImeTracker: com.google.android.apps.nexuslauncher:91c645ea: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:37:16.932  1189  1189 I ImeTracker: com.google.android.apps.nexuslauncher:91c645ea: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:37:16.934  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:16.939  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:37:16.942  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:37:16.942   772  2141 I ImeTracker: system_server:a60ba20b: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:37:16.943  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:37:16.944   772   799 I ImeTracker: system_server:a60ba20b: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:37:16.945  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:37:16.951 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3a587b1 in: STOPPED
+10-02 01:37:16.952 10460 10460 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@3a587b1
+10-02 01:37:16.976 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:37:16.976 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@3a587b1 in: DESTROYED
+10-02 01:37:16.977 10460 10460 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-02 01:37:16.981 10460 10474 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@1943727]
+10-02 01:37:16.983 10460 10460 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:37:16.993 10460 10474 I TestRunner: finished: unaButacaOcupadaPorRoomNoSePuedeSeleccionar(com.cinemax.cliente.ui.SeleccionButacasScreenTest)

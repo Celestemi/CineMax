@@ -1,0 +1,2 @@
+10-02 01:36:12.065 10460 10474 I TestRunner: started: g_laSalaTraeSuMapaDeButacasCompleto(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:12.153 10460 10474 I TestRunner: finished: g_laSalaTraeSuMapaDeButacasCompleto(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

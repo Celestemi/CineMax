@@ -1,0 +1,2 @@
+10-02 01:38:31.066 10460 10474 I TestRunner: started: limpiarEstadoNoBorraUnaSesionYaConcedida(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:31.093 10460 10474 I TestRunner: finished: limpiarEstadoNoBorraUnaSesionYaConcedida(com.cinemax.cliente.viewmodel.AuthViewModelTest)

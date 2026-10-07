@@ -1,0 +1,2 @@
+10-02 01:36:06.457 10460 10474 I TestRunner: started: b_unGeneroNoActivoSeNormalizaAntesDeConsultar(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:06.553 10460 10474 I TestRunner: finished: b_unGeneroNoActivoSeNormalizaAntesDeConsultar(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

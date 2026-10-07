@@ -1,0 +1,2 @@
+10-02 01:38:40.508 10460 10474 I TestRunner: started: limpiarSeleccionVuelveACero(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:40.610 10460 10474 I TestRunner: finished: limpiarSeleccionVuelveACero(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

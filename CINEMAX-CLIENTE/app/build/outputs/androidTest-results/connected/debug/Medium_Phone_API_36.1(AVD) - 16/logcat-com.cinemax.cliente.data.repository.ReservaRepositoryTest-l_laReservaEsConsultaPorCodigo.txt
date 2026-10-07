@@ -1,0 +1,2 @@
+10-02 01:36:10.755 10460 10474 I TestRunner: started: l_laReservaEsConsultaPorCodigo(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:10.855 10460 10474 I TestRunner: finished: l_laReservaEsConsultaPorCodigo(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

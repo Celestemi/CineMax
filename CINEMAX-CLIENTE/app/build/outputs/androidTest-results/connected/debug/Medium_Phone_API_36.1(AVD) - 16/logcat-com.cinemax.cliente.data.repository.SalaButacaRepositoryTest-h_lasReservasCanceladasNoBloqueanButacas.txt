@@ -1,0 +1,2 @@
+10-02 01:36:13.439 10460 10474 I TestRunner: started: h_lasReservasCanceladasNoBloqueanButacas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:13.592 10460 10474 I TestRunner: finished: h_lasReservasCanceladasNoBloqueanButacas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

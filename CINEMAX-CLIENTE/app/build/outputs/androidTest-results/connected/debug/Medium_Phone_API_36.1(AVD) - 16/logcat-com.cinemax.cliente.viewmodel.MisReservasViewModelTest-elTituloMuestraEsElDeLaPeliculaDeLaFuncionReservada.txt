@@ -1,0 +1,2 @@
+10-02 01:38:36.675 10460 10474 I TestRunner: started: elTituloMuestraEsElDeLaPeliculaDeLaFuncionReservada(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)
+10-02 01:38:36.854 10460 10474 I TestRunner: finished: elTituloMuestraEsElDeLaPeliculaDeLaFuncionReservada(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)

@@ -1,0 +1,2 @@
+10-02 01:38:39.600 10460 10474 I TestRunner: started: p_unaButacaOcupadaDuranteLaCompraSeRechaza(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:39.743 10460 10474 I TestRunner: finished: p_unaButacaOcupadaDuranteLaCompraSeRechaza(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

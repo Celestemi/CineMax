@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinemax.cliente.state.AuthUiStateTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-02T01:35:45.504Z" hostname="DESKTOP-65CNQ55" time="0.008">
+  <properties/>
+  <testcase name="D - solo el rol CLIENTE cumple el rol permitido en la app Cliente" classname="com.cinemax.cliente.state.AuthUiStateTest" time="0.003"/>
+  <testcase name="la sesion transporta los datos visibles en Home" classname="com.cinemax.cliente.state.AuthUiStateTest" time="0.0"/>
+  <testcase name="el rol del dominio se lee del texto persistido" classname="com.cinemax.cliente.state.AuthUiStateTest" time="0.0"/>
+  <testcase name="cada causa de rechazo tiene su propio estado" classname="com.cinemax.cliente.state.AuthUiStateTest" time="0.002"/>
+  <testcase name="F - un usuario inactivo no cumple aunque sea CLIENTE" classname="com.cinemax.cliente.state.AuthUiStateTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,2 @@
+10-02 01:36:07.841 10460 10474 I TestRunner: started: a_unaFuncionInactivaDesapareceDeLaCartelera(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:07.958 10460 10474 I TestRunner: finished: a_unaFuncionInactivaDesapareceDeLaCartelera(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

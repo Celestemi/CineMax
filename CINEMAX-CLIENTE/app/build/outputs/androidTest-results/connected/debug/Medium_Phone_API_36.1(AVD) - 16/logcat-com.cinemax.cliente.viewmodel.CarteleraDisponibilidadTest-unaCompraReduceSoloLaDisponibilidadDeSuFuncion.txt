@@ -1,0 +1,2 @@
+10-02 01:38:31.513 10460 10474 I TestRunner: started: unaCompraReduceSoloLaDisponibilidadDeSuFuncion(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)
+10-02 01:38:31.710 10460 10474 I TestRunner: finished: unaCompraReduceSoloLaDisponibilidadDeSuFuncion(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)

@@ -1,0 +1,2 @@
+10-02 01:36:13.058 10460 10474 I TestRunner: started: laRevalidacionInformaQueButacasYaEstanOcupadas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:13.149 10460 10474 I TestRunner: finished: laRevalidacionInformaQueButacasYaEstanOcupadas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

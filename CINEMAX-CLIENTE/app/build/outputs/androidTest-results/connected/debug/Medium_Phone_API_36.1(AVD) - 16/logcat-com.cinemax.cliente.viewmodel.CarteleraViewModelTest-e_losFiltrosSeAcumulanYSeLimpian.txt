@@ -1,0 +1,2 @@
+10-02 01:38:34.051 10460 10474 I TestRunner: started: e_losFiltrosSeAcumulanYSeLimpian(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)
+10-02 01:38:34.226 10460 10474 I TestRunner: finished: e_losFiltrosSeAcumulanYSeLimpian(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)

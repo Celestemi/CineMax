@@ -1,0 +1,2 @@
+10-02 01:36:14.036 10460 10474 I TestRunner: started: siembraConLasCantidadesAcordadas(com.cinemax.cliente.data.seed.SeedInitializerTest)
+10-02 01:36:14.179 10460 10474 I TestRunner: finished: siembraConLasCantidadesAcordadas(com.cinemax.cliente.data.seed.SeedInitializerTest)

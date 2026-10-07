@@ -1,0 +1,2 @@
+10-02 01:36:05.243 10460 10474 I TestRunner: started: f_rechazaUnUsuarioInactivoAunqueLaContrasenaSeaCorrecta(com.cinemax.cliente.data.repository.AuthRepositoryTest)
+10-02 01:36:05.260 10460 10474 I TestRunner: finished: f_rechazaUnUsuarioInactivoAunqueLaContrasenaSeaCorrecta(com.cinemax.cliente.data.repository.AuthRepositoryTest)

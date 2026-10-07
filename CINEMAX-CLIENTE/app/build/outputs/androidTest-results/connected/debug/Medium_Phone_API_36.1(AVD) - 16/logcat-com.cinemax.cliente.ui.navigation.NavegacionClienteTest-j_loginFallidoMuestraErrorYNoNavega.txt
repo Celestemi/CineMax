@@ -1,0 +1,754 @@
+10-02 01:38:07.751 10460 10474 I TestRunner: started: j_loginFallidoMuestraErrorYNoNavega(com.cinemax.cliente.ui.navigation.NavegacionClienteTest)
+10-02 01:38:07.756  1189  1189 D RecentsView: onTaskRemoved: 233, not handling task stack changes
+10-02 01:38:07.757  1189  1189 D RecentsView: onTaskRemoved: 233, not handling task stack changes
+10-02 01:38:07.766 10460 10474 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@9c539fb]
+10-02 01:38:07.771 10460 10474 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-02 01:38:07.775  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:07.788   772  1390 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cbc3aaef does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:38:07.816  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+10-02 01:38:07.817  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+10-02 01:38:07.820  1189  1189 W SplitSelectStateCtor: Missing session instanceIds
+10-02 01:38:07.821  1189  1189 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-02 01:38:07.833  1189  1189 D RecentsView: onTaskDisplayChanged: 235, new displayId = 0
+10-02 01:38:07.833   613   625 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:38:07.835  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:07.835  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:07.853  1189  1189 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+10-02 01:38:07.855 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@84cedcf in: PRE_ON_CREATE
+10-02 01:38:07.865 10460 10460 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-02 01:38:07.869 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@84cedcf in: CREATED
+10-02 01:38:07.869 10460 10460 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@84cedcf
+10-02 01:38:07.870 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@84cedcf in: STARTED
+10-02 01:38:07.870 10460 10460 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@84cedcf
+10-02 01:38:07.871 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@84cedcf in: RESUMED
+10-02 01:38:07.872 10460 10460 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@84cedcf
+10-02 01:38:07.886 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@30b2960
+10-02 01:38:07.887 10460 10460 D VRI[ComponentActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:38:07.963 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:38:08.046   772   796 I ActivityTaskManager: Displayed com.cinemax.cliente/androidx.activity.ComponentActivity for user 0: +254ms
+10-02 01:38:08.052  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:08.056  1189  1189 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-02 01:38:08.058  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <144:RUNNING:82%[82%]> in group com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:08.058  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:08.058  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:08.059  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:08.059  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=144
+10-02 01:38:08.059  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk reason=auto_update isid=SaT0cqzoSImmTjwhIVaBYQ, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 3342320/4062104
+10-02 01:38:08.059  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <144:RUNNING:82%[82%]>
+10-02 01:38:08.060  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=c13b7209-9d25-404a-a11b-354c19606eb5 request_id=144 pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:08.060  2733  2917 I Finsky:background: [55] DSC: reviveDownload(144)
+10-02 01:38:08.060  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=144)
+10-02 01:38:08.062  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:08.063  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=144, files_to_download=[com.google.android.accessibility.switchaccess.apk(size:4062104)], context[group_id=com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ], display_data[invisible=true, title=Switch Access], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=3342320, total_bytes=4062104, retry[count=0, next_retry=n/a])
+10-02 01:38:08.074  2733  2733 I Finsky:background: [2] RF: onProgress request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ artifact_bytes=3342320/4062104 pkg_bytes=3106890/4154354
+10-02 01:38:08.075  2733  2733 I Finsky:background: [2] Updated time lastBroadcast=2026-10-02T01:38:04.060Z current=2026-10-02T01:38:08.075Z
+10-02 01:38:08.075  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 3434570 / 4154354 / 0.826740
+10-02 01:38:08.075  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] status:RESOURCE_FETCH_PROGRESS, size: 3434570/4154354
+10-02 01:38:08.082   772  1990 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:38:08.087  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H19M36.932S, attempt=0
+10-02 01:38:08.101 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:38:08.103 10503 10503 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:38:08.114   772   890 I ImeTracker: com.cinemax.cliente:74e41c18: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:38:08.115  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.accessibility.switchaccess, isid: SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:08.116  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.accessibility.switchaccess
+10-02 01:38:08.122 10460 10460 I ImeTracker: com.cinemax.cliente:74e41c18: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:38:08.124  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING]
+10-02 01:38:08.141  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:38:08.142  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:38:08.143   772  1990 I ImeTracker: system_server:31866f13: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:38:08.143  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:38:08.145   772   799 I ImeTracker: system_server:31866f13: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:38:08.148  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:08.152  1189  1189 D RecentsView: onTaskRemoved: 234, not handling task stack changes
+10-02 01:38:08.153  1189  1189 D RecentsView: onTaskRemoved: 234, not handling task stack changes
+10-02 01:38:08.153  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:08.190  1189  1204 W System  : A resource failed to call release.
+10-02 01:38:08.190  1189  1204 W System  : A resource failed to call release.
+10-02 01:38:08.190  1189  1204 W System  : A resource failed to call release.
+10-02 01:38:08.190  1189  1204 W System  : A resource failed to call HardwareBuffer.close.
+10-02 01:38:08.308  1189  1189 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:38:08.309  1025  1349 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:38:08.319  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-02 01:38:08.324   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:38:08.337  1189  1189 D BaseActivity: Launcher flags updated: [] -[state_started]
+10-02 01:38:08.337  1189  1189 D BaseDepthController: setSurface:
+10-02 01:38:08.337  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:38:08.337  1189  1189 D BaseDepthController: 	mBaseSurface: null
+10-02 01:38:08.337  1189  1189 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-02 01:38:08.337  1189  1189 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+10-02 01:38:08.337  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:6)
+10-02 01:38:08.337  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:2)
+10-02 01:38:08.337  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:32)
+10-02 01:38:08.338  1189  1189 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+10-02 01:38:08.338  1189  1189 D ActivityContext: hideKeyboard
+10-02 01:38:08.338  1189  1189 D ActivityContext: isImeShown: false
+10-02 01:38:08.338  1189  1189 D StatsLog: LAUNCHER_ONSTOP
+10-02 01:38:08.339  1189  1189 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-02 01:38:08.479  2733  2860 I Finsky:background: [41] Stats for Executor: BlockingExecutor xun@abee2c1[Running, pool size = 2, active threads = 0, queued tasks = 0, completed tasks = 812]
+10-02 01:38:08.652   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:38:08.842 10946 10946 W libbinder.BackendUnifiedServiceManager: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: package
+10-02 01:38:08.909  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/base.odex) is kOatUpToDate with filter 'speed-profile' executable 'false'
+10-02 01:38:08.914  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_AdsDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:08.919  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_CronetDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:08.922  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_DynamiteLoader_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:08.924  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_DynamiteModulesA_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:08.927  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_DynamiteModulesC_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:08.931  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_GoogleCertificates_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:08.936  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_MapsDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:08.938  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_MeasurementDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:08.941  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_all_locale_splits.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:08.944  2188  2188 I artd    : GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/0C4F7ED4FBAFD8F0B9C2015293C70B84A7E731C8/oat/x86_64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+10-02 01:38:08.945  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000001/CronetDynamite.apk has no usable artifacts
+10-02 01:38:08.949  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000014/dl-Appsearch.optional_263234100800.apk has no usable artifacts
+10-02 01:38:08.952  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000d/dl-MlkitOcrCommon.optional_263234100800.apk has no usable artifacts
+10-02 01:38:08.956  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.apk has no usable artifacts
+10-02 01:38:08.959  2188  2188 I artd    : GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/FBBAB0C936B5DF55F009F8BAF903A19505BD33A3/oat/x86_64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+10-02 01:38:08.962  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000f/dl-VisionOcr.optional_263234100000.apk has no usable artifacts
+10-02 01:38:08.967  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000008/dl-TfliteDynamiteDynamite.integ_260580502100800.apk has no usable artifacts
+10-02 01:38:08.967  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk has no usable artifacts
+10-02 01:38:08.969  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000011/dl-IdentityCredentialsPlatform.optional_263234100800.apk has no usable artifacts
+10-02 01:38:08.972  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000c/dl-MlkitBarcodeUi.optional_263234100800.apk has no usable artifacts
+10-02 01:38:08.996  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000a/dl-MlkitOcrCommon.optional_253434100800.apk has no usable artifacts
+10-02 01:38:09.001  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000012/dl-PlayCloudSearch.optional_263234100000.apk has no usable artifacts
+10-02 01:38:09.008  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000009/dl-VisionOcr.optional_253434100000.apk has no usable artifacts
+10-02 01:38:09.010  2188  4148 I artd    : GetBestInfo: /data/user/0/com.google.android.gms/app_dg_cache/D76594F451C00E79F4C61E3B54BC3D01968BC47C/the.apk has no usable artifacts
+10-02 01:38:09.012  2188  4148 I artd    : GetBestInfo: /data/user/0/com.google.android.gms/app_dg_cache/EC7C859F3FC767BB82D82EE06B046D25E8EB9283/the.apk has no usable artifacts
+10-02 01:38:09.015  2188  4148 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000013/dl-TfliteDynamiteDynamite.integ_262730502100800.apk has no usable artifacts
+10-02 01:38:09.019  2188  4148 W artd    : Could not get dex checksums for location /data/app/~~EDSqc8WM5xhdmhPMQP3aMA==/com.android.vending-Vu9urAfZyyJOFhBtySjq5g==/base.apk, fd=-1
+10-02 01:38:09.025  2188  4148 I artd    : GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/33EEFCDDEF7EECFCBCB86B77A3024BEF5E2711F4/oat/x86_64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+10-02 01:38:10.602   772   929 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+10-02 01:38:10.604   772   929 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+10-02 01:38:10.604   772   929 D InetDiagMessage: Destroyed live tcp sockets for uids={10201} in 2ms
+10-02 01:38:10.622  1365  2367 I libbinder.IPCThreadState: oneway function results for code 1 on binder at 0x74b240c3abb0 will be dropped but finished with status UNKNOWN_TRANSACTION and reply parcel size 80
+10-02 01:38:10.711  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <144:RUNNING:88%[88%]> in group com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:10.711  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:10.711  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:10.711  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:10.711  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=144
+10-02 01:38:10.711  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk reason=auto_update isid=SaT0cqzoSImmTjwhIVaBYQ, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 3588080/4062104
+10-02 01:38:10.711  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <144:RUNNING:88%[88%]>
+10-02 01:38:10.713  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=c13b7209-9d25-404a-a11b-354c19606eb5 request_id=144 pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:10.713  2733  2917 I Finsky:background: [55] DSC: reviveDownload(144)
+10-02 01:38:10.720  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=144)
+10-02 01:38:10.722  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=144, files_to_download=[com.google.android.accessibility.switchaccess.apk(size:4062104)], context[group_id=com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ], display_data[invisible=true, title=Switch Access], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=3588080, total_bytes=4062104, retry[count=0, next_retry=n/a])
+10-02 01:38:10.727  2733  2733 I Finsky:background: [2] RF: onProgress request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ artifact_bytes=3588080/4062104 pkg_bytes=3434570/4154354
+10-02 01:38:10.727  2733  2733 I Finsky:background: [2] Updated time lastBroadcast=2026-10-02T01:38:08.075Z current=2026-10-02T01:38:10.727Z
+10-02 01:38:10.727  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 3680330 / 4154354 / 0.885897
+10-02 01:38:10.733  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] status:RESOURCE_FETCH_PROGRESS, size: 3680330/4154354
+10-02 01:38:10.736  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H19M39.581S, attempt=0
+10-02 01:38:10.752  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.accessibility.switchaccess, isid: SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:10.757  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.accessibility.switchaccess
+10-02 01:38:10.761  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING]
+10-02 01:38:11.657   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:38:12.675 10460 10460 I ImeTracker: com.cinemax.cliente:6c6fcb94: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+10-02 01:38:12.677  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:38:12.681  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:38:12.685  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+10-02 01:38:12.685 10460 10460 I AssistStructure: Flattened final assist data: 712 bytes, containing 1 windows, 4 views
+10-02 01:38:12.689  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=8001, inputTypeString=Normal[AutoCorrect], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=2000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[mParcelledData.dataSize=404], hintText=null, hintLocales=[]}}, false)
+10-02 01:38:12.693  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:12.698  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=8001, inputTypeString=Normal[AutoCorrect], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=2000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[mParcelledData.dataSize=404], hintText=null, hintLocales=[]}}, true)
+10-02 01:38:12.698  1457  1457 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+10-02 01:38:12.700  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:12.703  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1411 onStartInputView(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=8001, inputTypeString=Normal[AutoCorrect], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=2000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=11, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=null, hintLocales=[]}}, false)
+10-02 01:38:12.705  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():108 systemKeyboardHeightRatio:1.000000.
+10-02 01:38:12.710  1365  1365 I GmsCoreXrpcWrapper: (REDACTED) Creating an unauthenticated channel provider with trafficStatsTag=%d trafficStatsUid=%d
+10-02 01:38:12.716  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <144:RUNNING:94%[94%]> in group com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:12.716  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:12.716  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:12.716  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:12.716  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=144
+10-02 01:38:12.716  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk reason=auto_update isid=SaT0cqzoSImmTjwhIVaBYQ, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 3850224/4062104
+10-02 01:38:12.717  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <144:RUNNING:94%[94%]>
+10-02 01:38:12.717  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=c13b7209-9d25-404a-a11b-354c19606eb5 request_id=144 pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:12.717  2733  2917 I Finsky:background: [55] DSC: reviveDownload(144)
+10-02 01:38:12.718  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=144)
+10-02 01:38:12.718  1205  1205 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:1105687508
+10-02 01:38:12.721  1365  2367 I libbinder.IPCThreadState: oneway function results for code 1 on binder at 0x74b240c471b0 will be dropped but finished with status UNKNOWN_TRANSACTION and reply parcel size 80
+10-02 01:38:12.722  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=144, files_to_download=[com.google.android.accessibility.switchaccess.apk(size:4062104)], context[group_id=com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ], display_data[invisible=true, title=Switch Access], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=3850224, total_bytes=4062104, retry[count=0, next_retry=n/a])
+10-02 01:38:12.725  2733  2733 I Finsky:background: [2] RF: onProgress request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ artifact_bytes=3850224/4062104 pkg_bytes=3680330/4154354
+10-02 01:38:12.725  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:12.826 10460 10460 I ImeTracker: com.cinemax.cliente:a5ec89c5: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+10-02 01:38:12.827 10460 10460 I ImeTracker: com.cinemax.cliente:a5ec89c5: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+10-02 01:38:12.834 10460 10460 W RemoteInputConnectionImpl: requestCursorUpdates on inactive InputConnection
+10-02 01:38:12.841 10460 10460 D Autofill Status: Autofill popup isn't shown because autofill is not available.
+10-02 01:38:12.841 10460 10460 D Autofill Status:
+10-02 01:38:12.841 10460 10460 D Autofill Status: Did you set up autofill?
+10-02 01:38:12.841 10460 10460 D Autofill Status: 1. Go to Settings > System > Languages&input > Advanced > Autofill Service
+10-02 01:38:12.841 10460 10460 D Autofill Status: 2. Pick a service
+10-02 01:38:12.841 10460 10460 D Autofill Status:
+10-02 01:38:12.841 10460 10460 D Autofill Status: Did you add an account?
+10-02 01:38:12.841 10460 10460 D Autofill Status: 1. Go to Settings > System > Languages&input > Advanced
+10-02 01:38:12.841 10460 10460 D Autofill Status: 2. Click on the settings icon next to the Autofill Service
+10-02 01:38:12.841 10460 10460 D Autofill Status: 3. Add your account
+10-02 01:38:12.844  1457  1457 W InputConnectionWrapper: InputConnectionWrapper.recordDuration():1623 IPC IC_GET_SURROUNDING_TEXT took 138 ms
+10-02 01:38:12.852  1457  1457 I AndroidIME: InputBundleManager.loadActiveInputBundleId():528 loadActiveInputBundleId: en-US, ime_english_united_states
+10-02 01:38:12.852  1457  1457 I AndroidIME: AbstractIme.onActivate():96 LatinIme.onActivate() : EditorInfo = EditorInfo{packageName=com.cinemax.cliente, inputType=8001, inputTypeString=Normal[AutoCorrect], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=2000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=11, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=null, hintLocales=[]}, IncognitoMode = false, DeviceLocked = false
+10-02 01:38:12.853  1457  1457 I InputBundle: InputBundle.consumeEvent():1011 Skip consuming an event as keyboard status is INACTIVE
+10-02 01:38:12.853  1457  1457 I Delight5Facilitator: Delight5Facilitator.initializeForIme():731 initializeForIme() : Locale = [en_US], layout = qwerty
+10-02 01:38:12.855  1457  1457 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1246 inline flag updated to:false
+10-02 01:38:12.856  1457  1457 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1246 inline flag updated to:false
+10-02 01:38:12.858  1457  1457 I InputBundle: InputBundle.consumeEvent():1011 Skip consuming an event as keyboard status is INACTIVE
+10-02 01:38:12.858  1457  1457 I LatinIme: LatinIme.resetInputContext():2250 resetInputContext(): reason=1, externalEditsInfo=ExternalEditsInfo{action=0, offset=-1, text=null, originalText=null, edits=null}
+10-02 01:38:12.859  1457  1457 I InputBundle: InputBundle.consumeEvent():1011 Skip consuming an event as keyboard status is INACTIVE
+10-02 01:38:12.860  1457  1457 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():581 activateKeyboard(): type=prime, status=INACTIVE, imeDef=mir{stringId=ime_english_united_states, language=en-US, languageTag=en-US, processedConditions={writing_helper_enable_by_word_revert=false, true=true, enable_number_row=false, device=phone, enable_pk_simulator=false}, className=com.google.android.apps.inputmethod.libs.latin5.LatinIme, label=0, keyEventInterpreter=null, inlineComposing=true, autoCapital=true, announceAutoSelectedCandidate=true, statusIcon=0, indicatorIcon=0, indicatorLabel=US, displayAppCompletions=true, extraValues=mik{#0x7f0b02e0=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.latin5.LatinIme"}}, processors=mkj@ab7c7a4, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=true, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, keyboardGroupDef=mjs@10dfd9e, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=true}
+10-02 01:38:12.860  1457  1457 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard prime, imeId=ime_english_united_states, cacheKey=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,non_linear_scale,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup
+10-02 01:38:12.861  1457  1457 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():224 onKeyboardReady(): type=prime(prime), kb=com.google.android.apps.inputmethod.latin.keyboard.LatinPrimeKeyboard@726284c
+10-02 01:38:12.861  1457  1457 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():611 doActivateKeyboard(): prime
+10-02 01:38:12.876  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.877  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id undo_access_point_promotion_banner not found in tooltipManager.
+10-02 01:38:12.879  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:12.879  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.880  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.880  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.880  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.884  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():175
+10-02 01:38:12.886  1457  1457 W Keyboard: Keyboard.getKeyboardViewHelper():600 null helper is returned: keyboardDef=mjl{processedConditions={show_comma_key=true, enable_more_candidates_view_for_multilingual=false, layout_9key_split=false, enable_secondary_symbols=false, pref_enable_flick_symbols=false, language=en-US, deprecate_long_press_space_for_ime_picker=false, expressions=normal, enable_flick_symbols=true, variant=qwerty, show_period_key=true, device=phone, keyboard_mode=normal, show_secondary_digits=true, enable_preemptive_decode=true, enable_pk_simulator=false, bottom_period_popup_slash=false}, globalConditions={global_theme_key=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,non_linear_scale,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.LatinPrimeKeyboard, resourceIds=[#0x7f1705fb, #0x7f17088d], initialStates=0, keyboardViewDefs=[mka{direction=null, id=#0x7f0b0224, isScalable=true, layoutId=#0x7f0e0364, type=BODY, touchable=true, defaultShow=true}, mka{direction=null, id=#0x7f0b0224, isScalable=false, layoutId=#0x7f0e01f8, type=FLOATING_CANDIDATES, touchable=false, defaultShow=false}, mka{direction=LOCALE, id=#0x7f0b0224, isScalable=false, layoutId=#0x7f0e04ff, type=HEADER, touchable=true, defaultShow=true}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05f0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=17592186044419}, type=WIDGET, helpersCreated=[lvx@d8d2b25, lvx@bded4fa, lvx@6210aab, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.9 fontWeightAdjustment=0}
+10-02 01:38:12.888  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.892  1457  1457 I AndroidIME: InputBundleManager.startInput():358 startInput() with mjw[keyboardType=prime, payload=null]
+10-02 01:38:12.893  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.onActivate():120
+10-02 01:38:12.895  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020464, callback=cgm@297f3f0, lastModifier=2, keyCodes=[56], actions=[0]}
+10-02 01:38:12.895  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020464, callback=cgm@fc7e08f, lastModifier=0, keyCodes=[317], actions=[0]}
+10-02 01:38:12.895  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020464, callback=cgm@77a6b83, lastModifier=2, keyCodes=[56], actions=[0]}
+10-02 01:38:12.895  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020464, callback=cgm@67d5f7e, lastModifier=0, keyCodes=[317], actions=[0]}
+10-02 01:38:12.896  1457  1457 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():109 cancelShutdown()
+10-02 01:38:12.896  1457  1457 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():121 syncLanguagePacks()
+10-02 01:38:12.897  1457  1457 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1148 onKeyboardActivated() [UD]
+10-02 01:38:12.898  1457  1457 I PkModeUpdater: PkModeUpdater.onActivate():74 onActivate false true
+10-02 01:38:12.898  1457  1457 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():319 Accessory input mode started: null
+10-02 01:38:12.899  1457  1457 W SupplementaryKeyboardsWrapper: SupplementaryKeyboardsWrapper.deactivateKeyboard():161 keyboard accessory_candidates_consumer is not activated before!
+10-02 01:38:12.899  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020472, callback=gdc@4a3c7fb, lastModifier=2, keyCodes=[62], actions=[0]}
+10-02 01:38:12.901  1457  9621 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():217 maybeScheduleAutoPackDownloadForFallback()
+10-02 01:38:12.902  1457  9621 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():199 maybeScheduleAutoPackDownload() for language tag en-US
+10-02 01:38:12.902  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:12.903  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.903  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.903  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.903  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.903  1457  1457 W ExtensionWrapper: ExtensionWrapper.setExtensionViewVisibility():809 interface lzc is not activate
+10-02 01:38:12.905  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:12.905  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020464, callback=cgm@647c74c, lastModifier=2, keyCodes=[56], actions=[0]}
+10-02 01:38:12.905  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020464, callback=cgm@e3be09b, lastModifier=0, keyCodes=[317], actions=[0]}
+10-02 01:38:12.905  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020464, callback=cgm@fadabe2, lastModifier=2, keyCodes=[56], actions=[0]}
+10-02 01:38:12.906  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020464, callback=cgm@462a6a9, lastModifier=0, keyCodes=[317], actions=[0]}
+10-02 01:38:12.906  1457  1457 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomaticallyInCurrentInputBox():376 No private IME option set to start voice input.
+10-02 01:38:12.907  1457  1457 D ImeBackCallbackSender: Register OnBackInvokedCallback with priority=-1 at app window (packageName=com.cinemax.cliente)
+10-02 01:38:12.923 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@90a439c
+10-02 01:38:12.930  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:12.930  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.933  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.986  1457  1457 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=prime, keyboardViewType=HEADER keyboardView=com.google.android.libraries.inputmethod.widgets.SoftKeyboardView{8cc3774 V.E...... ........ 0,0-1080,116}
+10-02 01:38:12.987  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.988  1457  1457 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=prime, keyboardViewType=BODY keyboardView=com.google.android.libraries.inputmethod.widgets.SoftKeyboardView{86100f5 V.E...... ........ 0,0-1080,641}
+10-02 01:38:12.988  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:12.989  1457  1457 I GlobeKeyExtension: GlobeKeyExtension$1.onKeyboardViewShown():72 maybeDisableLanguageSwitchKeyPref when the keyboard is shown
+10-02 01:38:12.989  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.maybeDisableLanguageSwitchKeyPref():200 maybeDisableLanguageSwitchKeyPref hasGlobeKeyBeenDisabled: true, shouldDisableLanguageSwitchKey: true
+10-02 01:38:12.989  1457  1457 I NewLanguagePromptExtension: NewLanguagePromptExtension$1.onKeyboardViewShown():98 Not show new language banner: no change in enabled input method entries
+10-02 01:38:12.991  1457  1457 I DynamicLayoutHandler: DynamicLayoutHandler.loadDynamicKeys():83 This isn't a dynamic layout.
+10-02 01:38:12.992  1457  1905 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():537 setKeyboardLayout()
+10-02 01:38:13.005  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+10-02 01:38:13.007  1457  1457 I LatinIme: LatinIme.resetInputContext():2250 resetInputContext(): reason=5, externalEditsInfo=ExternalEditsInfo{action=0, offset=-1, text=null, originalText=null, edits=null}
+10-02 01:38:13.009  1457  1457 I UndoStack: UndoStack.offer$mayClearStack():167 InputContext OTHER_TEXT_CHANGE with content updates to clear undo
+10-02 01:38:13.010  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:13.011  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.011  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.023  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:13.023  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.023  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.032 10460 10460 D VRI[ComponentActivity]: WindowInsets changed: ime:[0,0,0,883]
+10-02 01:38:13.063  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-02 01:38:13.139 10460 10460 I AssistStructure: Flattened final assist data: 716 bytes, containing 1 windows, 4 views
+10-02 01:38:13.144 10460 10460 I ImeTracker: com.cinemax.cliente:60016650: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+10-02 01:38:13.144 10460 10460 I ImeTracker: com.cinemax.cliente:60016650: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+10-02 01:38:13.148  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+10-02 01:38:13.149  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=8081, inputTypeString=Password[AutoCorrect], enableLearning=false, autoCorrection=false, autoComplete=true, imeOptions=2000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[mParcelledData.dataSize=404], hintText=null, hintLocales=[]}}, true)
+10-02 01:38:13.150  1457  1457 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+10-02 01:38:13.150  1457  1457 W SessionManager: SessionManager.endSession():96 Child session [INPUT_VIEW_SESSION] is not ended while ending session [{IME_SESSION=1790905092852, INPUT_SESSION=1790905092699, TRAINING_CACHE_SESSION=1790905092853, INPUT_VIEW_SESSION=1790905092704}], ending it now.
+10-02 01:38:13.150  1457  1457 W SessionManager: SessionManager.endSession():96 Child session [IME_SESSION] is not ended while ending session [{IME_SESSION=1790905092852, INPUT_SESSION=1790905092699, TRAINING_CACHE_SESSION=1790905092853, INPUT_VIEW_SESSION=1790905092704}], ending it now.
+10-02 01:38:13.151   772   890 I ImeTracker: com.cinemax.cliente:ce82640a: onRequestShow at ORIGIN_SERVER reason ATTACH_NEW_INPUT fromUser false
+10-02 01:38:13.153   772   890 I ImeTracker: com.cinemax.cliente:ce82640a: onCancelled at PHASE_SERVER_ALREADY_VISIBLE
+10-02 01:38:13.155  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:13.155  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=0, callback=gdc@ed92e62, lastModifier=0, keyCodes=[57, 57], actions=[1, 0]}
+10-02 01:38:13.156  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=0, callback=gdc@a7beb29, lastModifier=0, keyCodes=[58, 58], actions=[1, 0]}
+10-02 01:38:13.158  1365  1365 I GmsCoreXrpcWrapper: (REDACTED) Creating an unauthenticated channel provider with trafficStatsTag=%d trafficStatsUid=%d
+10-02 01:38:13.159  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1411 onStartInputView(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=8081, inputTypeString=Password[AutoCorrect], enableLearning=false, autoCorrection=false, autoComplete=true, imeOptions=2000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=11, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=false, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=null, hintLocales=[]}}, true)
+10-02 01:38:13.164  1457  1457 I InputBundle: InputBundle.consumeEvent():1011 Skip consuming an event as keyboard status is INACTIVE
+10-02 01:38:13.166  1457  1457 I AndroidIME: AbstractIme.onDeactivate():216 LatinIme.onDeactivate()
+10-02 01:38:13.167  1457  1457 W SessionManager: SessionManager.endSession():88 Try to end a not begun session [IME_SESSION].
+10-02 01:38:13.168  1205  1205 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:1171377310
+10-02 01:38:13.168  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():108 systemKeyboardHeightRatio:1.000000.
+10-02 01:38:13.170  1457  1866 W ModuleManager: ModuleManager.loadModule():573 Module nzs is not available
+10-02 01:38:13.306 10460 10460 I ImeTracker: com.cinemax.cliente:1a6ffc85: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+10-02 01:38:13.307 10460 10460 I ImeTracker: com.cinemax.cliente:1a6ffc85: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+10-02 01:38:13.318 10460 10460 D Autofill Status: Autofill popup isn't shown because autofill is not available.
+10-02 01:38:13.318 10460 10460 D Autofill Status:
+10-02 01:38:13.318 10460 10460 D Autofill Status: Did you set up autofill?
+10-02 01:38:13.318 10460 10460 D Autofill Status: 1. Go to Settings > System > Languages&input > Advanced > Autofill Service
+10-02 01:38:13.318 10460 10460 D Autofill Status: 2. Pick a service
+10-02 01:38:13.318 10460 10460 D Autofill Status:
+10-02 01:38:13.318 10460 10460 D Autofill Status: Did you add an account?
+10-02 01:38:13.318 10460 10460 D Autofill Status: 1. Go to Settings > System > Languages&input > Advanced
+10-02 01:38:13.318 10460 10460 D Autofill Status: 2. Click on the settings icon next to the Autofill Service
+10-02 01:38:13.318 10460 10460 D Autofill Status: 3. Add your account
+10-02 01:38:13.336  1457  1457 W InputConnectionWrapper: InputConnectionWrapper.recordDuration():1623 IPC IC_GET_SURROUNDING_TEXT took 166 ms
+10-02 01:38:13.339  1457  1457 I AndroidIME: InputBundleManager.loadActiveInputBundleId():528 loadActiveInputBundleId: und-Latn-x-password, password
+10-02 01:38:13.339  1457  1457 I AndroidIME: AbstractIme.onActivate():96 PasswordIme.onActivate() : EditorInfo = EditorInfo{packageName=com.cinemax.cliente, inputType=8081, inputTypeString=Password[AutoCorrect], enableLearning=false, autoCorrection=false, autoComplete=true, imeOptions=2000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=-1, fieldName=null, extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=11, androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=false, android.support.text.emoji.emojiCompat_replaceAll=false}], hintText=null, hintLocales=[]}, IncognitoMode = false, DeviceLocked = false
+10-02 01:38:13.342  1457  1457 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():581 activateKeyboard(): type=prime, status=INACTIVE, imeDef=mir{stringId=password, language=und-Latn-x-password, languageTag=und-Latn-x-password, processedConditions={writing_helper_enable_by_word_revert=false, enable_access_points_in_password_number=true, variant=qwerty, true=true, language=en-US, enable_number_row=true, device=phone, enable_number_row_in_password=true, enable_pk_simulator=false}, className=com.google.android.libraries.inputmethod.ime.password.PasswordIme, label=2132019269, keyEventInterpreter=null, inlineComposing=true, autoCapital=true, announceAutoSelectedCandidate=true, statusIcon=0, indicatorIcon=0, indicatorLabel=null, displayAppCompletions=false, extraValues=mik{}, processors=mkj@ab7c7a4, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=false, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, keyboardGroupDef=mjs@bec290d, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=false}
+10-02 01:38:13.343  1457  1457 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard prime, imeId=password, cacheKey=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,non_linear_scale,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup
+10-02 01:38:13.348  1457  1457 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():224 onKeyboardReady(): type=prime(prime), kb=com.google.android.apps.inputmethod.latin.keyboard.LatinPasswordKeyboard@e51a320
+10-02 01:38:13.348  1457  1457 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():611 doActivateKeyboard(): prime
+10-02 01:38:13.368 10460 10460 I ImeTracker: com.cinemax.cliente:6c6fcb94: onShown
+10-02 01:38:13.377  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.378  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id undo_access_point_promotion_banner not found in tooltipManager.
+10-02 01:38:13.382  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:13.383  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.383  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.383  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.383  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.384  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():175
+10-02 01:38:13.385  1457  1457 W Keyboard: Keyboard.getKeyboardViewHelper():600 null helper is returned: keyboardDef=mjl{processedConditions={show_comma_key=true, enable_more_candidates_view_for_multilingual=false, layout_9key_split=false, enable_secondary_symbols=false, pref_enable_flick_symbols=false, language=en-US, deprecate_long_press_space_for_ime_picker=false, show_suggestion_strip=true, expressions=normal, enable_access_points_in_password_number=true, enable_correction_settings_updates=true, enable_flick_symbols=true, variant=qwerty, show_period_key=true, enable_number_row=true, device=phone, keyboard_mode=normal, show_secondary_digits=false, enable_preemptive_decode=true, enable_pk_simulator=false, bottom_period_popup_slash=false}, globalConditions={global_theme_key=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,non_linear_scale,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.LatinPasswordKeyboard, resourceIds=[#0x7f1705fb, #0x7f17088d, #0x7f1706bb], initialStates=0, keyboardViewDefs=[mka{direction=null, id=#0x7f0b0224, isScalable=true, layoutId=#0x7f0e029e, type=BODY, touchable=true, defaultShow=true}, mka{direction=null, id=#0x7f0b0224, isScalable=false, layoutId=#0x7f0e01f8, type=FLOATING_CANDIDATES, touchable=false, defaultShow=false}, mka{direction=LOCALE, id=#0x7f0b0224, isScalable=false, layoutId=#0x7f0e04ff, type=HEADER, touchable=true, defaultShow=true}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05f0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=17592186044419}, type=WIDGET, helpersCreated=[lvx@8ce05e2, lvx@44f8d73, lvx@cea7430, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.9 fontWeightAdjustment=0}
+10-02 01:38:13.385  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.390  1457  1457 I AndroidIME: InputBundleManager.startInput():358 startInput() with mjw[keyboardType=prime, payload=null]
+10-02 01:38:13.390  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.onDeactivate():144
+10-02 01:38:13.390  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+10-02 01:38:13.391  1457  1457 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():131 shutdown()
+10-02 01:38:13.391  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020472, callback=gdc@4a3c7fb, lastModifier=2, keyCodes=[62], actions=[0]}
+10-02 01:38:13.392  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.onActivate():120
+10-02 01:38:13.392  1457  1457 I NewLanguagePromptExtension: NewLanguagePromptExtension.onActivate():189 Not activated NewLanguagePromptExtension: not a normal text input box.
+10-02 01:38:13.392  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020464, callback=cgm@77a6b83, lastModifier=2, keyCodes=[56], actions=[0]}
+10-02 01:38:13.393  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020464, callback=cgm@67d5f7e, lastModifier=0, keyCodes=[317], actions=[0]}
+10-02 01:38:13.393  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020464, callback=cgm@87faa4c, lastModifier=2, keyCodes=[56], actions=[0]}
+10-02 01:38:13.393  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020464, callback=cgm@1735f9b, lastModifier=0, keyCodes=[317], actions=[0]}
+10-02 01:38:13.393  1457  1457 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():109 cancelShutdown()
+10-02 01:38:13.393  1457  1457 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():121 syncLanguagePacks()
+10-02 01:38:13.396  1457  1457 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1148 onKeyboardActivated() [UD]
+10-02 01:38:13.398  1457  1457 I PkModeUpdater: PkModeUpdater.onActivate():74 onActivate false true
+10-02 01:38:13.399  1457  1457 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():319 Accessory input mode started: null
+10-02 01:38:13.399  1457  1457 W SupplementaryKeyboardsWrapper: SupplementaryKeyboardsWrapper.deactivateKeyboard():161 keyboard accessory_candidates_consumer is not activated before!
+10-02 01:38:13.400  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020472, callback=gdc@31e5a77, lastModifier=2, keyCodes=[62], actions=[0]}
+10-02 01:38:13.401  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:13.402  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.402  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.402  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.402  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.402  1457  1457 W ExtensionWrapper: ExtensionWrapper.setExtensionViewVisibility():809 interface lzc is not activate
+10-02 01:38:13.403  1457  9621 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():217 maybeScheduleAutoPackDownloadForFallback()
+10-02 01:38:13.403  1457  9621 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():199 maybeScheduleAutoPackDownload() for language tag en-US
+10-02 01:38:13.406  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:13.407  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020468, callback=cgm@ff33f5e, lastModifier=2, keyCodes=[48], actions=[0]}
+10-02 01:38:13.408  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020468, callback=cgm@72e9d50, lastModifier=2, keyCodes=[48], actions=[0]}
+10-02 01:38:13.408  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020464, callback=cgm@fadabe2, lastModifier=2, keyCodes=[56], actions=[0]}
+10-02 01:38:13.408  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020464, callback=cgm@462a6a9, lastModifier=0, keyCodes=[317], actions=[0]}
+10-02 01:38:13.408  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020464, callback=cgm@338c668, lastModifier=2, keyCodes=[56], actions=[0]}
+10-02 01:38:13.408  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020464, callback=cgm@a4cf67, lastModifier=0, keyCodes=[317], actions=[0]}
+10-02 01:38:13.409  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020468, callback=cgm@891205b, lastModifier=2, keyCodes=[48], actions=[0]}
+10-02 01:38:13.409  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020468, callback=cgm@c0bfa80, lastModifier=2, keyCodes=[48], actions=[0]}
+10-02 01:38:13.409  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020469, callback=cgm@2d785c2, lastModifier=2, keyCodes=[32], actions=[0]}
+10-02 01:38:13.409  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020469, callback=cgm@f5a3209, lastModifier=0, keyCodes=[319], actions=[0]}
+10-02 01:38:13.409  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020469, callback=cgm@9a0c77b, lastModifier=2, keyCodes=[32], actions=[0]}
+10-02 01:38:13.409  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020469, callback=cgm@f3e85d6, lastModifier=0, keyCodes=[319], actions=[0]}
+10-02 01:38:13.410  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020469, callback=cgm@3a7bee6, lastModifier=2, keyCodes=[32], actions=[0]}
+10-02 01:38:13.411  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020469, callback=cgm@31d087d, lastModifier=0, keyCodes=[319], actions=[0]}
+10-02 01:38:13.411  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020469, callback=cgm@c5b034f, lastModifier=2, keyCodes=[32], actions=[0]}
+10-02 01:38:13.411  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020469, callback=cgm@75e82ba, lastModifier=0, keyCodes=[319], actions=[0]}
+10-02 01:38:13.422  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:13.423  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.423  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.427  1457  1457 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=prime, keyboardViewType=HEADER keyboardView=com.google.android.libraries.inputmethod.widgets.SoftKeyboardView{cf00eb2 V.E...... ........ 0,0-1080,116}
+10-02 01:38:13.427  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.430  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <144:RUNNING:100%[100%]> in group com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:13.431  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:13.431  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:13.431  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:13.431  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=144
+10-02 01:38:13.431  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk reason=auto_update isid=SaT0cqzoSImmTjwhIVaBYQ, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 4062104/4062104
+10-02 01:38:13.431  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <144:RUNNING:100%[100%]>
+10-02 01:38:13.434 10460 10460 D VRI[ComponentActivity]: WindowInsets changed: ime:[0,0,0,1006]
+10-02 01:38:13.436  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=c13b7209-9d25-404a-a11b-354c19606eb5 request_id=144 pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:13.438  2733  2917 I Finsky:background: [55] DSC: reviveDownload(144)
+10-02 01:38:13.439  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=144)
+10-02 01:38:13.439  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=144, files_to_download=[com.google.android.accessibility.switchaccess.apk(size:4062104)], context[group_id=com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ], display_data[invisible=true, title=Switch Access], network_restrictions=UNMETERED_ONLY status=succeeded, bytes_downloaded=4062104, total_bytes=4062104, retry[count=0, next_retry=n/a])
+10-02 01:38:13.440  2733  2733 I Finsky:background: [2] RF: onProgress request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ artifact_bytes=4062104/4062104 pkg_bytes=3942474/4154354
+10-02 01:38:13.441  2733  2733 I Finsky:background: [2] Updated time lastBroadcast=2026-10-02T01:38:10.727Z current=2026-10-02T01:38:13.441Z
+10-02 01:38:13.442  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 4154354 / 4154354 / 1.000000
+10-02 01:38:13.444  2733 10579 I Finsky:background: [374] DS: Decremented runningDownloadsCount to: 0
+10-02 01:38:13.444  2733 10579 I Finsky:background: [374] DS: Current runningDownloadsCount: 0, queuedCount: 0
+10-02 01:38:13.445  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] status:RESOURCE_FETCH_PROGRESS, size: 4154354/4154354
+10-02 01:38:13.447  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <144:SUCCEEDED> in group com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:13.447  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:13.447  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:13.447  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:13.447  2733 10579 I Finsky:background: [374] RM: receive resource status onSuccess download_request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk reason=auto_update isid=SaT0cqzoSImmTjwhIVaBYQ, status_code=RESOURCE_STATUS_SUCCEEDED, legacy_status_code=200, size: 4062104/4062104
+10-02 01:38:13.447  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <144:SUCCEEDED>
+10-02 01:38:13.447  2733 10579 I Finsky:background: [374] DS::IDC: All invisible downloads are finished.
+10-02 01:38:13.447  2733 10579 I Finsky:background: [374] DS::ISM: Stopping invisible download job
+10-02 01:38:13.448  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H19M42.293S, attempt=0
+10-02 01:38:13.448  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=c13b7209-9d25-404a-a11b-354c19606eb5 request_id=144 pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:13.448  2733  2918 I Finsky:background: [56] DSC: reviveDownload(144)
+10-02 01:38:13.449  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+10-02 01:38:13.453  1457  1457 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=prime, keyboardViewType=BODY keyboardView=com.google.android.libraries.inputmethod.widgets.SoftKeyboardView{3758ced V.E...... ........ 0,0-1080,764}
+10-02 01:38:13.453  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=144)
+10-02 01:38:13.453  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.455  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=144, files_to_download=[com.google.android.accessibility.switchaccess.apk(size:4062104)], context[group_id=com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ], display_data[invisible=true, title=Switch Access], network_restrictions=UNMETERED_ONLY status=succeeded, bytes_downloaded=4062104, total_bytes=4062104, retry[count=0, next_retry=n/a])
+10-02 01:38:13.456   772   800 I ImeTracker: system_server:68c3f6e2: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+10-02 01:38:13.457  1457  1457 I GlobeKeyExtension: GlobeKeyExtension$1.onKeyboardViewShown():72 maybeDisableLanguageSwitchKeyPref when the keyboard is shown
+10-02 01:38:13.457  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.maybeDisableLanguageSwitchKeyPref():200 maybeDisableLanguageSwitchKeyPref hasGlobeKeyBeenDisabled: true, shouldDisableLanguageSwitchKey: true
+10-02 01:38:13.457  1457  1457 I NewLanguagePromptExtension: NewLanguagePromptExtension$1.onKeyboardViewShown():88 Not show new language banner: not prime keyboard, or the extension not activated.
+10-02 01:38:13.458  2733  2733 I Finsky:background: [2] RF: onResourceSuccess request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ artifact_bytes=4062104/4062104 pkg_bytes=4154354/4154354
+10-02 01:38:13.458  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 4154354 / 4154354 / 1.000000
+10-02 01:38:13.459  2733  2733 I Finsky:background: [2] RF: onSuccess request_id=144, pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ artifact_bytes=4062104/4062104 pkg_bytes=4154354/4154354
+10-02 01:38:13.462  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] status:RESOURCE_FETCH_PROGRESS, size: 4154354/4154354
+10-02 01:38:13.462  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:13.463  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.463  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.463  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] status:RESOURCE_FETCH_PROGRESS, size: 4154354/4154354
+10-02 01:38:13.469  2733  2921 I Finsky:background: [58] RF: starting postprocessing for com.google.android.accessibility.switchaccess.apk
+10-02 01:38:13.470  2733  2903 I Finsky:background: [49] RF::PP-Decompress: starting to decompress for com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] [tid: 1000000027].
+10-02 01:38:13.470  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.accessibility.switchaccess, isid: SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:13.473  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.accessibility.switchaccess
+10-02 01:38:13.473  2733  2903 I Finsky:background: [49] RF::PP-Copy: starting to copy for com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] [tid: 1000000027]
+10-02 01:38:13.474  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H19M42.319S, attempt=0
+10-02 01:38:13.477  2733 10822 I Finsky:background: [398] SCH: Canceling job 40-9998
+10-02 01:38:13.477 10460 10460 I ImeTracker: system_server:68c3f6e2: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+10-02 01:38:13.481  2733 10822 I Finsky:background: [398] WM::SCH: Logging work end for 40-9998
+10-02 01:38:13.485 10460 10460 I ImeTracker: com.cinemax.cliente:fafe070d: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+10-02 01:38:13.485 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@30b2960
+10-02 01:38:13.486 10460 10460 D VRI[ComponentActivity]: WindowInsets changed: ime:null
+10-02 01:38:13.487  2733 10835 I Finsky:background: [400] DU: Stored data usage stats for package com.google.android.accessibility.switchaccess; completed bytes: 4062104.
+10-02 01:38:13.488  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING]
+10-02 01:38:13.491   772  2177 I ImeTracker: system_server:d8ee998d: onRequestShow at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:38:13.491  2733  2733 I Finsky:background: [2] Job 40-9998 is canceled while running
+10-02 01:38:13.491  2733  2733 I Finsky:background: [2] SCH: jobStopped: 40-9998. TimeElapsed: 27974ms. EventType: 2544
+10-02 01:38:13.491  2733  2733 I Finsky:background: [2] WM::SCH: Logging work stop for 40-9998
+10-02 01:38:13.491  2733  2733 I Finsky:background: [2] DS::IDC: has 0 invisibleDownloads
+10-02 01:38:13.491  2733  2733 I Finsky:background: [2] DS::IRJ: onStopJob: false, stopReason: 3
+10-02 01:38:13.494  2733  2903 I Finsky:background: [49] SCH: Scheduling phonesky job Id: 3-92, CT: 1790903426247, Constraints: [{ L: 0, D: 86400000, C: CHARGING_NONE, I: IDLE_NONE, N: NET_UNMETERED, B: BATTERY_ANY }, { L: 0, D: 0, C: CHARGING_NONE, I: IDLE_NONE, N: NET_NONE, B: BATTERY_ANY }]
+10-02 01:38:13.498  2733 10599 I Finsky:background: [386] RF::PP-Copy: Starting copy of com.google.android.accessibility.switchaccess.apk
+10-02 01:38:13.498  2733 10599 I Finsky:background: [386] RF::PP-Copy: OutputStream opened for com.google.android.accessibility.switchaccess.apk
+10-02 01:38:13.499  2733 10599 I Finsky:background: [386] RF::PP-Copy: Start copying from input stream for com.google.android.accessibility.switchaccess.apk
+10-02 01:38:13.508  2733  2886 I Finsky:background: [46] SCH: Scheduling system job 10909 to resume after 0 ms
+10-02 01:38:13.508  2733  2886 I Finsky:background: [46] SCH: Scheduling system job 10960 to resume after 0 ms
+10-02 01:38:13.510  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.accessibility.switchaccess, isid: SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:13.515  2733  2921 I Finsky:background: [58] SCH: Resuming system job 10909 from hub.
+10-02 01:38:13.515  2733  2903 I Finsky:background: [49] SCH: Scheduling 0 system job(s)
+10-02 01:38:13.518  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.accessibility.switchaccess
+10-02 01:38:13.520  2733  2905 I Finsky:background: [51] SCH: no pending jobs to schedule.
+10-02 01:38:13.521  2733  2899 I Finsky:background: [48] SCH: Resuming system job 10960 from hub.
+10-02 01:38:13.523  2733 10822 I Finsky:background: [398] SCH: Satisfied jobs for 10909 are: 3-92
+10-02 01:38:13.523  2733 10822 I Finsky:background: [398] SCH: Satisfied jobs for 10960 are: 3-92
+10-02 01:38:13.523  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H19M42.365S, attempt=0
+10-02 01:38:13.527  2733 10823 I Finsky:background: [399] SCH: job service finished with id 10976.
+10-02 01:38:13.534  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING]
+10-02 01:38:13.535   772   799 I ImeTracker: system_server:d8ee998d: onCancelled at PHASE_SERVER_ALREADY_VISIBLE
+10-02 01:38:13.537   772   800 I ImeTracker: system_server:9bd8427f: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+10-02 01:38:13.547  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.accessibility.switchaccess, isid: SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:13.548  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.accessibility.switchaccess
+10-02 01:38:13.556  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:DOWNLOADING]
+10-02 01:38:13.621 10460 10460 I ImeTracker: com.cinemax.cliente:57f3d75a: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+10-02 01:38:13.621 10460 10460 I ImeTracker: com.cinemax.cliente:57f3d75a: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:38:13.626  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, true)
+10-02 01:38:13.626  1457  1457 W SessionManager: SessionManager.beginSession():53 Try to begin an already begun session [INPUT_SESSION], end it first
+10-02 01:38:13.626  1457  1457 W SessionManager: SessionManager.endSession():96 Child session [INPUT_VIEW_SESSION] is not ended while ending session [{IME_SESSION=1790905093339, INPUT_SESSION=1790905093151, INPUT_VIEW_SESSION=1790905093168}], ending it now.
+10-02 01:38:13.626  1457  1457 W SessionManager: SessionManager.endSession():96 Child session [IME_SESSION] is not ended while ending session [{IME_SESSION=1790905093339, INPUT_SESSION=1790905093151, INPUT_VIEW_SESSION=1790905093168}], ending it now.
+10-02 01:38:13.629  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:13.629  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=0, callback=gdc@654aa5e, lastModifier=0, keyCodes=[57, 57], actions=[1, 0]}
+10-02 01:38:13.629  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=0, callback=gdc@de3a455, lastModifier=0, keyCodes=[58, 58], actions=[1, 0]}
+10-02 01:38:13.633  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1411 onStartInputView(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, true)
+10-02 01:38:13.633  1457  1457 I AndroidIME: AbstractIme.onDeactivate():216 PasswordIme.onDeactivate()
+10-02 01:38:13.634  1457  1457 W SessionManager: SessionManager.endSession():88 Try to end a not begun session [IME_SESSION].
+10-02 01:38:13.635 10460 10460 I ImeTracker: system_server:9bd8427f: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+10-02 01:38:13.639  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():108 systemKeyboardHeightRatio:1.000000.
+10-02 01:38:13.642  1457  1457 I InputContextChangeTracker: InputContextChangeTracker.fixLyingSelectionRangeFromSurroundingText():1678 fixLyingSelectionRangeFromSurroundingText(): [-1, -1]([-1, -1]) -> [0, 0]([0, 0])
+10-02 01:38:13.643  1457  1457 I AndroidIME: InputBundleManager.loadActiveInputBundleId():528 loadActiveInputBundleId: und-Latn-x-password, password
+10-02 01:38:13.643  1457  1457 I AndroidIME: AbstractIme.onActivate():96 PasswordIme.onActivate() : EditorInfo = EditorInfo{packageName=com.cinemax.cliente, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}, IncognitoMode = false, DeviceLocked = false
+10-02 01:38:13.644  1457  1457 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():581 activateKeyboard(): type=prime, status=INACTIVE, imeDef=mir{stringId=password, language=und-Latn-x-password, languageTag=und-Latn-x-password, processedConditions={writing_helper_enable_by_word_revert=false, enable_access_points_in_password_number=true, variant=qwerty, true=true, language=en-US, enable_number_row=true, device=phone, enable_number_row_in_password=true, enable_pk_simulator=false}, className=com.google.android.libraries.inputmethod.ime.password.PasswordIme, label=2132019269, keyEventInterpreter=null, inlineComposing=true, autoCapital=true, announceAutoSelectedCandidate=true, statusIcon=0, indicatorIcon=0, indicatorLabel=null, displayAppCompletions=false, extraValues=mik{}, processors=mkj@ab7c7a4, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=false, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, keyboardGroupDef=mjs@bec290d, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=false}
+10-02 01:38:13.644  1457  1457 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard prime, imeId=password, cacheKey=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,non_linear_scale,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup
+10-02 01:38:13.644  1457  1457 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():224 onKeyboardReady(): type=prime(prime), kb=com.google.android.apps.inputmethod.latin.keyboard.LatinPasswordKeyboard@e51a320
+10-02 01:38:13.644  1457  1457 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():611 doActivateKeyboard(): prime
+10-02 01:38:13.650  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.650  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id undo_access_point_promotion_banner not found in tooltipManager.
+10-02 01:38:13.652  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():175
+10-02 01:38:13.658  1457  1457 W Keyboard: Keyboard.getKeyboardViewHelper():600 null helper is returned: keyboardDef=mjl{processedConditions={show_comma_key=true, enable_more_candidates_view_for_multilingual=false, layout_9key_split=false, enable_secondary_symbols=false, pref_enable_flick_symbols=false, language=en-US, deprecate_long_press_space_for_ime_picker=false, show_suggestion_strip=true, expressions=normal, enable_access_points_in_password_number=true, enable_correction_settings_updates=true, enable_flick_symbols=true, variant=qwerty, show_period_key=true, enable_number_row=true, device=phone, keyboard_mode=normal, show_secondary_digits=false, enable_preemptive_decode=true, enable_pk_simulator=false, bottom_period_popup_slash=false}, globalConditions={global_theme_key=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.1297245,POPUP,SCREEN_SHORTEST_WIDTH=411,SCREEN_SHORTEST_WIDTH_NO_SCALE=411,SW400DP,XXHDPI,bottom4dp,enable_emoji_kitchen_browse_color_v2=true,enable_google_fonts_icons=true,enable_popup_on_keypress=true,keyboard_redesign_google_sans=true,non_linear_scale,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8fe-ff4e5e8b-4fee5571778e92b08ff4c2d3d15b9d3f,roundedchip,silkpopup, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.LatinPasswordKeyboard, resourceIds=[#0x7f1705fb, #0x7f17088d, #0x7f1706bb], initialStates=0, keyboardViewDefs=[mka{direction=null, id=#0x7f0b0224, isScalable=true, layoutId=#0x7f0e029e, type=BODY, touchable=true, defaultShow=true}, mka{direction=null, id=#0x7f0b0224, isScalable=false, layoutId=#0x7f0e01f8, type=FLOATING_CANDIDATES, touchable=false, defaultShow=false}, mka{direction=LOCALE, id=#0x7f0b0224, isScalable=false, layoutId=#0x7f0e04ff, type=HEADER, touchable=true, defaultShow=true}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05f0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=17592186044419}, type=WIDGET, helpersCreated=[lvx@8ce05e2, lvx@44f8d73, lvx@cea7430, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long compactNeeded port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.9 fontWeightAdjustment=0}
+10-02 01:38:13.659  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.665  1457  1457 I AndroidIME: InputBundleManager.startInput():358 startInput() with mjw[keyboardType=prime, payload=null]
+10-02 01:38:13.667  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.onDeactivate():144
+10-02 01:38:13.667  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+10-02 01:38:13.668  1457  1457 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():131 shutdown()
+10-02 01:38:13.668  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020472, callback=gdc@31e5a77, lastModifier=2, keyCodes=[62], actions=[0]}
+10-02 01:38:13.670  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.onActivate():120
+10-02 01:38:13.674  1457  1457 I NewLanguagePromptExtension: NewLanguagePromptExtension.onActivate():189 Not activated NewLanguagePromptExtension: not a normal text input box.
+10-02 01:38:13.675  1457  1457 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():109 cancelShutdown()
+10-02 01:38:13.675  1457  1457 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():121 syncLanguagePacks()
+10-02 01:38:13.675  1457  1457 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1148 onKeyboardActivated() [UD]
+10-02 01:38:13.675  1457  1457 I PkModeUpdater: PkModeUpdater.onActivate():74 onActivate false true
+10-02 01:38:13.676  1457  1457 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():319 Accessory input mode started: null
+10-02 01:38:13.676  1457  1457 W SupplementaryKeyboardsWrapper: SupplementaryKeyboardsWrapper.deactivateKeyboard():161 keyboard accessory_candidates_consumer is not activated before!
+10-02 01:38:13.676  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020472, callback=gdc@eea1a10, lastModifier=2, keyCodes=[62], actions=[0]}
+10-02 01:38:13.677  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:13.678  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.678  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.678  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.678  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.678  1457  1457 W ExtensionWrapper: ExtensionWrapper.setExtensionViewVisibility():809 interface lzc is not activate
+10-02 01:38:13.686  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:13.689  1457  9621 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():217 maybeScheduleAutoPackDownloadForFallback()
+10-02 01:38:13.689  1457  9621 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():199 maybeScheduleAutoPackDownload() for language tag en-US
+10-02 01:38:13.690  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020468, callback=cgm@72e9d50, lastModifier=2, keyCodes=[48], actions=[0]}
+10-02 01:38:13.691  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020468, callback=cgm@86de61a, lastModifier=2, keyCodes=[48], actions=[0]}
+10-02 01:38:13.691  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020468, callback=cgm@c0bfa80, lastModifier=2, keyCodes=[48], actions=[0]}
+10-02 01:38:13.691  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020468, callback=cgm@cebbb27, lastModifier=2, keyCodes=[48], actions=[0]}
+10-02 01:38:13.691  1457  1457 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomaticallyInCurrentInputBox():376 No private IME option set to start voice input.
+10-02 01:38:13.691  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020469, callback=cgm@9a0c77b, lastModifier=2, keyCodes=[32], actions=[0]}
+10-02 01:38:13.691  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020469, callback=cgm@f3e85d6, lastModifier=0, keyCodes=[319], actions=[0]}
+10-02 01:38:13.691  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020469, callback=cgm@908afbe, lastModifier=2, keyCodes=[32], actions=[0]}
+10-02 01:38:13.691  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020469, callback=cgm@afdf135, lastModifier=0, keyCodes=[319], actions=[0]}
+10-02 01:38:13.696  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020469, callback=cgm@c5b034f, lastModifier=2, keyCodes=[32], actions=[0]}
+10-02 01:38:13.696  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020469, callback=cgm@75e82ba, lastModifier=0, keyCodes=[319], actions=[0]}
+10-02 01:38:13.696  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020469, callback=cgm@8240822, lastModifier=2, keyCodes=[32], actions=[0]}
+10-02 01:38:13.697  1457  1457 I HardKeyTracker: HardKeyTracker.registerKeySequence():170 Register key sequence nef{labelResId=2132020469, callback=cgm@710dfe9, lastModifier=0, keyCodes=[319], actions=[0]}
+10-02 01:38:13.706  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:13.706  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.706  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.709  1457  1457 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=prime, keyboardViewType=HEADER keyboardView=com.google.android.libraries.inputmethod.widgets.SoftKeyboardView{cf00eb2 V.E...... ........ 0,0-1080,116}
+10-02 01:38:13.710  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.710  1457  1457 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():324 onKeyboardViewShown: keyboardType=prime, keyboardViewType=BODY keyboardView=com.google.android.libraries.inputmethod.widgets.SoftKeyboardView{3758ced V.E...... ........ 0,0-1080,764}
+10-02 01:38:13.710  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.710  1457  1457 I GlobeKeyExtension: GlobeKeyExtension$1.onKeyboardViewShown():72 maybeDisableLanguageSwitchKeyPref when the keyboard is shown
+10-02 01:38:13.711  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.maybeDisableLanguageSwitchKeyPref():200 maybeDisableLanguageSwitchKeyPref hasGlobeKeyBeenDisabled: true, shouldDisableLanguageSwitchKey: true
+10-02 01:38:13.711  1457  1457 I NewLanguagePromptExtension: NewLanguagePromptExtension$1.onKeyboardViewShown():88 Not show new language banner: not prime keyboard, or the extension not activated.
+10-02 01:38:13.744  2733 10599 I Finsky:background: [386] RF::PP-Copy: Finished copying from input stream for com.google.android.accessibility.switchaccess.apk
+10-02 01:38:13.776  2733  2905 I Finsky:background: [51] RF::PP-Verify: starting to verify for com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] [tid: 1000000027].
+10-02 01:38:13.793  2733  2904 I Finsky:background: [50] RF::TC: Deleting temp copy: com.google.android.accessibility.switchaccess.apk
+10-02 01:38:13.794  2733  2904 I Finsky:background: [50] RM: remove resources for request c13b7209-9d25-404a-a11b-354c19606eb5
+10-02 01:38:13.795  2733  2917 I Finsky:background: [55] RM: remove resource_request=c13b7209-9d25-404a-a11b-354c19606eb5 request_id=144 pkg_id=com.google.android.accessibility.switchaccess artifact_id=com.google.android.accessibility.switchaccess.apk isid=SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:13.796  2733  2917 I Finsky:background: [55] DSC: remove(144)
+10-02 01:38:13.796  2733  2917 I Finsky:background: [55] DS: remove(request_id=144)
+10-02 01:38:13.813  2733 10579 I Finsky:background: [374] DS: DS: onRemove(request_id=144, files_to_download=[com.google.android.accessibility.switchaccess.apk(size:4062104)], context[group_id=com.google.android.accessibility.switchaccess:SaT0cqzoSImmTjwhIVaBYQ], display_data[invisible=true, title=Switch Access], network_restrictions=UNMETERED_ONLY status=succeeded, bytes_downloaded=4062104, total_bytes=4062104, retry[count=0, next_retry=n/a])
+10-02 01:38:13.827  2733  2899 I Finsky:background: [48] RF: With real time bandwidth check, rest nugget is present: false, shouldDownloadRestNugget: false
+10-02 01:38:13.829   772  1293 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cd78838e does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:38:13.838   613   702 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:38:13.843 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@84cedcf in: PAUSED
+10-02 01:38:13.843 10460 10460 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@84cedcf
+10-02 01:38:13.855 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+10-02 01:38:13.857 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+10-02 01:38:13.857  2733  2908 I Finsky:background: [52] IV2::TD: Resource fetch done. com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] [tid: 1000000027]
+10-02 01:38:13.857  2733  2908 I Finsky:background: [52] IV2::TD: Installing start. com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] [tid: 1000000027]
+10-02 01:38:13.864  1189  1189 D RecentsView: onTaskDisplayChanged: 236, new displayId = 0
+10-02 01:38:13.867 10503 10519 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-02 01:38:13.867 10503 10519 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-02 01:38:13.867  2733  2908 I Finsky:background: [52] IV2::TD: Submit start. com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] [tid: 1000000027]
+10-02 01:38:13.875  2733  2908 I Finsky:background: [52] IV2: stopping install timeout for 27
+10-02 01:38:13.875  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:13.876  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:13.878  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] status:SUBMIT_START, size: 0/0
+10-02 01:38:13.882  2733  2921 I Finsky:background: [58] IQ: start evaluating install requests.
+10-02 01:38:13.887  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:INSTALLING, status=INSTALLING, status_code=0, reason=auto_update, tsc=PT1H19M42.732S, attempt=0
+10-02 01:38:13.888  2733  2903 I Finsky:background: [49] Submitter: submit com.google.android.accessibility.switchaccess to the commit queue
+10-02 01:38:13.893  2733  2903 I Finsky:background: [49] Submitter: CS: enqueued commit for com.google.android.accessibility.switchaccess. Current queue: []
+10-02 01:38:13.893  2733  2905 I Finsky:background: [51] Submitter: CS: dequeued commit for com.google.android.accessibility.switchaccess. Waited 0 ms. Current queue: [com.google.android.accessibility.switchaccess]
+10-02 01:38:13.893  2733  2905 I Finsky:background: [51] Submitter: start committing com.google.android.accessibility.switchaccess
+10-02 01:38:13.902  2733  2921 I Finsky:background: [58] IQ: There are 3 installs pending for job 92: [com.google.android.gm, com.google.android.calendar, com.google.android.inputmethod.latin]
+10-02 01:38:13.908   772  2177 I ImeTracker: com.cinemax.cliente:fafe070d: onFailed at PHASE_WM_NOTIFY_HIDE_ANIMATION_FINISHED
+10-02 01:38:13.910  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():1543 onFinishInputView(false)
+10-02 01:38:13.910  1457  1457 I GlobeKeyExtension: GlobeKeyExtension.onDeactivate():144
+10-02 01:38:13.911  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+10-02 01:38:13.911  1457  1457 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():131 shutdown()
+10-02 01:38:13.912  1457  1457 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():221 Unregister key sequence nef{labelResId=2132020472, callback=gdc@eea1a10, lastModifier=2, keyCodes=[62], actions=[0]}
+10-02 01:38:13.914  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-02 01:38:13.914  1457  1457 I AndroidIME: AbstractIme.onDeactivate():216 PasswordIme.onDeactivate()
+10-02 01:38:13.926  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id undo_access_point_promotion_banner not found in tooltipManager.
+10-02 01:38:13.927  1457  1457 D ImeBackCallbackSender: Unregister OnBackInvokedCallback at app window (packageName=com.cinemax.cliente)
+10-02 01:38:13.927  1457  1457 I ImeTracker: com.cinemax.cliente:fafe070d: onHidden
+10-02 01:38:13.929   772  1212 I ImeTracker: com.cinemax.cliente:fafe070d: onFinished on previously finished token at PHASE_NOT_SET with STATUS_SUCCESS
+10-02 01:38:13.929  1457  1457 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():435 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -126 navBarHeight: 126
+10-02 01:38:13.929  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.930  1457  1457 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 281 height for app when ime window height:2211, header height:116 and isFullscreenMode:false, so the max keyboard body height is:1814
+10-02 01:38:13.954  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.accessibility.switchaccess, isid: SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:13.957 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@d36d2f2
+10-02 01:38:13.958 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:38:13.964  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:13.969  2733  2921 I Finsky:background: [58] IQ: 3 scheduled install statuses found to proceed.
+10-02 01:38:13.973  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.accessibility.switchaccess
+10-02 01:38:13.983  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:INSTALLING]
+10-02 01:38:13.992  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:14.004   772   800 I ImeTracker: system_server:f565b8e4: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+10-02 01:38:14.014 10460 10460 I ImeTracker: system_server:f565b8e4: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+10-02 01:38:14.021  2733  2908 I Finsky:background: [52] IV2: installer available to accept com.google.android.gm. Current active installs :
+10-02 01:38:14.021  2733  2908 I Finsky:background: com.google.android.accessibility.switchaccess: installId: 27 isid: SaT0cqzoSImmTjwhIVaBYQ requested 0 min ago
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: No service published for: persistent_data_block
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: android.os.ServiceManager$ServiceNotFoundException: No service published for: persistent_data_block
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.os.ServiceManager.getServiceOrThrow(ServiceManager.java:203)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.app.SystemServiceRegistry$86.createService(SystemServiceRegistry.java:1201)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.app.SystemServiceRegistry$86.createService(SystemServiceRegistry.java:1198)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.app.SystemServiceRegistry$StaticServiceFetcher.getService(SystemServiceRegistry.java:2610)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.app.SystemServiceRegistry.getSystemService(SystemServiceRegistry.java:2063)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.app.ContextImpl.getSystemService(ContextImpl.java:2434)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.content.Context.getSystemService(Context.java:4901)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at com.android.server.pm.PackageInstallerSession.markAsSealed(PackageInstallerSession.java:2573)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at com.android.server.pm.PackageInstallerSession.commit(PackageInstallerSession.java:2323)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.content.pm.IPackageInstallerSession$Stub.onTransact(IPackageInstallerSession.java:466)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.os.Binder.execTransactInternal(Binder.java:1473)
+10-02 01:38:14.023   772  1212 E SystemServiceRegistry: 	at android.os.Binder.execTransact(Binder.java:1418)
+10-02 01:38:14.026  2733  2903 I Finsky:background: [49] IQ: proceed install request for [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A].
+10-02 01:38:14.026  2733  2903 I Finsky:background: [49] IQ: Notifying installation update. [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOAD_PENDING, status=DOWNLOAD_PENDING, status_code=0, reason=auto_update, tsc=PT1H19M42.806S, attempt=0
+10-02 01:38:14.057  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.gm, isid: QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:14.063  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.gm
+10-02 01:38:14.076  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:INSTALLING, [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOAD_PENDING]
+10-02 01:38:14.076  2733  2905 I Finsky:background: [51] DL: Data loader session turned off due to Incremental install not requested: com.google.android.gm
+10-02 01:38:14.079  2733  2905 I Finsky:background: [51] DLIF: createIncrementalConfig with useIncrementalSessionWithReason: INCREMENTAL_DISABLED_IN_INSTALL_REQUEST , streamingVerdictWithReason: STREAMING_DISABLE_BY_UNKNOWN_REASON
+10-02 01:38:14.085  2733  2905 I Finsky:background: [51] IQ: Requesting install request=package_name=com.google.android.gm, pm_package_name=com.google.android.gm, version=66038420, priority=3, reason=auto_update, account_name=, type=0, isid=QZpq4CKjTUOcBSDN04J74A, install_tier_type=INSTALL_TIER_TYPE_UNSPECIFIED, constraints=((REQ_GEARHEAD_PROJECTION_OFF, MIN_BATTERY=20, SHOULD_APPLY_BUDGET=true, NETWORK=UNMETERED, PROVISIONING_STATE=PROVISIONED, BACKUP_MANAGER_STATE=BACKUP_READY),), install_primary_identifier=UNKNOWN_ACTION_SURFACE using installer.
+10-02 01:38:14.086  2733  2908 I Finsky:background: [52] IV2: installer available to accept com.google.android.gm. Current active installs :
+10-02 01:38:14.086  2733  2908 I Finsky:background: com.google.android.accessibility.switchaccess: installId: 27 isid: SaT0cqzoSImmTjwhIVaBYQ requested 0 min ago
+10-02 01:38:14.090  2733  2908 I Finsky:background: [52] IV2::EIU: Existing install found for update [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A].
+10-02 01:38:14.091  2733  2908 I Finsky:background: [52] IV2::FGCV: Foreground check passed for com.google.android.gm
+10-02 01:38:14.105  2733  2903 I Finsky:background: [49] IV2::DRV: install for [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] not tracked by installer.
+10-02 01:38:14.119   772   796 I ActivityTaskManager: Displayed com.cinemax.cliente.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +286ms
+10-02 01:38:14.125  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:14.127   613   702 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:38:14.140  2733  2908 I Finsky:background: [52] IV2: adding timeout to install 28
+10-02 01:38:14.143  1189  1189 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:38:14.143  1189  1189 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+10-02 01:38:14.143  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+10-02 01:38:14.144  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+10-02 01:38:14.145  1189  1189 D StatsLog: LAUNCHER_ONRESUME
+10-02 01:38:14.150  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-02 01:38:14.164  1189  1247 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+10-02 01:38:14.165  1603  1942 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-02 01:38:14.165  1603  1942 I AiAiEcho: EchoTargets:
+10-02 01:38:14.165  1603  1942 I AiAiEcho: Filtered by AiAi flag check:
+10-02 01:38:14.165  1603  1942 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-02 01:38:14.165  1603  1942 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-02 01:38:14.176  1189  1189 D BaseDepthController: setSurface:
+10-02 01:38:14.176  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:38:14.176  1189  1189 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#4369)/@0x5ee1042
+10-02 01:38:14.176  1189  1189 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#4369)/@0x5ee1042 applyImmediately: false
+10-02 01:38:14.176  1189  1189 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{c12d8a9 V.ED..... .......D 0,0-1080,2400 #7f0a049d app:id/workspace}, com.android.launcher3.Hotseat{dbfee2e V.ED..... .......D 0,1905-1080,2400 #7f0a01ee app:id/hotseat}]
+10-02 01:38:14.183  1603  1942 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-02 01:38:14.192  1025  1349 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:38:14.196  2733  2908 I Finsky:background: [52] DL: Data loader session turned off due to Incremental install not requested: com.google.android.gm
+10-02 01:38:14.210   772 10954 D FileSystemUtils: Total number of LOAD segments 3
+10-02 01:38:14.210   772 10954 D FileSystemUtils: Size before punching holes st_blocks: 280, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.210   772 10954 D FileSystemUtils: Size after punching holes st_blocks: 280, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.210   772 10954 D FileSystemUtils: Extra field length: 12581,  Size before punching holes st_blocks: 280, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.210   772 10954 D FileSystemUtils: Extra field length: 12581 content near offset: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+10-02 01:38:14.210   772 10954 D FileSystemUtils: Punching hole in file - start: 69632 len:12288
+10-02 01:38:14.211   772 10954 D FileSystemUtils: punchHolesInApk:: Size after punching holes st_blocks: 256, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Total number of LOAD segments 3
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Size before punching holes st_blocks: 256, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Punching holes for length:4992 content which should be zero: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Punching hole in file - start: 61440 len:4096
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Size after punching holes st_blocks: 248, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Extra field length: 15759,  Size before punching holes st_blocks: 248, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Extra field length: 15759 content near offset: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Punching hole in file - start: 4096 len:12288
+10-02 01:38:14.211   772 10954 D FileSystemUtils: punchHolesInApk:: Size after punching holes st_blocks: 224, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Total number of LOAD segments 2
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Size before punching holes st_blocks: 224, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Size after punching holes st_blocks: 224, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Extra field length: 174,  Size before punching holes st_blocks: 224, st_blksize: 4096, st_size: 135565
+10-02 01:38:14.211   772 10954 D FileSystemUtils: Skipping punching apk as extra field length is less than block size
+10-02 01:38:14.211   772 10954 W NativeLibraryHelper: Failed to punch apk : /data/app/vmdl1888245024.tmp/split_config.arm64_v8a.apk at extra field
+10-02 01:38:14.217  2733 10599 I Finsky:background: [386] IV2: Setting install scenario: 0
+10-02 01:38:14.241  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:38:14.241  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:38:14.241  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:38:14.241  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:38:14.241  1189  1189 I SsBaseTemplateCard: Secondary card pane is null
+10-02 01:38:14.266  1914  1914 I Finsky  : [2] VerifyApps: Install-time verification requested for package com.google.android.accessibility.switchaccess, PackageManager id = 22, Verifier id = be76cb41-3a4b-4162-8b72-2859640a8344
+10-02 01:38:14.273  2733 10599 I Finsky:background: [386] SM: Session with Context {name=com.google.android.gm versionCode=66038420} successfully created
+10-02 01:38:14.276  1189  1247 D AlphabeticIndexCompat: computeSectionName: cs: Gmail sectionName: G
+10-02 01:38:14.277  1189  1189 D AllAppsStore: setApps: apps.length=24
+10-02 01:38:14.277  1189  1189 D AllAppsStore: notifyUpdate: notifying listeners
+10-02 01:38:14.277  1189  1189 D ActivityAllAppsContainerView: onAppsUpdated; number of apps: 24
+10-02 01:38:14.277  1189  1189 D ActivityAllAppsContainerView: rebindAdapters: force: false
+10-02 01:38:14.277  1189  1189 D ActivityAllAppsContainerView: rebindAdapters: Not needed.
+10-02 01:38:14.277  1189  1189 D StatsLog: LAUNCHER_ALLAPPS_COUNT
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: Clearing FastScrollerSections.
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: Adding apps with sections. HasPrivateApps: false
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: A with appInfoTitle: app9_jc_cliente_banco
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: B with appInfoTitle: bd local room
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: C with appInfoTitle: Calendar
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: D with appInfoTitle: Drive
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: F with appInfoTitle: Files
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: G with appInfoTitle: Gmail
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: M with appInfoTitle: Maps
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: P with appInfoTitle: Phone
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: S with appInfoTitle: Safety
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: T with appInfoTitle: TMoble
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: V with appInfoTitle: Voice Access
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: Y with appInfoTitle: YouTube
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: Adding FastScrollSection duplicate to scroll to the bottom.
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: Clearing FastScrollerSections.
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: Adding apps with sections. HasPrivateApps: false
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: A with appInfoTitle: app9_jc_cliente_banco
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: B with appInfoTitle: bd local room
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: C with appInfoTitle: Calendar
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: D with appInfoTitle: Drive
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: F with appInfoTitle: Files
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: G with appInfoTitle: Gmail
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: M with appInfoTitle: Maps
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: P with appInfoTitle: Phone
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: S with appInfoTitle: Safety
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: T with appInfoTitle: TMoble
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: V with appInfoTitle: Voice Access
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: addAppsWithSections: adding sectionName: Y with appInfoTitle: YouTube
+10-02 01:38:14.277  1189  1189 D AlphabeticalAppsList: Adding FastScrollSection duplicate to scroll to the bottom.
+10-02 01:38:14.282  1189  1247 D InstallSessionTracker: onCreated: Install session created for appPackageName=com.google.android.gm, sessionId=2050471306, appIcon=null, appLabel=Gmail
+10-02 01:38:14.285  2733  2903 I Finsky:background: [49] IV2::TV: allowMeteredNetwork=false for [Package=com.google.android.gm, isid=QZpq4CKjTUOcBSDN04J74A]
+10-02 01:38:14.285  2733  2903 I Finsky:background: [49] IV2::TM: Task added. com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028]
+10-02 01:38:14.293  1914  2113 I Finsky  : [44] RECEIVER_PACKAGE_VERIFICATION#logWorkEndAndFinishGoAsync: SUCCESS
+10-02 01:38:14.302 10460 10460 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:38:14.323  2733  2899 I Finsky:background: [48] IV2::TM: starting: 1000000028
+10-02 01:38:14.325  2733  2905 I Finsky:background: [51] IV2::TM: Starting task: com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028]
+10-02 01:38:14.326  1189  1189 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+10-02 01:38:14.326  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:18)
+10-02 01:38:14.326  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:646)
+10-02 01:38:14.326  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:96)
+10-02 01:38:14.329  1189  1189 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+10-02 01:38:14.329  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:20)
+10-02 01:38:14.329  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:11)
+10-02 01:38:14.329  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:683)
+10-02 01:38:14.329  2733  2905 I Finsky:background: [51] IV2::TD starting task. com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028]
+10-02 01:38:14.330  2733  2908 I Finsky:background: [52] IV2::TD: Fetching metadata start. com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028]
+10-02 01:38:14.330  1189  1189 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+10-02 01:38:14.330  1189  1189 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+10-02 01:38:14.330  1189  1189 D b/311077782: LauncherAnimationRunner.setAnimation
+10-02 01:38:14.331  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:14.339  2733  2905 I Finsky:background: [51] Attempt creation of cached APK for com.google.android.gm
+10-02 01:38:14.341  2733  2908 I Finsky:background: [52] IV2: installer unavailable to accept com.google.android.inputmethod.latin. Current active installs :
+10-02 01:38:14.341  2733  2908 I Finsky:background: com.google.android.accessibility.switchaccess: installId: 27 isid: SaT0cqzoSImmTjwhIVaBYQ requested 0 min ago
+10-02 01:38:14.341  2733  2908 I Finsky:background: com.google.android.gm: installId: 28 isid: QZpq4CKjTUOcBSDN04J74A requested 0 min ago
+10-02 01:38:14.341  2733  2905 I Finsky:background: [51] Preloads directory was not found.
+10-02 01:38:14.342  2733  2908 W Finsky:background: [52] IV2: cannot process install request now for [Package:com.google.android.inputmethod.latin, isid:h7PbM40MRVaFM_XabLXi8g] with status code 1136
+10-02 01:38:14.342  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-02 01:38:14.346  2733  2899 I Finsky:background: [48] File-by-File compatibility check result: true
+10-02 01:38:14.349  1914  2219 W Finsky  : [55] VerifyApps: [ADV] No verification policy was set for user 0. Using default policy.
+10-02 01:38:14.349  1914  2219 I Finsky  : [55] VerifyApps: [ADV] Initial fallback verdict decided: 1
+10-02 01:38:14.349  1914  2219 I Finsky  : [55] VerifyApps: [ADV] Starting verification task for com.google.android.accessibility.switchaccess (id=22)
+10-02 01:38:14.351   772   890 I ImeTracker: com.google.android.apps.nexuslauncher:cb9d3201: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:38:14.353  1189  1189 I ImeTracker: com.google.android.apps.nexuslauncher:cb9d3201: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:38:14.353  1914  2219 I Finsky  : [55] VerifyApps: [ADV] Calling Verifier app on newer Android version for com.google.android.accessibility.switchaccess
+10-02 01:38:14.367  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:38:14.367  2733  2899 W Finsky:background: [48] IU: Account  from AppState for update of com.google.android.gm no longer exists.
+10-02 01:38:14.373  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:38:14.373 10460 10490 D HWUI    : endAllActiveAnimators on 0x74b2c0c9e170 (UnprojectedRipple) with handle 0x74b240c4f280
+10-02 01:38:14.374  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:38:14.376  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:14.383   772  1293 I ImeTracker: system_server:33eaeef5: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:38:14.387  2733  2899 W Finsky:background: [48] IU: Cannot get valid account for com.google.android.gm
+10-02 01:38:14.387  2733  2899 I Finsky:background: [48] Unauthenticated delivery for com.google.android.gm.
+10-02 01:38:14.390   772   799 I ImeTracker: system_server:33eaeef5: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:38:14.413   772   800 I ImeTracker: system_server:6a2ba3d3: onRequestShow at ORIGIN_SERVER reason CONTROLS_CHANGED fromUser false
+10-02 01:38:14.420 10460 10460 I AutofillManager: onInvisibleForAutofill(): expiringResponse
+10-02 01:38:14.421 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@84cedcf in: STOPPED
+10-02 01:38:14.425 10460 10460 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@84cedcf
+10-02 01:38:14.427  1189  1189 I ImeTracker: system_server:6a2ba3d3: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+10-02 01:38:14.434  1457  1457 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id undo_access_point_promotion_banner not found in tooltipManager.
+10-02 01:38:14.455   772  1779 I ImeTracker: system_server:93a4c2c3: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:38:14.457   772   799 I ImeTracker: system_server:93a4c2c3: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:38:14.485 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:38:14.488 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@84cedcf in: DESTROYED
+10-02 01:38:14.488 10460 10460 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-02 01:38:14.494 10460 10474 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@9c539fb]
+10-02 01:38:14.500 10460 10460 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:38:14.508 10460 10474 I TestRunner: finished: j_loginFallidoMuestraErrorYNoNavega(com.cinemax.cliente.ui.navigation.NavegacionClienteTest)

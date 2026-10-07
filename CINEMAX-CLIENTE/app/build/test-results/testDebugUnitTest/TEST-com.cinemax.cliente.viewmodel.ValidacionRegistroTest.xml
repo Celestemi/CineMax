@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-02T01:35:45.576Z" hostname="DESKTOP-65CNQ55" time="0.005">
+  <properties/>
+  <testcase name="la contrasena demasiado corta se rechaza" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.002"/>
+  <testcase name="un formulario completo no tiene errores" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.0"/>
+  <testcase name="el login solo exige que haya algo escrito" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.0"/>
+  <testcase name="J - solo espacios tambien cuentan como vacio" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.0"/>
+  <testcase name="I - la contrasena vacia se rechaza" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.0"/>
+  <testcase name="J - todos los campos vacios se rechazan" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.001"/>
+  <testcase name="el telefono debe tener entre 9 y 15 digitos" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.0"/>
+  <testcase name="el rol permitido en la app Cliente es solo CLIENTE" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.0"/>
+  <testcase name="el email debe tener un formato razonable" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.001"/>
+  <testcase name="el usuario demasiado corto o con simbolos se rechaza" classname="com.cinemax.cliente.viewmodel.ValidacionRegistroTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

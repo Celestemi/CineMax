@@ -1,0 +1,3 @@
+10-02 01:36:04.652 10460 10474 I TestRunner: started: h_elUsuarioRegistradoPersisteAlCerrarYReabrirLaBase(com.cinemax.cliente.data.repository.AuthPersistenceTest)
+10-02 01:36:04.720 10460 10476 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+10-02 01:36:04.812 10460 10474 I TestRunner: finished: h_elUsuarioRegistradoPersisteAlCerrarYReabrirLaBase(com.cinemax.cliente.data.repository.AuthPersistenceTest)

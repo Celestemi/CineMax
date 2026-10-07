@@ -1,0 +1,2 @@
+10-02 01:38:37.600 10460 10474 I TestRunner: started: k_elTotalEsPrecioPorCantidad(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:37.782 10460 10474 I TestRunner: finished: k_elTotalEsPrecioPorCantidad(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

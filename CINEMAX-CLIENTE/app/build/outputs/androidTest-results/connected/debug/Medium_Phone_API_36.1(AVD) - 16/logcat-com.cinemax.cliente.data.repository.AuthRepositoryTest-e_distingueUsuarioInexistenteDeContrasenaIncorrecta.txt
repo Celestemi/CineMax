@@ -1,0 +1,2 @@
+10-02 01:36:05.287 10460 10474 I TestRunner: started: e_distingueUsuarioInexistenteDeContrasenaIncorrecta(com.cinemax.cliente.data.repository.AuthRepositoryTest)
+10-02 01:36:05.304 10460 10474 I TestRunner: finished: e_distingueUsuarioInexistenteDeContrasenaIncorrecta(com.cinemax.cliente.data.repository.AuthRepositoryTest)

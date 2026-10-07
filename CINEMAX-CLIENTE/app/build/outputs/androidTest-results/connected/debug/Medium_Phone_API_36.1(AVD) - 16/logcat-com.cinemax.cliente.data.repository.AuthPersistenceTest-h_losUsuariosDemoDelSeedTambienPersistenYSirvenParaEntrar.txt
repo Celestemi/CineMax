@@ -1,0 +1,5 @@
+10-02 01:36:04.870 10460 10474 I TestRunner: started: h_losUsuariosDemoDelSeedTambienPersistenYSirvenParaEntrar(com.cinemax.cliente.data.repository.AuthPersistenceTest)
+10-02 01:36:05.024  1178  1307 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+10-02 01:36:05.027   772   996 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:36:05.029  1178  1307 D SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+10-02 01:36:05.128 10460 10474 I TestRunner: finished: h_losUsuariosDemoDelSeedTambienPersistenYSirvenParaEntrar(com.cinemax.cliente.data.repository.AuthPersistenceTest)

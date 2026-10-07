@@ -1,0 +1,2 @@
+10-02 01:38:36.857 10460 10474 I TestRunner: started: alCerrarLaSesionElHistorialSeVacia(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)
+10-02 01:38:37.052 10460 10474 I TestRunner: finished: alCerrarLaSesionElHistorialSeVacia(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)

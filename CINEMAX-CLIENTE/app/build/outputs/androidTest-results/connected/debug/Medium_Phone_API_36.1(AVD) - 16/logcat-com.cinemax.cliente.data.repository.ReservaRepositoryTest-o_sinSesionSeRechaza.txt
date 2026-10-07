@@ -1,0 +1,2 @@
+10-02 01:36:10.074 10460 10474 I TestRunner: started: o_sinSesionSeRechaza(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:10.170 10460 10474 I TestRunner: finished: o_sinSesionSeRechaza(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

@@ -1,0 +1,2 @@
+10-02 01:36:06.917 10460 10474 I TestRunner: started: f_unaPeliculaSeFiltraPorGenero(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:07.007 10460 10474 I TestRunner: finished: f_unaPeliculaSeFiltraPorGenero(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

@@ -1,0 +1,2 @@
+10-02 01:36:07.961 10460 10474 I TestRunner: started: b_filtrarPorGeneroSinCoincidenciasDevuelveListaVacia(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:08.057 10460 10474 I TestRunner: finished: b_filtrarPorGeneroSinCoincidenciasDevuelveListaVacia(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

@@ -1,0 +1,5 @@
+com.cinemax.cliente.test.app-updated_navigation_xml-0 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-CLIENTE\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.cinemax.cliente.test.app-packageDebugAndroidTestResources-1 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-CLIENTE\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.cinemax.cliente.test.app-packageDebugAndroidTestResources-2 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-CLIENTE\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.cinemax.cliente.test.app-debugAndroidTest-3 C:\DESARROLLO DE APLICACIONES MOVILES\CINEMAX-CLIENTE\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\algue\.gradle

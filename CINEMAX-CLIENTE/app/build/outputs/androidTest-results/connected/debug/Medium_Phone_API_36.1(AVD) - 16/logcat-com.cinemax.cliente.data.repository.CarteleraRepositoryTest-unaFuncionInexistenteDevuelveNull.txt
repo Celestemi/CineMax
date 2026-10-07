@@ -1,0 +1,2 @@
+10-02 01:36:07.239 10460 10474 I TestRunner: started: unaFuncionInexistenteDevuelveNull(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:07.371 10460 10474 I TestRunner: finished: unaFuncionInexistenteDevuelveNull(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

@@ -1,0 +1,8 @@
+10-02 01:38:30.754 10460 10474 I TestRunner: started: cerrarSesionLimpiaElEstadoYVuelveAlLogin(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:30.755 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:38:30.762 10503 10503 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:38:30.774   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:38:30.793  1189  1189 D RecentsView: onTaskRemoved: 242, not handling task stack changes
+10-02 01:38:30.794  1189  1189 D RecentsView: onTaskRemoved: 242, not handling task stack changes
+10-02 01:38:30.808  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:30.831 10460 10474 I TestRunner: finished: cerrarSesionLimpiaElEstadoYVuelveAlLogin(com.cinemax.cliente.viewmodel.AuthViewModelTest)

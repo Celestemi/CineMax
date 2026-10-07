@@ -1,0 +1,2 @@
+10-02 01:38:33.415 10460 10474 I TestRunner: started: d_filtrarPorSedeReduceLaCartelera(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)
+10-02 01:38:33.567 10460 10474 I TestRunner: finished: d_filtrarPorSedeReduceLaCartelera(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)

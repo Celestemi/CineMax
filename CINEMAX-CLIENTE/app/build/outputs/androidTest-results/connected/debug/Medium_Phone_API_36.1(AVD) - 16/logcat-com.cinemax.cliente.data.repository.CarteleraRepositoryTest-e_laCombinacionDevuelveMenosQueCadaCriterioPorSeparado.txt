@@ -1,0 +1,2 @@
+10-02 01:36:08.463 10460 10474 I TestRunner: started: e_laCombinacionDevuelveMenosQueCadaCriterioPorSeparado(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:08.569 10460 10474 I TestRunner: finished: e_laCombinacionDevuelveMenosQueCadaCriterioPorSeparado(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

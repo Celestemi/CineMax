@@ -1,0 +1,4 @@
+10-02 01:38:30.591 10460 10474 I TestRunner: started: g_elAdminDelSeedTampocoEntra(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:30.634  1189  1189 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-02 01:38:30.642 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:38:30.661 10460 10474 I TestRunner: finished: g_elAdminDelSeedTampocoEntra(com.cinemax.cliente.viewmodel.AuthViewModelTest)

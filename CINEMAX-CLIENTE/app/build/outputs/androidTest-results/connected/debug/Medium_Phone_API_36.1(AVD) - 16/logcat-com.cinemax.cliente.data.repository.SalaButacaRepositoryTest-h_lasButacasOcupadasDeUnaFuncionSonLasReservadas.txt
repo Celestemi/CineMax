@@ -1,0 +1,2 @@
+10-02 01:36:12.249 10460 10474 I TestRunner: started: h_lasButacasOcupadasDeUnaFuncionSonLasReservadas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:12.330 10460 10474 I TestRunner: finished: h_lasButacasOcupadasDeUnaFuncionSonLasReservadas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

@@ -1,0 +1,2 @@
+10-02 01:38:31.213 10460 10474 I TestRunner: started: g_unRolDesconocidoTambienSeRechaza(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:31.235 10460 10474 I TestRunner: finished: g_unRolDesconocidoTambienSeRechaza(com.cinemax.cliente.viewmodel.AuthViewModelTest)

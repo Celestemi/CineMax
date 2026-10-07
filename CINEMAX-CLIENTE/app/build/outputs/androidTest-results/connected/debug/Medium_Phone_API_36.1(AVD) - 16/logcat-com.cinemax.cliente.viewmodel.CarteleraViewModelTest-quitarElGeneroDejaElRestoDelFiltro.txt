@@ -1,0 +1,2 @@
+10-02 01:38:33.887 10460 10474 I TestRunner: started: quitarElGeneroDejaElRestoDelFiltro(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)
+10-02 01:38:34.040 10460 10474 I TestRunner: finished: quitarElGeneroDejaElRestoDelFiltro(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)

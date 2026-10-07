@@ -1,0 +1,2 @@
+10-02 01:36:06.692 10460 10474 I TestRunner: started: unaFuncionSeLeeCompletaPorId(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:06.793 10460 10474 I TestRunner: finished: unaFuncionSeLeeCompletaPorId(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

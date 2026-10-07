@@ -1,0 +1,2 @@
+10-02 01:36:11.877 10460 10474 I TestRunner: started: h_unaReservaConfirmadaOcupaSusButacas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:11.979 10460 10474 I TestRunner: finished: h_unaReservaConfirmadaOcupaSusButacas(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

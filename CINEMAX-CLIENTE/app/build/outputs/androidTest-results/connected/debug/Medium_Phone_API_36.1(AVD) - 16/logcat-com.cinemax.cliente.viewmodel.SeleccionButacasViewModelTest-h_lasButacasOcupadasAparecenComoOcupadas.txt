@@ -1,0 +1,2 @@
+10-02 01:38:40.204 10460 10474 I TestRunner: started: h_lasButacasOcupadasAparecenComoOcupadas(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:40.306 10460 10474 I TestRunner: finished: h_lasButacasOcupadasAparecenComoOcupadas(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

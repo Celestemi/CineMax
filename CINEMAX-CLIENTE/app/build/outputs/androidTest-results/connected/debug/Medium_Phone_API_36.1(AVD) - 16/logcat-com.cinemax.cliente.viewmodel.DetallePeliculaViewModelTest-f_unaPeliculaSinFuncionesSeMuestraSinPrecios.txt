@@ -1,0 +1,2 @@
+10-02 01:38:34.854 10460 10474 I TestRunner: started: f_unaPeliculaSinFuncionesSeMuestraSinPrecios(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)
+10-02 01:38:34.988 10460 10474 I TestRunner: finished: f_unaPeliculaSinFuncionesSeMuestraSinPrecios(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)

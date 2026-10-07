@@ -1,0 +1,3 @@
+10-02 01:38:30.686 10460 10474 I TestRunner: started: f_loginConUsuarioInactivoTerminaEnUsuarioInactivo(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:30.705   772  1212 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:38:30.751 10460 10474 I TestRunner: finished: f_loginConUsuarioInactivoTerminaEnUsuarioInactivo(com.cinemax.cliente.viewmodel.AuthViewModelTest)

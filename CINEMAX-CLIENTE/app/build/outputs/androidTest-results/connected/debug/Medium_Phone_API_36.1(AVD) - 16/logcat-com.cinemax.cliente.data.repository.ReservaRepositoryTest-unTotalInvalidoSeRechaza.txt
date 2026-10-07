@@ -1,0 +1,2 @@
+10-02 01:36:10.461 10460 10474 I TestRunner: started: unTotalInvalidoSeRechaza(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:10.553 10460 10474 I TestRunner: finished: unTotalInvalidoSeRechaza(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

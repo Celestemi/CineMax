@@ -1,0 +1,2 @@
+10-02 01:36:12.765 10460 10474 I TestRunner: started: i_ningunaButacaOcupadaApareceEntreLasDisponibles(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:12.866 10460 10474 I TestRunner: finished: i_ningunaButacaOcupadaApareceEntreLasDisponibles(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

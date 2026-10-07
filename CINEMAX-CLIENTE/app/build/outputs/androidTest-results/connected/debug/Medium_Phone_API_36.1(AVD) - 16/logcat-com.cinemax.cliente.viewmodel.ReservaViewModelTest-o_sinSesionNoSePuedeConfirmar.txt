@@ -1,0 +1,6 @@
+10-02 01:38:38.000 10460 10474 I TestRunner: started: o_sinSesionNoSePuedeConfirmar(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:38.043  2733  2886 I Finsky:background: [46] WM::SCH: Logging work initialize for 40-9999
+10-02 01:38:38.055  2733  2921 I Finsky:background: [58] SCH: Scheduling phonesky job Id: 40-9999, CT: 1790905117980, Constraints: [{ L: 5986, D: 86405986, C: CHARGING_NONE, I: IDLE_NONE, N: NET_NONE, B: BATTERY_ANY }]
+10-02 01:38:38.055  2733  2921 I Finsky:background: [58] SCH: Scheduling system job 10960 to resume after 5911 ms
+10-02 01:38:38.060  2733  2905 I Finsky:background: [51] SCH: Scheduling 0 system job(s)
+10-02 01:38:38.148 10460 10474 I TestRunner: finished: o_sinSesionNoSePuedeConfirmar(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

@@ -1,0 +1,2 @@
+10-02 01:38:35.591 10460 10474 I TestRunner: started: f_laFichaCargaLaPeliculaYSusFunciones(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)
+10-02 01:38:35.709 10460 10474 I TestRunner: finished: f_laFichaCargaLaPeliculaYSusFunciones(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)

@@ -1,0 +1,2 @@
+10-02 01:36:05.198 10460 10474 I TestRunner: started: f_desactivarYReactivarCambiaElAcceso(com.cinemax.cliente.data.repository.AuthRepositoryTest)
+10-02 01:36:05.221 10460 10474 I TestRunner: finished: f_desactivarYReactivarCambiaElAcceso(com.cinemax.cliente.data.repository.AuthRepositoryTest)

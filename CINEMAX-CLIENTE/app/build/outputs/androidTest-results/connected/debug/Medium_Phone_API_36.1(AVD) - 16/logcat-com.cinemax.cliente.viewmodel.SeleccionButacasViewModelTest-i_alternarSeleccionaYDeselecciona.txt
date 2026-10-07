@@ -1,0 +1,2 @@
+10-02 01:38:41.544 10460 10474 I TestRunner: started: i_alternarSeleccionaYDeselecciona(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:41.691 10460 10474 I TestRunner: finished: i_alternarSeleccionaYDeselecciona(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

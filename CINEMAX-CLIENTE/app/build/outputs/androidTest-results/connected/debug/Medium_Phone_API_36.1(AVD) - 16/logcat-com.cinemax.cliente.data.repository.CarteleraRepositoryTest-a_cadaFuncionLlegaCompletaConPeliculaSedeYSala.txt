@@ -1,0 +1,2 @@
+10-02 01:36:07.536 10460 10474 I TestRunner: started: a_cadaFuncionLlegaCompletaConPeliculaSedeYSala(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:07.646 10460 10474 I TestRunner: finished: a_cadaFuncionLlegaCompletaConPeliculaSedeYSala(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

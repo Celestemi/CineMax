@@ -1,0 +1,2 @@
+10-02 01:38:40.102 10460 10474 I TestRunner: started: j_seleccionarUnaButacaOcupadaSeIgnoraConAviso(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:40.201 10460 10474 I TestRunner: finished: j_seleccionarUnaButacaOcupadaSeIgnoraConAviso(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

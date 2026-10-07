@@ -1,0 +1,8 @@
+10-02 01:38:30.909 10460 10474 I TestRunner: started: g_todosLosClientesDelSeedEntranYElAdminNo(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:30.919  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H19M59.699S, attempt=0
+10-02 01:38:30.942  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.gm, isid: QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:30.949  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.gm
+10-02 01:38:30.956  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING]
+10-02 01:38:30.976   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:38:31.009  1365  2362 I libbinder.IPCThreadState: oneway function results for code 1 on binder at 0x74b240c2f9f0 will be dropped but finished with status UNKNOWN_TRANSACTION and reply parcel size 80
+10-02 01:38:31.029 10460 10474 I TestRunner: finished: g_todosLosClientesDelSeedEntranYElAdminNo(com.cinemax.cliente.viewmodel.AuthViewModelTest)

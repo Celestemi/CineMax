@@ -1,0 +1,5 @@
+10-02 01:38:38.449 10460 10474 I TestRunner: started: n_unaFuncionQueSeDesactivaSeRechaza(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:38.588  2733  2869 I Finsky:background: [44] WM::SCH: Logging work initialize for 40-9999
+10-02 01:38:38.605  2733  2903 I Finsky:background: [49] SCH: Scheduling phonesky job Id: 40-9999, CT: 1790905117987, Constraints: [{ L: 5978, D: 86405978, C: CHARGING_NONE, I: IDLE_NONE, N: NET_NONE, B: BATTERY_ANY }]
+10-02 01:38:38.606  2733  2903 I Finsky:background: [49] SCH: Scheduling system job 10960 to resume after 5359 ms
+10-02 01:38:38.617 10460 10474 I TestRunner: finished: n_unaFuncionQueSeDesactivaSeRechaza(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

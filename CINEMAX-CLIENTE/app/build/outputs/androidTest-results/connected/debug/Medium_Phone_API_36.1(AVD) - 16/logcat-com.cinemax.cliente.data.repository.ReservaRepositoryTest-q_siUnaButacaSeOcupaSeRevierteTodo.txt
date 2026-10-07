@@ -1,0 +1,2 @@
+10-02 01:36:11.396 10460 10474 I TestRunner: started: q_siUnaButacaSeOcupaSeRevierteTodo(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:11.504 10460 10474 I TestRunner: finished: q_siUnaButacaSeOcupaSeRevierteTodo(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

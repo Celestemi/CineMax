@@ -1,0 +1,882 @@
+10-02 01:38:14.513 10460 10474 I TestRunner: started: c_loginYRegistroSeAlternanConservandoElLogin(com.cinemax.cliente.ui.navigation.NavegacionClienteTest)
+10-02 01:38:14.522  1189  1189 D RecentsView: onTaskRemoved: 235, not handling task stack changes
+10-02 01:38:14.522  1189  1189 D RecentsView: onTaskRemoved: 235, not handling task stack changes
+10-02 01:38:14.527 10460 10474 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@ffcac74]
+10-02 01:38:14.529  1914  2216 I Finsky  : [53] VerifyApps: [ADV] Calling Verifier app on newer Android version for com.google.android.accessibility.switchaccess
+10-02 01:38:14.529  1914  2216 I Finsky  : [53] VerifyApps: [ADV] Call Strategy for com.google.android.accessibility.switchaccess (id=22): CALL_VERIFIER_APP
+10-02 01:38:14.530  1914  2216 W Finsky  : [53] VerifyApps: [ADV] No verification policy was set for user 0. Using default policy.
+10-02 01:38:14.539 10460 10474 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-02 01:38:14.541  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:14.542  1914  2216 I Finsky  : [53] VerifyApps: [ADV] Calling Verifier app for com.google.android.accessibility.switchaccess (id=22)
+10-02 01:38:14.552   772  1212 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cbc3aaef does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:38:14.560  1914  2219 I Finsky  : [55] VerifyApps: [ADV] Verifier app is not installed. Passing by default for com.google.android.accessibility.switchaccess (id=22)
+10-02 01:38:14.561  1914  2219 I Finsky  : [55] VerifyApps: [ADV] Scan finished for com.google.android.accessibility.switchaccess (id=22) with verdict 0
+10-02 01:38:14.564  1914  2219 W Finsky  : [55] VerifyApps: [ADV] No verification policy was set for user 0. Using default policy.
+10-02 01:38:14.565  1914  2219 I Finsky  : [55] VerifyApps: [ADV] Enforcing policy 0 for com.google.android.accessibility.switchaccess. Scan verdict: 0
+10-02 01:38:14.565  1914  2219 I Finsky  : [55] VerifyApps: [ADV] Enforced verdict for com.google.android.accessibility.switchaccess: VERIFICATION_ALLOW
+10-02 01:38:14.565  1914  2219 I Finsky  : [55] VerifyApps: [ADV] Policy enforced for com.google.android.accessibility.switchaccess (id=22). Verdict: VERIFICATION_ALLOW
+10-02 01:38:14.565  1914 10847 I Finsky  : [441] VerifyApps: Anti-malware verification task started for package=com.google.android.accessibility.switchaccess
+10-02 01:38:14.567  1914 10847 I Finsky  : [441] VerifyApps: Skipping verification. Finsky installation
+10-02 01:38:14.568  1914 10847 I Finsky  : [441] VerifyApps: Skipping anti malware verification (preconditions not met). package=com.google.android.accessibility.switchaccess
+10-02 01:38:14.570  1914 10847 I Finsky  : [441] VerifyApps AdvancedProtection: Verify AP install started
+10-02 01:38:14.570  1914 10847 I Finsky  : [441] VerifyApps AdvancedProtection: Allowing install because there are no Advanced Protection users
+10-02 01:38:14.579  1914  1914 I Finsky  : [2] VerifyApps AdvancedProtection: Reported Advanced Protection verification result: ALLOW
+10-02 01:38:14.589  1914 10847 I Finsky  : [441] Skipping logging for attempted installation. This is a Play Store installation.
+10-02 01:38:14.591  1914 10847 I Finsky  : [441] VerifyApps: Returning package verification result id=22, result=ALLOW
+10-02 01:38:14.601  1914  1914 I Finsky  : [2] VerifyApps: Install-time verification complete: id=22, package_name=com.google.android.accessibility.switchaccess
+10-02 01:38:14.605  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+10-02 01:38:14.606  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+10-02 01:38:14.607  1189  1189 W SplitSelectStateCtor: Missing session instanceIds
+10-02 01:38:14.608  1189  1189 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-02 01:38:14.608   613   702 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:38:14.650   772  1212 V SafetySourceDataValidat: Package: com.android.vending has expected signature
+10-02 01:38:14.650   772  1212 V SafetySourceDataValidat: Package: com.android.vending has expected signature
+10-02 01:38:14.655 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@45e1aa4 in: PRE_ON_CREATE
+10-02 01:38:14.656 10460 10460 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-02 01:38:14.669 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@45e1aa4 in: CREATED
+10-02 01:38:14.669 10460 10460 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@45e1aa4
+10-02 01:38:14.669 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@45e1aa4 in: STARTED
+10-02 01:38:14.670 10460 10460 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@45e1aa4
+10-02 01:38:14.671 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@45e1aa4 in: RESUMED
+10-02 01:38:14.671 10460 10460 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@45e1aa4
+10-02 01:38:14.682 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@bc35a27
+10-02 01:38:14.683 10460 10460 D VRI[ComponentActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:38:14.684  1526  3804 I cn_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@d451936
+10-02 01:38:14.692  1189  1189 D RecentsView: onTaskDisplayChanged: 237, new displayId = 0
+10-02 01:38:14.696   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:38:14.713  1189  1189 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-02 01:38:14.735 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:38:14.779   772   796 I ActivityTaskManager: Displayed com.cinemax.cliente/androidx.activity.ComponentActivity for user 0: +228ms
+10-02 01:38:14.786  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:14.786  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:14.792  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:14.792  1189  1189 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+10-02 01:38:14.825  2188  2188 I artd    : Running profman: /apex/com.android.art/bin/art_exec --drop-capabilities --keep-fds=6:7:8 -- /apex/com.android.art/bin/profman --copy-and-update-profile-key --profile-file-fd=6 --apk-fd=7 --reference-profile-file-fd=8
+10-02 01:38:14.825  2188  2188 I artd    : Opened FDs: 6:/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/base.dm 7:/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/base.apk 8:/data/misc/profiles/ref/com.google.android.accessibility.switchaccess/primary.prof.Y7IuYr.tmp
+10-02 01:38:14.848  2733  2908 I Finsky:background: [52] IV2::TD: Fetching metadata done. com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028]
+10-02 01:38:14.861  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:14.866  2733 10371 I Finsky:background: [369] ICalc: Partition available space: 1871687680, install size: 135399579, min free: 311405772, additional needed: 0
+10-02 01:38:14.866  2733  2903 I Finsky:background: [49] AV::DSC: sufficient disk space space available for com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028]: 135399579
+10-02 01:38:14.889   772   890 I ImeTracker: com.cinemax.cliente:f33774fe: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:38:14.891 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:38:14.893 10460 10460 I ImeTracker: com.cinemax.cliente:f33774fe: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:38:14.898 10503 10503 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:38:14.911   772  1212 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:38:14.923  2188  2188 I artd    : profman returned code 0
+10-02 01:38:14.925  2188  2188 I artd    : Merge skipped because there are no existing profiles
+10-02 01:38:14.939  2188  2188 I artd    : GetBestInfo: dm (/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/base.dm) is kOatUpToDate with filter 'verify' executable 'false'
+10-02 01:38:14.939  2188  2188 I artd    : Should recompile: targetFilterIsBetter (current: verify, target: speed-profile)
+10-02 01:38:14.941  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:38:14.944  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:38:14.949  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:38:14.954  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:14.960  2188  2188 I artd    : Running dex2oat: /apex/com.android.art/bin/art_exec --drop-capabilities --set-task-profile=Dex2OatBootComplete --set-priority=background --keep-fds=6:7:8:9:10:11:12:13:14 -- /apex/com.android.art/bin/dex2oat64 --zip-fd=6 --zip-location=/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/base.apk --oat-fd=7 --oat-location=/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/oat/x86_64/base.odex --output-vdex-fd=8 --app-image-fd=9 --image-format=lz4 --swap-fd=10 --class-loader-context-fds=11:12 --class-loader-context=PCL[]{PCL[/system_ext/framework/androidx.window.extensions.jar]#PCL[/system_ext/framework/androidx.window.sidecar.jar]} --classpath-dir=/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ== --dm-fd=13 --profile-file-fd=14 --instruction-set=x86_64 --instruction-set-features=default --instruction-set-variant=x86_64 --compiler-filter=speed-profile --compilation-reason=install-dm --max-image-block-size=524288 --resolve-startup-const-strings=true --generate-mini-debug-info --runtime-arg -Xtarget-sdk-version:37 --runtime-arg -Xhidden-api-policy:enabled --assume-value=Landroid/os/Build$VERSION;->SDK_INT:36 --no-allow-profile-code --runtime-arg -Xms64m --runtime-arg -Xmx512m --comments=app-name:com.google.android.accessibility.switchaccess,app-version-name:1.17.0.892789133,app-version-code:827,art-version:361153460
+10-02 01:38:14.960  2188  2188 I artd    : Opened FDs: 6:/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/base.apk 7:/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/oat/x86_64/base.odex.F99rKZ.tmp 8:/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/oat/x86_64/base.vdex.tABOgn.tmp 9:/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/oat/x86_64/base.art.quqnSk.tmp 10:/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/oat/x86_64/base.odex.swap.rj1hCf.tmp 11:/system_ext/framework/androidx.window.sidecar.jar 12:/system_ext/framework/androidx.window.extensions.jar 13:/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/base.dm 14:/data/misc/profiles/ref/com.google.android.accessibility.switchaccess/primary.prof.Y7IuYr.tmp
+10-02 01:38:14.969   772  1990 I ImeTracker: system_server:d766ead9: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:38:14.975   772   799 I ImeTracker: system_server:d766ead9: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:38:14.975  1189  1189 D RecentsView: onTaskRemoved: 236, not handling task stack changes
+10-02 01:38:14.975  1189  1189 D RecentsView: onTaskRemoved: 236, not handling task stack changes
+10-02 01:38:15.004  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:15.005 10959 10959 W libprocessgroup: A JoinCgroup action in the SystemMemoryProcess profile is used for controller memory in the cgroup v2 hierarchy and will be ignored
+10-02 01:38:15.008   772  1990 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:38:15.033  1178  1307 D SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+10-02 01:38:15.034   772  1990 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.037  1178  1307 D SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+10-02 01:38:15.081  1189  1204 W System  : A resource failed to call release.
+10-02 01:38:15.081  1189  1204 W System  : A resource failed to call release.
+10-02 01:38:15.081  1189  1204 W System  : A resource failed to call release.
+10-02 01:38:15.131 10959 10959 W dex2oat64: Unexpected CPU variant for x86: x86_64.
+10-02 01:38:15.131 10959 10959 W dex2oat64: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, alderlake, default
+10-02 01:38:15.134 10959 10959 W dex2oat64: Mismatch between dex2oat instruction set features to use (ISA: X86_64 Feature string: -ssse3,-sse4.1,-sse4.2,-avx,-avx2,-popcnt) and those from CPP defines (ISA: X86_64 Feature string: ssse3,sse4.1,sse4.2,-avx,-avx2,popcnt) for the command line:
+10-02 01:38:15.134 10959 10959 W dex2oat64: /apex/com.android.art/bin/dex2oat64 --zip-fd=6 --zip-location=/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/base.apk --oat-fd=7 --oat-location=/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/oat/x86_64/base.odex --output-vdex-fd=8 --app-image-fd=9 --image-format=lz4 --swap-fd=10 --class-loader-context-fds=11:12 --class-loader-context=PCL[]{PCL[/system_ext/framework/androidx.window.extensions.jar]#PCL[/system_ext/framework/androidx.window.sidecar.jar]} --classpath-dir=/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ== --dm-fd=13 --profile-file-fd=14 --instruction-set=x86_64 --instruction-set-features=default --instruction-set-variant=x86_64 --compiler-filter=speed-profile --compilation-reason=install-dm --max-image-block-size=524288 --resolve-startup-const-strings=true --generate-mini-debug-info --runtime-arg -Xtarget-sdk-version:37 --runtime-arg -Xhidden-api-policy:enabled --assume-value=Landroid/os/Build$VERSION;->SDK_INT:36 --no-allow-profile-code --runtime-arg -Xms64m --runtime-arg -Xmx512m --comments=app-name:com.google.android.accessibility.switchaccess,app-version-name:1.17.0.892789133,app-version-code:827,art-version:361153460
+10-02 01:38:15.137 10959 10959 I dex2oat64: /apex/com.android.art/bin/dex2oat64 --output-vdex-fd=8 --class-loader-context-fds=11:12 --class-loader-context=PCL[]{PCL[/system_ext/framework/androidx.window.extensions.jar]#PCL[/system_ext/framework/androidx.window.sidecar.jar]} --classpath-dir=/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ== --dm-fd=13 --profile-file-fd=14 --compiler-filter=speed-profile --compilation-reason=install-dm --max-image-block-size=524288 --resolve-startup-const-strings=true --generate-mini-debug-info --assume-value=Landroid/os/Build$VERSION;->SDK_INT:36 --no-allow-profile-code --comments=app-name:com.google.android.accessibility.switchaccess,app-version-name:1.17.0.892789133,app-version-code:827,art-version:361153460
+10-02 01:38:15.140  1025  1349 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:38:15.143 10959 10959 I dex2oat64: Using CollectorTypeCMC GC.
+10-02 01:38:15.143  1189  1189 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:38:15.153  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-02 01:38:15.156   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:38:15.227  1189  1189 D BaseActivity: Launcher flags updated: [] -[state_started]
+10-02 01:38:15.227  1189  1189 D BaseDepthController: setSurface:
+10-02 01:38:15.227  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:38:15.227  1189  1189 D BaseDepthController: 	mBaseSurface: null
+10-02 01:38:15.227  1189  1189 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-02 01:38:15.229  1189  1189 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+10-02 01:38:15.229  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:6)
+10-02 01:38:15.229  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:2)
+10-02 01:38:15.229  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:32)
+10-02 01:38:15.229  1189  1189 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+10-02 01:38:15.229  1189  1189 D ActivityContext: hideKeyboard
+10-02 01:38:15.229  1189  1189 D ActivityContext: isImeShown: false
+10-02 01:38:15.229  1189  1189 D StatsLog: LAUNCHER_ONSTOP
+10-02 01:38:15.237  1189  1189 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-02 01:38:15.319  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.320  1025  1033 W System  : A resource failed to call release.
+10-02 01:38:15.793 10959 10962 I dex2oat64: Priority-to-niceness mapping: 19, 16, 13, 10, 0, -2, -4, -5, -6, -8
+10-02 01:38:15.812 10959 10959 W dex2oat64: userfaultfd: MOVE ioctl seems unsupported: Try again
+10-02 01:38:15.817 10959 10959 I dex2oat64: Explicit concurrent mark compact GC freed 6190KB AllocSpace bytes, 0(0B) LOS objects, 99% free, 24KB/24MB, paused 64us,156us total 9.020ms
+10-02 01:38:15.865 10959 10959 I dex2oat64: dex2oat took 738.368ms (411.339ms cpu) (threads: 4) arena alloc=2267KB (2321616B) java alloc=24KB (25104B) native alloc=1714KB (1755472B) free=2020KB (2068960B)
+10-02 01:38:15.873  2188  2188 I artd    : dex2oat returned code 0
+10-02 01:38:15.884   772  4240 I ArtService: Dexopt result: [packageName = com.google.android.accessibility.switchaccess] DexContainerFileDexoptResult{dexContainerFile=/data/app/~~-gfdsK-LgH17zUCmx-XPew==/com.google.android.accessibility.switchaccess-4EAojNIjlHvu7u_4oa3xFQ==/base.apk, primaryAbi=true, abi=x86_64, actualCompilerFilter=speed-profile, status=PERFORMED, dex2oatWallTimeMillis=910, dex2oatCpuTimeMillis=460, sizeBytes=301092, sizeBeforeBytes=0, extendedStatusFlags=[]}
+10-02 01:38:15.954   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.955   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.967  1178  1307 I SatelliteAppTracker: onPackageUpdateFinished : com.google.android.accessibility.switchaccess
+10-02 01:38:15.967  1178  1307 I SatelliteAppTracker: onPackageModified : com.google.android.accessibility.switchaccess
+10-02 01:38:15.975  1914  1914 I Finsky  : [2] amzt - Received: android.intent.action.PACKAGE_REMOVED, [wsMTCyfz6mHaeahMgbOlhCHGY5iFoQmDWWxU5iMFWnw]
+10-02 01:38:15.977  2733  2733 I Finsky:background: [2] amzi - Received: android.intent.action.PACKAGE_REMOVED, [wsMTCyfz6mHaeahMgbOlhCHGY5iFoQmDWWxU5iMFWnw]
+10-02 01:38:15.980  1178  1307 E SatelliteAppTracker: packageName: com.google.android.accessibility.switchaccess, value: null
+10-02 01:38:15.984  3144  3144 I SafetyLabelChangedBroadcastReceiver: received broadcast packageName: com.google.android.accessibility.switchaccess, current user: UserHandle{0}, packageChangeEvent: UPDATE, intent user: UserHandle{0}
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.990   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.991   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:15.994   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.006   772   986 I SdkSandboxManager: No SDKs used. Skipping SDK data reconcilation for CallingInfo{mUid=10177, mPackageName='com.google.android.accessibility.switchaccess, mAppProcessToken='null'}
+10-02 01:38:16.018  1178  1307 E SatelliteAppTracker: packageName: com.google.android.accessibility.switchaccess, value: null
+10-02 01:38:16.058  1914 10877 I Finsky  : [448] SCH: Received scheduling request: Id: 12-1, Constraints: [{ L: 15000, D: 86400000, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+10-02 01:38:16.061  2733  2733 I Finsky:background: [2] amzi - Received: android.intent.action.PACKAGE_ADDED, [wsMTCyfz6mHaeahMgbOlhCHGY5iFoQmDWWxU5iMFWnw]
+10-02 01:38:16.063  1914  2216 I Finsky  : [53] AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.accessibility.switchaccess]
+10-02 01:38:16.065   772   986 I SdkSandboxManager: No SDKs used. Skipping SDK data reconcilation for CallingInfo{mUid=10177, mPackageName='com.google.android.accessibility.switchaccess, mAppProcessToken='null'}
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.065   772   834 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.071  1914  2216 I Finsky  : [53] AIM: Got app ownership map. App counts: . Unique apps: 0
+10-02 01:38:16.071  1914  2216 E Finsky  : [53] [Counters] attempted to use a non-positive increment for: 4752
+10-02 01:38:16.073  1914  2216 E Finsky  : [53] [Counters] attempted to use a non-positive increment for: 4753
+10-02 01:38:16.075  1914  1914 I Finsky  : [2] amzt - Received: android.intent.action.PACKAGE_ADDED, [wsMTCyfz6mHaeahMgbOlhCHGY5iFoQmDWWxU5iMFWnw]
+10-02 01:38:16.090  2733  2903 I Finsky:background: [49] IQ:PSL: onPackageRemoved com.google.android.accessibility.switchaccess, replacing=true existingStatus=[Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:INSTALLING
+10-02 01:38:16.093  2733  2733 I Finsky:background: [2] amzi - Received: android.intent.action.PACKAGE_ADDED, [wsMTCyfz6mHaeahMgbOlhCHGY5iFoQmDWWxU5iMFWnw]
+10-02 01:38:16.102  1914  2257 I Finsky  : [57] AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.accessibility.switchaccess]
+10-02 01:38:16.103  2733  2733 I Finsky:background: [2] amzi - Deduping intent android.intent.action.PACKAGE_ADDED
+10-02 01:38:16.105  2733  2733 I Finsky:background: [2] amzi - Received: android.intent.action.PACKAGE_ADDED, [wsMTCyfz6mHaeahMgbOlhCHGY5iFoQmDWWxU5iMFWnw]
+10-02 01:38:16.117  1025  1025 D ControlsListingControllerImpl: ServiceConfig reloaded, count: 0
+10-02 01:38:16.120  2733  2903 I Finsky:background: [49] IQ:PRCC: should not cancel queued up install for com.google.android.accessibility.switchaccess because this is a regular app update
+10-02 01:38:16.121  1189  1247 D InstallSessionTracker: onFinished: active install session finished for appPackageName=com.google.android.accessibility.switchaccess, sessionId=1888245024, success=true
+10-02 01:38:16.124  1025  1025 D ControlsListingControllerImpl: ServiceConfig reloaded, count: 0
+10-02 01:38:16.124  3144  3144 I SafetyLabelChangedBroadcastReceiver: writeSafetyLabel called for packageName: com.google.android.accessibility.switchaccess, currentUser: UserHandle{0}
+10-02 01:38:16.132  1914  1914 I Finsky  : [2] DTU: Received onPackageAdded, replacing: true
+10-02 01:38:16.133   772   849 E AtomicFile: Failed to rename /data/system/install_sessions.xml.new to /data/system/install_sessions.xml
+10-02 01:38:16.135  1025  1177 I PluginActionManager[com.android.systemui.action.FALSING_PLUGIN]: Found 0 plugins
+10-02 01:38:16.137  1025  1025 D ControlsListingControllerImpl: ServiceConfig reloaded, count: 0
+10-02 01:38:16.138  1603 10883 I AiAiEcho: AppIndexer Package:[com.google.android.accessibility.switchaccess] UserProfile:[0] Enabled:[true].
+10-02 01:38:16.139  1603 10883 I AiAiEcho: AppFetcherImplV2 updateApps package:[com.google.android.accessibility.switchaccess], userId:[0], reason:[package is updated.].
+10-02 01:38:16.140  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_SENSOR_MANAGER]: Found 0 plugins
+10-02 01:38:16.142  1914  2257 I Finsky  : [57] AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = USE_CACHE
+10-02 01:38:16.154  3144  3144 I SafetyLabelChangedBroadcastReceiver: appMetadataBundle PersistableBundle[{}]
+10-02 01:38:16.155  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_AUTH_CONTEXT]: Found 0 plugins
+10-02 01:38:16.155  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_VOLUME]: Found 0 plugins
+10-02 01:38:16.158  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_TOAST]: Found 0 plugins
+10-02 01:38:16.165  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_GLOBAL_ACTIONS]: Found 0 plugins
+10-02 01:38:16.170  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_QS]: Found 0 plugins
+10-02 01:38:16.172  1914  1914 I Finsky  : [2] amzt - Received: android.intent.action.PACKAGE_ADDED, [wsMTCyfz6mHaeahMgbOlhCHGY5iFoQmDWWxU5iMFWnw]
+10-02 01:38:16.173  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_NOTIFICATION_ASSISTANT]: Found 0 plugins
+10-02 01:38:16.174  1914 10878 I Finsky  : [449] Asset module broadcast after update successful for package com.google.android.accessibility.switchaccess.
+10-02 01:38:16.175  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_OVERLAY]: Found 0 plugins
+10-02 01:38:16.176  1025  1177 I PluginActionManager[com.android.systemui.action.FALSING_PLUGIN]: Found 0 plugins
+10-02 01:38:16.177  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_SENSOR_MANAGER]: Found 0 plugins
+10-02 01:38:16.179  2733  2733 I Finsky:background: [2] amzi - Deduping intent android.intent.action.PACKAGE_ADDED
+10-02 01:38:16.181  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_AUTH_CONTEXT]: Found 0 plugins
+10-02 01:38:16.181  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_VOLUME]: Found 0 plugins
+10-02 01:38:16.182  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_TOAST]: Found 0 plugins
+10-02 01:38:16.183  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_GLOBAL_ACTIONS]: Found 0 plugins
+10-02 01:38:16.183  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_QS]: Found 0 plugins
+10-02 01:38:16.184  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_NOTIFICATION_ASSISTANT]: Found 0 plugins
+10-02 01:38:16.185  1025  1177 I PluginActionManager[com.android.systemui.action.PLUGIN_OVERLAY]: Found 0 plugins
+10-02 01:38:16.185  2733  2904 I Finsky:background: [50] RECEIVER_PACKAGE_MONITOR_BACKGROUND#logWorkEndAndFinishGoAsync: SUCCESS
+10-02 01:38:16.189  1914 10877 I Finsky  : [448] SCH: Received scheduling request: Id: 12-1, Constraints: [{ L: 15000, D: 86400000, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+10-02 01:38:16.191   772   874 I RoleService: Granting default roles...
+10-02 01:38:16.191  1914  1914 I Finsky  : [2] amzt - Deduping intent android.intent.action.PACKAGE_ADDED
+10-02 01:38:16.192  1914  1914 I Finsky  : [2] amzt - Received: android.intent.action.PACKAGE_ADDED, [wsMTCyfz6mHaeahMgbOlhCHGY5iFoQmDWWxU5iMFWnw]
+10-02 01:38:16.193  1914  2257 I Finsky  : [57] AIM: ItemModel fetch - unauth(1), auth()
+10-02 01:38:16.200  1178  1178 D CarrierSvcBindHelper: onPackageUpdateFinished: com.google.android.accessibility.switchaccess
+10-02 01:38:16.201  1914  2218 I Finsky  : [54] AIM: AppInfoManager-Perf > OnDeviceAppInfo > cacheHitCount=0, cacheMissCount=1. Missed  in cache (limit 10) : [com.google.android.accessibility.switchaccess]
+10-02 01:38:16.206  1914  2216 I Finsky  : [53] AIM: Got app ownership map. App counts: . Unique apps: 0
+10-02 01:38:16.206  1914  2216 E Finsky  : [53] [Counters] attempted to use a non-positive increment for: 4752
+10-02 01:38:16.207  1914  2216 E Finsky  : [53] [Counters] attempted to use a non-positive increment for: 4753
+10-02 01:38:16.207   772   772 D AppSearchAppsIndexerManagerS: userid in package receiver: 10177
+10-02 01:38:16.209  2733 10876 I Finsky:background: [410] Wrote row to frosting DB: 754
+10-02 01:38:16.214  1178  1178 D CarrierSvcBindHelper: No carrier app for: 0
+10-02 01:38:16.216  1178  1178 D CarrierSvcBindHelper: onPackageModified: com.google.android.accessibility.switchaccess
+10-02 01:38:16.216  1178  1178 D CarrierSvcBindHelper: No carrier app for: 0
+10-02 01:38:16.217   608   621 D NativePermissionController: updatePackagesForUid, UidPackageState{uid: 10177, packageStates: [PackageState{packageName: com.google.android.accessibility.switchaccess, targetSdk: 37, isPlaybackCaptureAllowed: true}]}
+10-02 01:38:16.220  3144  7789 I PermissionControllerServiceImpl: Updating user sensitive for uid 10177
+10-02 01:38:16.224  2733 10876 I Finsky:background: [410] Wrote row to frosting DB: 755
+10-02 01:38:16.224  1914  1914 I Finsky  : [2] amzt - Deduping intent android.intent.action.PACKAGE_ADDED
+10-02 01:38:16.224  1914  2113 I Finsky  : [44] RECEIVER_PACKAGE_MONITOR#logWorkEndAndFinishGoAsync: SUCCESS
+10-02 01:38:16.260  2733 10876 I Finsky:background: [410] Wrote row to frosting DB: 756
+10-02 01:38:16.266   772   772 D AppSearchAppsIndexerManagerS: userid in package receiver: 10177
+10-02 01:38:16.284  1914  2216 I Finsky  : [53] ItemStore: Missing some fields: com.google.android.accessibility.switchaccess, 6
+10-02 01:38:16.286  2733 10876 I Finsky:background: [410] Wrote row to frosting DB: 757
+10-02 01:38:16.292  2733  2903 I Finsky:background: [49] IV2::TD: Submit done. com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] [tid: 1000000027]
+10-02 01:38:16.299   772  3137 W SignedPackage: Package doesn't have required signing certificate: com.google.android.retaildemo
+10-02 01:38:16.300   772  3137 E RoleControllerServiceImpl: Default/fallback role holder package doesn't qualify for the role, package: com.google.android.gms.supervision, role: android.app.role.SYSTEM_SUPERVISION, user: 0
+10-02 01:38:16.304  1914  2216 I Finsky  : [53] AIM: AppInfoManager-Perf > ItemModel > CacheSize=0, cacheHitCount=0, cacheMissCount=1, total appsWithNoServerDataCount=0. Missed  in cache (limit 10) : [com.google.android.accessibility.switchaccess]
+10-02 01:38:16.304  1914  2216 I Finsky  : [53] AIM: AppInfoManager-Perf > ItemModel > ItemStore Called 1 apps cacheOptions = USE_CACHE
+10-02 01:38:16.305  1914  2216 I Finsky  : [53] AIM: ItemModel fetch - unauth(1), auth()
+10-02 01:38:16.308  1914  2218 I Finsky  : [54] ItemStore: Missing some fields: com.google.android.accessibility.switchaccess, 6
+10-02 01:38:16.310  1914  1914 E Finsky  : [2] bvjl failed GRPC call!
+10-02 01:38:16.310  1914  1914 E Finsky  : java.lang.UnsupportedOperationException: Unauth not supported in gRPC BrowseService.
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at adny.c(PG:201)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at adnw.b(PG:309)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at adnw.a(PG:54)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at cihs.U(PG:15)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at chcd.g(PG:29)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at chcd.h(PG:12)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at adnx.b(PG:37)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at adnx.kJ(PG:23)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at tyi.b(PG:25)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at ciaq.x(PG:5)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at ciib.run(PG:109)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at ule.run(PG:414)
+10-02 01:38:16.310  1914  1914 E Finsky  : 	at java.lang.Thread.run(Thread.java:1563)
+10-02 01:38:16.328   772   772 D PermissionMonitor: setLocalNetworkPermissions in onPermissionsChanged took 16 microseconds.
+10-02 01:38:16.333  2733 10876 I Finsky:background: [410] Wrote row to frosting DB: 758
+10-02 01:38:16.335   772  3137 I Role    : com.google.android.gms not qualified for android.app.role.SYSTEM_CALL_STREAMING due to missing RequiredComponent{mIntentFilterData=IntentFilterData{mAction='android.telecom.CallStreamingService', mCategories='[]', mDataScheme='null', mDataType='null'}, mMinTargetSdkVersion=1, mFlags='0', mPermission='android.permission.BIND_CALL_STREAMING_SERVICE', mQueryFlags=0, mMetaData=[]}
+10-02 01:38:16.335   772  3137 E RoleControllerServiceImpl: Default/fallback role holder package doesn't qualify for the role, package: com.google.android.gms, role: android.app.role.SYSTEM_CALL_STREAMING, user: 0
+10-02 01:38:16.338  1914  2216 E Finsky  : [53] ItemStore: getItems RPC failed for item com.google.android.accessibility.switchaccess
+10-02 01:38:16.338  1914  2216 E Finsky  : [53] ItemStore: getItems RPC failed for item com.google.android.accessibility.switchaccess
+10-02 01:38:16.344   772  3137 W SignedPackage: Package doesn't have required signing certificate: com.google.android.apps.work.clouddpc
+10-02 01:38:16.345  1178  1380 D ImsResolver: maybeAddedImsService, packageName: com.google.android.accessibility.switchaccess
+10-02 01:38:16.347   772   772 D PermissionMonitor: setLocalNetworkPermissions in onPermissionsChanged took 11 microseconds.
+10-02 01:38:16.356  1178  1380 V ImsResolver: searchForImsServices: package=com.google.android.accessibility.switchaccess, users=[UserHandle{0}]
+10-02 01:38:16.357  1178  1380 V ImsResolver: searchForImsServices: package=com.google.android.accessibility.switchaccess, users=[UserHandle{0}]
+10-02 01:38:16.358   772   772 D PermissionMonitor: setLocalNetworkPermissions in onPermissionsChanged took 6 microseconds.
+10-02 01:38:16.360   772   772 D PermissionMonitor: setLocalNetworkPermissions in onPermissionsChanged took 3 microseconds.
+10-02 01:38:16.362   772   772 D PermissionMonitor: setLocalNetworkPermissions in onPermissionsChanged took 5 microseconds.
+10-02 01:38:16.365  1914  2134 I Finsky  : [48] WM::SCH: Logging work initialize for 12-1
+10-02 01:38:16.373  1178  1178 W VvmPkgInstalledRcvr: carrierVvmPkgAdded: carrier vvm packages doesn't contain com.google.android.accessibility.switchaccess
+10-02 01:38:16.375  1914  2134 I Finsky  : [48] WM::SCH: Logging work initialize for 12-1
+10-02 01:38:16.379  2733 10876 I Finsky:background: [410] Wrote row to frosting DB: 759
+10-02 01:38:16.385  2733  2908 I Finsky:background: [52] IV2: task success. tid:1000000027 statusCode:0
+10-02 01:38:16.389  1178  1178 D SatelliteController: packageStateChanged: package:com.google.android.accessibility.switchaccess defaultSmsPackageName: com.google.android.apps.messaging satelliteGatewayServicePackageName:
+10-02 01:38:16.391  2733  2905 I Finsky:background: [51] IV2::TM: cleaning up tid: 1000000027
+10-02 01:38:16.391  2733  2905 I Finsky:background: [51] IV2:TM: cleaning up task. com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ] [tid: 1000000027]
+10-02 01:38:16.399  2733  2899 I Finsky:background: [48] RM: remove resources for request
+10-02 01:38:16.399  2733  2899 I Finsky:background: [48] RM: remove resources for request
+10-02 01:38:16.399  2733  2899 I Finsky:background: [48] RM: remove resources for request
+10-02 01:38:16.405  2733  2918 E Finsky:background: [56] RM: no data for ID, not removing
+10-02 01:38:16.405   772  3137 I Role    : com.google.android.gms not qualified for android.app.role.SYSTEM_DEPENDENCY_INSTALLER due to missing RequiredComponent{mIntentFilterData=IntentFilterData{mAction='android.content.pm.action.INSTALL_DEPENDENCY', mCategories='[]', mDataScheme='null', mDataType='null'}, mMinTargetSdkVersion=1, mFlags='0', mPermission='android.permission.BIND_DEPENDENCY_INSTALLER', mQueryFlags=0, mMetaData=[]}
+10-02 01:38:16.405   772  3137 E RoleControllerServiceImpl: Default/fallback role holder package doesn't qualify for the role, package: com.google.android.gms, role: android.app.role.SYSTEM_DEPENDENCY_INSTALLER, user: 0
+10-02 01:38:16.406  2733  2917 E Finsky:background: [55] RM: no data for ID, not removing
+10-02 01:38:16.406  2733  2917 E Finsky:background: [55] RM: no data for ID, not removing
+10-02 01:38:16.408  1914  2218 I Finsky  : [54] SCH: Scheduling phonesky job Id: 12-1, CT: 1790905096058, Constraints: [{ L: 15000, D: 86400000, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+10-02 01:38:16.416  2733 10876 I Finsky:background: [410] Wrote row to frosting DB: 760
+10-02 01:38:16.423   772   791 V SafetySourceDataValidat: Package: com.android.vending has expected signature
+10-02 01:38:16.423   772   791 V SafetySourceDataValidat: Package: com.android.vending has expected signature
+10-02 01:38:16.431  2733 10876 I Finsky:background: [410] Wrote row to frosting DB: 761
+10-02 01:38:16.442  1914  2219 I Finsky  : [55] SCH: Scheduling 1 system job(s)
+10-02 01:38:16.457  1914  2219 I Finsky  : [55] SCH: Scheduling system job Id: 9708, L: 14616, D: 71352992, C: false, I: false, N: 1
+10-02 01:38:16.459  1577  1577 W MediaProvider: WorkProfileOwnerApps cache is empty
+10-02 01:38:16.467  1577  1577 D PickerSyncLockManager: Trying to acquire lock com.android.providers.media.photopicker.sync.CloseableReentrantLock@95d042b[Unlocked]. Lock Name = CLOUD_PROVIDER_LOCK. Threads that may be waiting to acquire this lock = []
+10-02 01:38:16.475  1577  1577 D CloseableReentrantLock: Successfully acquired lock com.android.providers.media.photopicker.sync.CloseableReentrantLock@95d042b[Locked by thread main]. Lock Name = CLOUD_PROVIDER_LOCK. Threads that may be waiting to acquire this lock = []
+10-02 01:38:16.485  2733  2908 I Finsky:background: [52] IV2: Finishing successful install for installId: 27
+10-02 01:38:16.489  1577  1577 D CloseableReentrantLock: Successfully released lock com.android.providers.media.photopicker.sync.CloseableReentrantLock@95d042b[Unlocked]. Lock Name = CLOUD_PROVIDER_LOCK. Threads that may be waiting to acquire this lock = []
+10-02 01:38:16.490  1914  2132 I Finsky  : [46] [ContentSync] finished, scheduled=true
+10-02 01:38:16.500  2733 10599 I Finsky:background: [386] Session is stale, session is not alive: getNames not allowed after destruction
+10-02 01:38:16.500  2733 10599 I Finsky:background: [386] SM: Session with Context {name=com.google.android.accessibility.switchaccess versionCode=827} was closed or abandoned in a consumer.
+10-02 01:38:16.502  1914  2219 I Finsky  : [55] SCH: Scheduling phonesky job Id: 12-1, CT: 1790905096189, Constraints: [{ L: 15000, D: 86400000, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+10-02 01:38:16.509  1914  2257 I Finsky  : [57] SCH: Scheduling 0 system job(s)
+10-02 01:38:16.513  1914  2257 I Finsky  : [57] [ContentSync] finished, scheduled=true
+10-02 01:38:16.527  1189  1247 I PluginActionManager[com.android.systemui.action.ICON_WRAPPER_PLUGIN]: Found 0 plugins
+10-02 01:38:16.532  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_CUSTOM_WIDGET]: Found 0 plugins
+10-02 01:38:16.533  2733  2908 I Finsky:background: [52] SCU: Successfully abandon the session for com.google.android.accessibility.switchaccess[iid:27] [isid:SaT0cqzoSImmTjwhIVaBYQ]
+10-02 01:38:16.533  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_NETWORK_FETCHER_ACTIONS]: Found 0 plugins
+10-02 01:38:16.533  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_BC_SMARTSPACE_DATA]: Found 0 plugins
+10-02 01:38:16.534  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_ALL_APPS_ACTIONS]: Found 0 plugins
+10-02 01:38:16.534  1189  2200 D WellbeingModel: Changes in apps: intent = [Intent { act=android.intent.action.PACKAGE_REMOVED dat=package: flg=0x4000010 (has extras) }]
+10-02 01:38:16.535  1189  2200 D WellbeingModel: Changes in apps: intent = [Intent { act=android.intent.action.PACKAGE_ADDED dat=package: flg=0x4000010 (has extras) }]
+10-02 01:38:16.535  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_LAUNCHER_OVERLAY]: Found 0 plugins
+10-02 01:38:16.535  1189  2200 I WellbeingModel: updateActionsWithRetry(); retryCount: 0, package: com.google.android.accessibility.switchaccess
+10-02 01:38:16.535  1189  2200 D WellbeingModel: retrieveActions() called with: packageNames = [com.google.android.accessibility.switchaccess]
+10-02 01:38:16.535  1189  1247 I PluginActionManager[com.android.launcher3.action.PLUGIN_DYNAMIC_RESOURCE]: Found 0 plugins
+10-02 01:38:16.535  1189  1247 I PluginActionManager[com.android.systemui.action.ICON_WRAPPER_PLUGIN]: Found 0 plugins
+10-02 01:38:16.535  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_CUSTOM_WIDGET]: Found 0 plugins
+10-02 01:38:16.536  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_NETWORK_FETCHER_ACTIONS]: Found 0 plugins
+10-02 01:38:16.536  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_BC_SMARTSPACE_DATA]: Found 0 plugins
+10-02 01:38:16.537  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_ALL_APPS_ACTIONS]: Found 0 plugins
+10-02 01:38:16.537  1189  1247 I PluginActionManager[com.android.systemui.action.PLUGIN_LAUNCHER_OVERLAY]: Found 0 plugins
+10-02 01:38:16.538  1189  1247 I PluginActionManager[com.android.launcher3.action.PLUGIN_DYNAMIC_RESOURCE]: Found 0 plugins
+10-02 01:38:16.545  2733  2908 I Finsky:background: [52] IV2: stopping install timeout for 27
+10-02 01:38:16.549  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.accessibility.switchaccess, isid:SaT0cqzoSImmTjwhIVaBYQ] state:INSTALLED, status=INSTALLED, status_code=0, reason=auto_update, tsc=PT1H19M45.394S, attempt=0
+10-02 01:38:16.568  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.accessibility.switchaccess, isid: SaT0cqzoSImmTjwhIVaBYQ
+10-02 01:38:16.571  2733  2899 I Finsky:background: [48] RM::CM: Clearing artifacts for install of com.google.android.accessibility.switchaccess
+10-02 01:38:16.573  2733  2899 W Finsky:background: [48] Failed to delete file: /data/user/0/com.android.vending/files/phonesky-resource-cache/com.google.android.accessibility.switchaccess:827
+10-02 01:38:16.586  2733  2905 I Finsky:background: [51] IQ: start evaluating install requests.
+10-02 01:38:16.604   772   772 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.606   772   772 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.607   772   772 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.610   772   786 I system_server: Background concurrent mark compact GC freed 15MB AllocSpace bytes, 20(420KB) LOS objects, 39% free, 37MB/61MB, paused 8.677ms,7.687ms total 661.712ms
+10-02 01:38:16.624  2733  2905 I Finsky:background: [51] IQ: There are 2 installs pending for job 92: [com.google.android.calendar, com.google.android.inputmethod.latin]
+10-02 01:38:16.629  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.accessibility.switchaccess
+10-02 01:38:16.646  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOAD_PENDING]
+10-02 01:38:16.656  2733  2905 I Finsky:background: [51] IQ: 2 scheduled install statuses found to proceed.
+10-02 01:38:16.667   772   772 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.667   772   772 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.669   772   772 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:38:16.687  1365 10975 I Fitness : (REDACTED) FitCleanupIntentOperation received Intent %s
+10-02 01:38:16.722  2733  2908 I Finsky:background: [52] IV2: installer unavailable to accept com.google.android.inputmethod.latin. Current active installs :
+10-02 01:38:16.722  2733  2908 I Finsky:background: com.google.android.gm: installId: 28 isid: QZpq4CKjTUOcBSDN04J74A requested 0 min ago
+10-02 01:38:16.726  2733  2908 W Finsky:background: [52] IV2: cannot process install request now for [Package:com.google.android.inputmethod.latin, isid:h7PbM40MRVaFM_XabLXi8g] with status code 1136
+10-02 01:38:16.747  1365 10975 I ProximityAuth: [RecentAppsMediator] Package added: (user=UserHandle{0}) com.google.android.accessibility.switchaccess
+10-02 01:38:16.773  1526 10983 I AppBackupStateCleanupIO: Backup state cleanup on uninstall is disabled. [CONTEXT service_id=229 ]
+10-02 01:38:16.808  1365  1365 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.auth.aang.events.services.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.PersistentApiService }
+10-02 01:38:16.825   772  3137 E RoleControllerServiceImpl: Default/fallback role holder package doesn't qualify for the role, package: com.google.android.gms, role: android.app.role.WALLET, user: 0
+10-02 01:38:16.843  1603  1670 I ogle.android.as: Waiting for a blocking GC ProfileSaver
+10-02 01:38:16.855  1526 10983 I FraudProtectUtils: Not in testing population, skipping local test bank apps. [CONTEXT service_id=469 ]
+10-02 01:38:16.859  1526 10983 I FraudProtectUtils: (REDACTED) Latest bank app list size: %d, %s isBankApp: false
+10-02 01:38:16.859  1526 10983 I PackageInstallIntentOp: (REDACTED) Package %s is not a bank app. Skipping updates.
+10-02 01:38:16.876  1365 10974 I HeterodyneSyncScheduler: (REDACTED) Scheduling Phenotype for a %s(%d, %s) one off with window [%d, %d] in seconds
+10-02 01:38:16.917   772  3137 W SignedPackage: Cannot get ApplicationInfo for package: com.google.android.devicelockcontroller
+10-02 01:38:16.921  1603  1670 I ogle.android.as: WaitForGcToComplete blocked ProfileSaver on Background for 78.373ms
+10-02 01:38:16.970  1365  1365 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.appevents.api.AppImportanceApiService.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.PersistentApiService }
+10-02 01:38:16.983  1526 10983 I Auth    : (REDACTED) [SupervisedAccountIntentOperation] onHandleIntent: %s
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: Failed to get service from broker.
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: java.lang.SecurityException: com.android.vending is not allowed to access service# 468 with visibility ZERO_PARTY
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3373)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.Parcel.createException(Parcel.java:3357)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3340)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3282)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at bjhr.t(PG:207)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at rig.run(PG:402)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:1070)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:125)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at bkdz.b(PG:1)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at bkdz.dispatchMessage(PG:1)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.Looper.dispatchMessage(Looper.java:333)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:263)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:367)
+10-02 01:38:16.984  1914  2278 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:139)
+10-02 01:38:16.986  1914  2278 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null, errorResolutionInfo=null}
+10-02 01:38:16.987  1526 10983 I FraudProtectUtils: Not in testing population, skipping local test bank apps. [CONTEXT service_id=469 ]
+10-02 01:38:16.987  1526 10983 I FraudProtectUtils: (REDACTED) Latest bank app list size: %d, %s isBankApp: false
+10-02 01:38:16.987  1526 10983 I PackageInstallIntentOp: (REDACTED) Package %s is not a bank app. Skipping updates.
+10-02 01:38:16.987  1526 10982 W AppInstallOperation: FDL Migration::InstallIntentOperation by FDL Module [CONTEXT service_id=77 ]
+10-02 01:38:16.988  1914  1914 E Finsky  : [2] GUIL: Failed to register apps
+10-02 01:38:16.988  1914  1914 E Finsky  : com.google.android.gms.common.api.ApiException: 17: API: AppImportance.API is not available on this device. Connection failed with: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null, errorResolutionInfo=null}
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at bivc.y(PG:15)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at bjea.f(PG:3)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at bjfw.t(PG:48)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at bjfw.f(PG:10)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at bjfw.i(PG:164)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at rig.run(PG:437)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at android.os.Handler.handleCallback(Handler.java:1070)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at android.os.Handler.dispatchMessage(Handler.java:125)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at bkdz.b(PG:1)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at bkdz.dispatchMessage(PG:1)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at android.os.Looper.dispatchMessage(Looper.java:333)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at android.os.Looper.loopOnce(Looper.java:263)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at android.os.Looper.loop(Looper.java:367)
+10-02 01:38:16.988  1914  1914 E Finsky  : 	at android.os.HandlerThread.run(HandlerThread.java:139)
+10-02 01:38:16.999  1526 10983 I NearbyDiscovery: (REDACTED) processGrantSlicePermission: %s
+10-02 01:38:17.021  1526 10990 W SQLiteLog: (28) double-quoted string literal: "com.google.android.accessibility.switchaccess"
+10-02 01:38:17.207  2733  2921 I Finsky:background: [58] AV::PV: Cannot patch com.google.android.gm:65299372 (aid: com.google.android.gm.apk , tid: 1000000028)
+10-02 01:38:17.210  2733  2921 W Finsky:background: [58] AV::PV: Can't download patch for package com.google.android.gm, artifact config.en, because didn't receive one in delivery response.
+10-02 01:38:17.214  2733  2921 W Finsky:background: [58] AV::PV: Can't download patch for package com.google.android.gm, artifact config.x86_64, because didn't receive one in delivery response.
+10-02 01:38:17.217  2733  2921 W Finsky:background: [58] AV::PV: Can't download patch for package com.google.android.gm, artifact config.xxhdpi, because didn't receive one in delivery response.
+10-02 01:38:17.219  2733  2908 I Finsky:background: [52] IV2::AdvHelper: Triggering verification metadata sync gRPC for session 2050471306, package com.google.android.gm (isWebApk=false, isPrivateApp=false)
+10-02 01:38:17.229  2733  2908 W Finsky:background: [52] IV2::AdvHelper: Failed to sync verification metadata for session 2050471306, package com.google.android.gm: io.grpc.StatusRuntimeException: UNIMPLEMENTED: bindService(Intent { act=com.google.android.verifier.BIND_VERIFIER_PUBLIC_API xflg=0x4 pkg=com.google.android.verifier }) returned false
+10-02 01:38:17.230  2733  2908 I Finsky:background: [52] IV2::TD: Resource fetch start. com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028]
+10-02 01:38:17.231  2733  2899 I Finsky:background: [48] RF: No TaskData found for a new request.
+10-02 01:38:17.232  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] status:RESOURCE_FETCH_START, size: 0/0
+10-02 01:38:17.237  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H19M46.017S, attempt=0
+10-02 01:38:17.243  2733  2921 I Finsky:background: [58] RF: RowId of the upserted row is 1000000028.
+10-02 01:38:17.249  2733  2921 I Finsky:background: [58] RF: Start fetching and post processing all artifacts with real time bandwidth check.
+10-02 01:38:17.257  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.gm, isid: QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.260  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.gm
+10-02 01:38:17.267  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING]
+10-02 01:38:17.268  2733  2903 I Finsky:background: [49] RM: create resource request id 7f918000-9537-4f63-958b-bfc67da8ba74 for request pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.287  2733  2905 I Finsky:background: [51] RM: create resource request id a978baa5-bc26-476e-93d3-ff5d93d3afaf for request pkg_id=com.google.android.gm artifact_id=config.x86_64 reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.300  2733  2899 I Finsky:background: [48] RM: create resource request id bab213b6-9560-4dab-a474-dd723a57af3d for request pkg_id=com.google.android.gm artifact_id=config.xxhdpi reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.321  2733  2905 I Finsky:background: [51] RM: create resource request id e0b4f8ac-31da-4597-a3d4-0059d66701a3 for request pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.321  1189  2200 D WellbeingModel: ....actionId: pause, packages: com.google.android.accessibility.switchaccess
+10-02 01:38:17.322  1189  2200 I WellbeingModel: retrieveActions(): finished
+10-02 01:38:17.333  2733  2899 I Finsky:background: [48] RM: create resource request id 64fc6b36-9926-4f64-9509-687a788cf1fa for request pkg_id=com.google.android.gm artifact_id=config.en reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.376  2733  2918 I Finsky:background: [56] DSC: enqueue()
+10-02 01:38:17.388  2733  2917 I Finsky:background: [55] DSC: enqueue()
+10-02 01:38:17.407  2733 10579 I Finsky:background: [374] DS: request_id=147 generated with shared preferences
+10-02 01:38:17.408  2733 10579 I Finsky:background: [374] DS: enqueue(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY
+10-02 01:38:17.408  2733 10579 I Finsky:background: [374] DS: request_id=148 generated with shared preferences
+10-02 01:38:17.408  2733 10579 I Finsky:background: [374] DS: enqueue(request_id=148, files_to_download=[config.x86_64(size:13058118)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY
+10-02 01:38:17.449  2733  2904 I Finsky:background: [50] DSC: enqueue()
+10-02 01:38:17.455  2733  2917 I Finsky:background: [55] DSC: enqueue()
+10-02 01:38:17.455  2733 10579 I Finsky:background: [374] DS: request_id=149 generated with shared preferences
+10-02 01:38:17.455  2733 10579 I Finsky:background: [374] DS: enqueue(request_id=149, files_to_download=[config.xxhdpi(size:1632006)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY
+10-02 01:38:17.460  2733 10579 I Finsky:background: [374] DS: request_id=150 generated with shared preferences
+10-02 01:38:17.460  2733 10579 I Finsky:background: [374] DS: enqueue(request_id=150, files_to_download=[com.google.android.gm.apk(size:30772447)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY
+10-02 01:38:17.465  2733 10579 I Finsky:background: [374] DS: enqueue with parallel downloads (request_id=147,groupId=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A)
+10-02 01:38:17.467  2733 10579 I Finsky:background: [374] DS::CD: download(147)
+10-02 01:38:17.468  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <147:QUEUED with WAITING_FOR_START:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.468  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.468  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.469  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.469  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <147:QUEUED with WAITING_FOR_START:0%[0%]>
+10-02 01:38:17.469  2733 10579 I Finsky:background: [374] DS::ISM: Starting invisible download job
+10-02 01:38:17.471  2733 10822 I Finsky:background: [398] SCH: Received scheduling request: Id: 40-9998, Constraints: [{ L: 0, D: 86400000, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }]
+10-02 01:38:17.473  2733  2918 I Finsky:background: [56] RM: new request resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.475  2733 10579 I Finsky:background: [374] DS: enqueue with parallel downloads (request_id=148,groupId=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A)
+10-02 01:38:17.477  2733 10579 I Finsky:background: [374] DS::CD: download(148)
+10-02 01:38:17.477  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <148:QUEUED with WAITING_FOR_START:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.477  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.477  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.477  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.477  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <148:QUEUED with WAITING_FOR_START:0%[0%]>
+10-02 01:38:17.477  2733  2918 I Finsky:background: [56] DSC: enqueue()
+10-02 01:38:17.484  2733  2917 I Finsky:background: [55] RM: new request resource_request=a978baa5-bc26-476e-93d3-ff5d93d3afaf request_id=148 pkg_id=com.google.android.gm artifact_id=config.x86_64 isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.487  2733 10579 I Finsky:background: [374] DS: request_id=151 generated with shared preferences
+10-02 01:38:17.488  2733 10579 I Finsky:background: [374] DS: enqueue(request_id=151, files_to_download=[config.en(size:679759)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY
+10-02 01:38:17.500  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <147:RUNNING:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.500  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.500  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.500  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.500  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=147
+10-02 01:38:17.501  2733 10579 I Finsky:background: [374] RM: receive resource status onStart download_request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/659614
+10-02 01:38:17.501  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/659614
+10-02 01:38:17.501  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <147:RUNNING:0%[0%]>
+10-02 01:38:17.503  2733 10579 I Finsky:background: [374] DS::CD: Using Cronet.
+10-02 01:38:17.508  2733 10579 I Finsky:background: [374] DS: Current runningDownloadsCount: 0, queuedCount: 1
+10-02 01:38:17.516  2733 10579 I Finsky:background: [374] DS: Incremented runningDownloadsCount to: 1
+10-02 01:38:17.517  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.517  2733  2918 I Finsky:background: [56] DSC: reviveDownload(147)
+10-02 01:38:17.517  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=147)
+10-02 01:38:17.519  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <148:RUNNING:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.519  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.519  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.519  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.519  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=148
+10-02 01:38:17.520  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.520  2733  2917 I Finsky:background: [55] DSC: reviveDownload(147)
+10-02 01:38:17.520  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.520  2733  2917 I Finsky:background: [55] DSC: reviveDownload(147)
+10-02 01:38:17.520  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=a978baa5-bc26-476e-93d3-ff5d93d3afaf request_id=148 pkg_id=com.google.android.gm artifact_id=config.x86_64 isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.520  2733  2917 I Finsky:background: [55] DSC: reviveDownload(148)
+10-02 01:38:17.520  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=147)
+10-02 01:38:17.520  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=147)
+10-02 01:38:17.520  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=148)
+10-02 01:38:17.520  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=148, pkg_id=com.google.android.gm artifact_id=config.x86_64 reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/13058118
+10-02 01:38:17.522  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <148:RUNNING:0%[0%]>
+10-02 01:38:17.522  2733 10579 I Finsky:background: [374] DS::CD: Using Cronet.
+10-02 01:38:17.524  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=a978baa5-bc26-476e-93d3-ff5d93d3afaf request_id=148 pkg_id=com.google.android.gm artifact_id=config.x86_64 isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.524  2733  2917 I Finsky:background: [55] DSC: reviveDownload(148)
+10-02 01:38:17.525  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=148)
+10-02 01:38:17.536  2733 10579 I Finsky:background: [374] DS: Current runningDownloadsCount: 1, queuedCount: 1
+10-02 01:38:17.536  2733 10579 I Finsky:background: [374] DS: Incremented runningDownloadsCount to: 2
+10-02 01:38:17.537  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=659614, retry[count=0, next_retry=n/a])
+10-02 01:38:17.542  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=659614, retry[count=0, next_retry=n/a])
+10-02 01:38:17.543  2733  2871 I Finsky:background: [45] WM::SCH: Logging work initialize for 40-9998
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=659614, retry[count=0, next_retry=n/a])
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=148, files_to_download=[config.x86_64(size:13058118)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=13058118, retry[count=0, next_retry=n/a])
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DS: enqueue with parallel downloads (request_id=149,groupId=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A)
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DS::CD: download(149)
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=148, files_to_download=[config.x86_64(size:13058118)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=13058118, retry[count=0, next_retry=n/a])
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <149:QUEUED with WAITING_FOR_START:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.544  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <149:QUEUED with WAITING_FOR_START:0%[0%]>
+10-02 01:38:17.545  2733  2733 I Finsky:background: [2] RF: onStart request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/659614 pkg_bytes=0/46801944
+10-02 01:38:17.549  2733  2733 I Finsky:background: [2] Updated time lastBroadcast=2026-10-02T01:38:15.232Z current=2026-10-02T01:38:17.549Z
+10-02 01:38:17.549  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 0 / 46801944 / 0.000000
+10-02 01:38:17.550  2733  2904 I Finsky:background: [50] RM: new request resource_request=bab213b6-9560-4dab-a474-dd723a57af3d request_id=149 pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.550  2733  2733 I Finsky:background: [2] RF: onProgress request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/659614 pkg_bytes=0/46801944
+10-02 01:38:17.551  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:17.552  2733  2733 I Finsky:background: [2] RF: onProgress request_id=148, pkg_id=com.google.android.gm artifact_id=config.x86_64 isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/13058118 pkg_bytes=0/46801944
+10-02 01:38:17.556  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:17.557  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] status:RESOURCE_FETCH_PROGRESS, size: 0/46801944
+10-02 01:38:17.560  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H19M46.34S, attempt=0
+10-02 01:38:17.568  2733 10579 I Finsky:background: [374] DS: enqueue with parallel downloads (request_id=150,groupId=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A)
+10-02 01:38:17.568  2733 10579 I Finsky:background: [374] DS::CD: download(150)
+10-02 01:38:17.569  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <150:QUEUED with WAITING_FOR_START:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.569  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.569  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.569  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.569  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <150:QUEUED with WAITING_FOR_START:0%[0%]>
+10-02 01:38:17.569  2733  2905 I Finsky:background: [51] SCH: Scheduling phonesky job Id: 40-9998, CT: 1790905097471, Constraints: [{ L: 0, D: 86400000, C: CHARGING_NONE, I: IDLE_NONE, N: NET_ANY, B: BATTERY_ANY }, { L: 0, D: 0, C: CHARGING_NONE, I: IDLE_NONE, N: NET_NONE, B: BATTERY_ANY }]
+10-02 01:38:17.576  2733  2905 I Finsky:background: [51] SCH: Scheduling system job 10960 to resume after 0 ms
+10-02 01:38:17.580  2733  2921 I Finsky:background: [58] SCH: Resuming system job 10960 from hub.
+10-02 01:38:17.585  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.gm, isid: QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.587  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=bab213b6-9560-4dab-a474-dd723a57af3d request_id=149 pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.587  2733  2917 I Finsky:background: [55] RM: new request resource_request=e0b4f8ac-31da-4597-a3d4-0059d66701a3 request_id=150 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.587  2733  2904 I Finsky:background: [50] DSC: reviveDownload(149)
+10-02 01:38:17.587  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <149:RUNNING:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.587  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.587  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.587  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.587  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=149
+10-02 01:38:17.587  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/1632006
+10-02 01:38:17.587  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <149:RUNNING:0%[0%]>
+10-02 01:38:17.588  2733 10579 I Finsky:background: [374] DS::CD: Using Cronet.
+10-02 01:38:17.588  2733 10579 I Finsky:background: [374] DS: Current runningDownloadsCount: 2, queuedCount: 1
+10-02 01:38:17.588  2733 10579 I Finsky:background: [374] DS: Incremented runningDownloadsCount to: 3
+10-02 01:38:17.589  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=149)
+10-02 01:38:17.591  2733  2899 I Finsky:background: [48] SCH: Scheduling 1 system job(s)
+10-02 01:38:17.590  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.gm
+10-02 01:38:17.592  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=149, files_to_download=[config.xxhdpi(size:1632006)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=1632006, retry[count=0, next_retry=n/a])
+10-02 01:38:17.594  2733  2899 I Finsky:background: [48] SCH: Scheduling system job Id: 10982, L: 0, D: 86399880, C: false, I: false, N: 1
+10-02 01:38:17.594  2733 10822 I Finsky:background: [398] SCH: Satisfied jobs for 10960 are: 3-92, 40-9998
+10-02 01:38:17.597  2733 10823 I Finsky:background: [399] SCH: Job 40-9998 starting
+10-02 01:38:17.597  2733  2733 I Finsky:background: [2] WM::SCH: Logging work start for 40-9998
+10-02 01:38:17.597  2733  2733 I Finsky:background: [2] DS::IRJ: Running InvisibleRunJob
+10-02 01:38:17.601  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING]
+10-02 01:38:17.602  2733 10579 I Finsky:background: [374] DS: enqueue with parallel downloads (request_id=151,groupId=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A)
+10-02 01:38:17.603  2733 10579 I Finsky:background: [374] DS::CD: download(151)
+10-02 01:38:17.605  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <151:QUEUED with WAITING_FOR_START:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.605  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.605  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.605  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.605  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <151:QUEUED with WAITING_FOR_START:0%[0%]>
+10-02 01:38:17.607  2733  2733 I Finsky:background: [2] SCH: job service start with id 10982.
+10-02 01:38:17.609  2733  2917 I Finsky:background: [55] RM: new request resource_request=64fc6b36-9926-4f64-9509-687a788cf1fa request_id=151 pkg_id=com.google.android.gm artifact_id=config.en isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.615  2733 10647 I Finsky:background: [397] CronetDownloader: onRedirectReceived
+10-02 01:38:17.627  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <150:RUNNING:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.627  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.627  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.627  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.627  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=150
+10-02 01:38:17.627  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=150, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/30772447
+10-02 01:38:17.627  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <150:RUNNING:0%[0%]>
+10-02 01:38:17.628  2733 10579 I Finsky:background: [374] DS::CD: Using Cronet.
+10-02 01:38:17.628  2733 10579 I Finsky:background: [374] DS: Current runningDownloadsCount: 3, queuedCount: 1
+10-02 01:38:17.628  2733 10579 I Finsky:background: [374] DS: Incremented runningDownloadsCount to: 4
+10-02 01:38:17.629  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=bab213b6-9560-4dab-a474-dd723a57af3d request_id=149 pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.630  2733  2904 I Finsky:background: [50] DSC: reviveDownload(149)
+10-02 01:38:17.630  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=149)
+10-02 01:38:17.631  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=149, files_to_download=[config.xxhdpi(size:1632006)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=1632006, retry[count=0, next_retry=n/a])
+10-02 01:38:17.650  2733  2733 I Finsky:background: [2] RF: onProgress request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/1632006 pkg_bytes=0/46801944
+10-02 01:38:17.652  2733 10646 I Finsky:background: [396] CronetDownloader: onRedirectReceived
+10-02 01:38:17.655  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <151:RUNNING:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.655  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:17.655  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:17.655  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:17.655  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=151
+10-02 01:38:17.655  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=151, pkg_id=com.google.android.gm artifact_id=config.en reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/679759
+10-02 01:38:17.655  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <151:RUNNING:0%[0%]>
+10-02 01:38:17.656  2733 10822 I Finsky:background: [398] SCH: Satisfied jobs for 10982 are: 40-9998
+10-02 01:38:17.657  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:17.660  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=e0b4f8ac-31da-4597-a3d4-0059d66701a3 request_id=150 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.660  2733  2904 I Finsky:background: [50] DSC: reviveDownload(150)
+10-02 01:38:17.660  2733 10579 I Finsky:background: [374] DS::CD: Using Cronet.
+10-02 01:38:17.660  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=150)
+10-02 01:38:17.661  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=e0b4f8ac-31da-4597-a3d4-0059d66701a3 request_id=150 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.661  2733  2917 I Finsky:background: [55] DSC: reviveDownload(150)
+10-02 01:38:17.661  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=64fc6b36-9926-4f64-9509-687a788cf1fa request_id=151 pkg_id=com.google.android.gm artifact_id=config.en isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.661  2733  2917 I Finsky:background: [55] DSC: reviveDownload(151)
+10-02 01:38:17.662  2733 10579 I Finsky:background: [374] DS: Current runningDownloadsCount: 4, queuedCount: 1
+10-02 01:38:17.662  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=151)
+10-02 01:38:17.665  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=64fc6b36-9926-4f64-9509-687a788cf1fa request_id=151 pkg_id=com.google.android.gm artifact_id=config.en isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:17.665  2733  2904 I Finsky:background: [50] DSC: reviveDownload(151)
+10-02 01:38:17.665  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=150)
+10-02 01:38:17.665  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=151)
+10-02 01:38:17.666  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=150, files_to_download=[com.google.android.gm.apk(size:30772447)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=30772447, retry[count=0, next_retry=n/a])
+10-02 01:38:17.666  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=151, files_to_download=[config.en(size:679759)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=679759, retry[count=0, next_retry=n/a])
+10-02 01:38:17.666  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=150, files_to_download=[com.google.android.gm.apk(size:30772447)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=30772447, retry[count=0, next_retry=n/a])
+10-02 01:38:17.666  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=151, files_to_download=[config.en(size:679759)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=679759, retry[count=0, next_retry=n/a])
+10-02 01:38:17.667  2733  2733 I Finsky:background: [2] RF: onProgress request_id=150, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/30772447 pkg_bytes=0/46801944
+10-02 01:38:17.674  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:17.674  2733  2733 I Finsky:background: [2] RF: onProgress request_id=151, pkg_id=com.google.android.gm artifact_id=config.en isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/679759 pkg_bytes=0/46801944
+10-02 01:38:17.676  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:17.687  2733 10647 I Finsky:background: [397] CronetDownloader: onRedirectReceived
+10-02 01:38:17.701   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:38:17.729  2733 10647 I Finsky:background: [397] CronetDownloader: onRedirectReceived
+10-02 01:38:18.175  1365  1671 I libbinder.IPCThreadState: oneway function results for code 1 on binder at 0x74b240c33860 will be dropped but finished with status UNKNOWN_TRANSACTION and reply parcel size 80
+10-02 01:38:18.281  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <147:RUNNING:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:18.282  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:18.282  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:18.282  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:18.283  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=147
+10-02 01:38:18.283  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/659614
+10-02 01:38:18.283  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <147:RUNNING:0%[0%]>
+10-02 01:38:18.286  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:18.286  2733  2904 I Finsky:background: [50] DSC: reviveDownload(147)
+10-02 01:38:18.287  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=147)
+10-02 01:38:18.287  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=659614, retry[count=0, next_retry=n/a])
+10-02 01:38:18.289  2733  2733 I Finsky:background: [2] RF: onProgress request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/659614 pkg_bytes=0/46801944
+10-02 01:38:18.289  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:18.302  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <150:RUNNING:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:18.302  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:18.302  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:18.302  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:18.302  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=150
+10-02 01:38:18.303  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=150, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/30772447
+10-02 01:38:18.304  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=e0b4f8ac-31da-4597-a3d4-0059d66701a3 request_id=150 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:18.304  2733  2918 I Finsky:background: [56] DSC: reviveDownload(150)
+10-02 01:38:18.304  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <150:RUNNING:0%[0%]>
+10-02 01:38:18.304  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=150)
+10-02 01:38:18.304  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=150, files_to_download=[com.google.android.gm.apk(size:30772447)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=30772447, retry[count=0, next_retry=n/a])
+10-02 01:38:18.307  2733  2733 I Finsky:background: [2] RF: onProgress request_id=150, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/30772447 pkg_bytes=0/46801944
+10-02 01:38:18.307  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:18.313  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <149:RUNNING:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:18.313  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:18.313  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:18.313  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:18.313  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=149
+10-02 01:38:18.313  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/1632006
+10-02 01:38:18.314  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <149:RUNNING:0%[0%]>
+10-02 01:38:18.316  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=bab213b6-9560-4dab-a474-dd723a57af3d request_id=149 pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:18.316  2733  2904 I Finsky:background: [50] DSC: reviveDownload(149)
+10-02 01:38:18.320  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=149)
+10-02 01:38:18.320  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=149, files_to_download=[config.xxhdpi(size:1632006)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=1632006, retry[count=0, next_retry=n/a])
+10-02 01:38:18.322  2733  2733 I Finsky:background: [2] RF: onProgress request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/1632006 pkg_bytes=0/46801944
+10-02 01:38:18.322  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:18.724  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <148:RUNNING:0%[0%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:18.724  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:18.724  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:18.724  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:18.725  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=148
+10-02 01:38:18.725  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=148, pkg_id=com.google.android.gm artifact_id=config.x86_64 reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 0/13058118
+10-02 01:38:18.725  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <148:RUNNING:0%[0%]>
+10-02 01:38:18.725  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=a978baa5-bc26-476e-93d3-ff5d93d3afaf request_id=148 pkg_id=com.google.android.gm artifact_id=config.x86_64 isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:18.726  2733  2904 I Finsky:background: [50] DSC: reviveDownload(148)
+10-02 01:38:18.726  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=148)
+10-02 01:38:18.726  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=148, files_to_download=[config.x86_64(size:13058118)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=0, total_bytes=13058118, retry[count=0, next_retry=n/a])
+10-02 01:38:18.734  2733  2733 I Finsky:background: [2] RF: onProgress request_id=148, pkg_id=com.google.android.gm artifact_id=config.x86_64 isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=0/13058118 pkg_bytes=0/46801944
+10-02 01:38:18.735  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:18.872 11007 11007 W libbinder.BackendUnifiedServiceManager: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: package
+10-02 01:38:18.922  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/base.odex) is kOatUpToDate with filter 'speed-profile' executable 'false'
+10-02 01:38:18.930  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_AdsDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:18.934  2188  2198 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_CronetDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:18.936  2188  2198 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_DynamiteLoader_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:18.938  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_DynamiteModulesA_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:18.940  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_DynamiteModulesC_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:18.941  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_GoogleCertificates_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:18.944  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_MapsDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:18.947  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_MeasurementDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:18.951  2188  2188 I artd    : GetBestInfo: odex next to the dex file (/data/app/~~p0Rn9LHxOBfYL19RJ4fEbQ==/com.google.android.gms-roIv3b7wxdT6yxSmRVvH5A==/oat/x86_64/split_all_locale_splits.odex) is kOatUpToDate with filter 'speed' executable 'false'
+10-02 01:38:18.954  2188  2188 I artd    : GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/0C4F7ED4FBAFD8F0B9C2015293C70B84A7E731C8/oat/x86_64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+10-02 01:38:18.955  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000001/CronetDynamite.apk has no usable artifacts
+10-02 01:38:18.956  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000014/dl-Appsearch.optional_263234100800.apk has no usable artifacts
+10-02 01:38:18.959  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000d/dl-MlkitOcrCommon.optional_263234100800.apk has no usable artifacts
+10-02 01:38:18.963  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.apk has no usable artifacts
+10-02 01:38:18.967  2188  2188 I artd    : GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/FBBAB0C936B5DF55F009F8BAF903A19505BD33A3/oat/x86_64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+10-02 01:38:18.972  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000f/dl-VisionOcr.optional_263234100000.apk has no usable artifacts
+10-02 01:38:18.975  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000008/dl-TfliteDynamiteDynamite.integ_260580502100800.apk has no usable artifacts
+10-02 01:38:18.976  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk has no usable artifacts
+10-02 01:38:18.977  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000011/dl-IdentityCredentialsPlatform.optional_263234100800.apk has no usable artifacts
+10-02 01:38:18.981  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000c/dl-MlkitBarcodeUi.optional_263234100800.apk has no usable artifacts
+10-02 01:38:19.000  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000a/dl-MlkitOcrCommon.optional_253434100800.apk has no usable artifacts
+10-02 01:38:19.001  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000012/dl-PlayCloudSearch.optional_263234100000.apk has no usable artifacts
+10-02 01:38:19.005  2188  2188 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000009/dl-VisionOcr.optional_253434100000.apk has no usable artifacts
+10-02 01:38:19.012  2188  2188 I artd    : GetBestInfo: /data/user/0/com.google.android.gms/app_dg_cache/D76594F451C00E79F4C61E3B54BC3D01968BC47C/the.apk has no usable artifacts
+10-02 01:38:19.016  2188  2198 I artd    : GetBestInfo: /data/user/0/com.google.android.gms/app_dg_cache/EC7C859F3FC767BB82D82EE06B046D25E8EB9283/the.apk has no usable artifacts
+10-02 01:38:19.017  2188  2198 I artd    : GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000013/dl-TfliteDynamiteDynamite.integ_262730502100800.apk has no usable artifacts
+10-02 01:38:19.019  2188  2198 W artd    : Could not get dex checksums for location /data/app/~~EDSqc8WM5xhdmhPMQP3aMA==/com.android.vending-Vu9urAfZyyJOFhBtySjq5g==/base.apk, fd=-1
+10-02 01:38:19.024  2188  2188 I artd    : GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/33EEFCDDEF7EECFCBCB86B77A3024BEF5E2711F4/oat/x86_64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+10-02 01:38:19.283 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): androidx.navigationevent.OnBackInvokedInput$createOnBackAnimationCallback$1@a9ecfa7
+10-02 01:38:19.502  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <147:RUNNING:54%[54%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:19.503  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:19.503  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:19.503  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:19.503  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=147
+10-02 01:38:19.503  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 360448/659614
+10-02 01:38:19.504  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <147:RUNNING:54%[54%]>
+10-02 01:38:19.507  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:19.508  2733  2918 I Finsky:background: [56] DSC: reviveDownload(147)
+10-02 01:38:19.508  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=147)
+10-02 01:38:19.508  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=360448, total_bytes=659614, retry[count=0, next_retry=n/a])
+10-02 01:38:19.510  2733  2733 I Finsky:background: [2] RF: onProgress request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=360448/659614 pkg_bytes=0/46801944
+10-02 01:38:19.535  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:19.563  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <148:RUNNING:1%[1%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:19.563  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:19.563  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:19.563  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:19.563  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=148
+10-02 01:38:19.563  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=148, pkg_id=com.google.android.gm artifact_id=config.x86_64 reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 163840/13058118
+10-02 01:38:19.564  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <148:RUNNING:1%[1%]>
+10-02 01:38:19.565  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=a978baa5-bc26-476e-93d3-ff5d93d3afaf request_id=148 pkg_id=com.google.android.gm artifact_id=config.x86_64 isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:19.565  2733  2904 I Finsky:background: [50] DSC: reviveDownload(148)
+10-02 01:38:19.565  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=148)
+10-02 01:38:19.567  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=148, files_to_download=[config.x86_64(size:13058118)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=163840, total_bytes=13058118, retry[count=0, next_retry=n/a])
+10-02 01:38:19.570  2733  2733 I Finsky:background: [2] RF: onProgress request_id=148, pkg_id=com.google.android.gm artifact_id=config.x86_64 isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=163840/13058118 pkg_bytes=360448/46801944
+10-02 01:38:19.571  2733  2733 I Finsky:background: [2] Updated time lastBroadcast=2026-10-02T01:38:17.549Z current=2026-10-02T01:38:19.571Z
+10-02 01:38:19.572  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 524288 / 46801944 / 0.011202
+10-02 01:38:19.580  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] status:RESOURCE_FETCH_PROGRESS, size: 524288/46801944
+10-02 01:38:19.585  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H19M48.365S, attempt=0
+10-02 01:38:19.596  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.gm, isid: QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:19.599  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.gm
+10-02 01:38:19.600  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING]
+10-02 01:38:19.617  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <150:RUNNING:1%[1%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:19.617  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:19.617  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:19.617  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:19.617  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=150
+10-02 01:38:19.617  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=150, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 311296/30772447
+10-02 01:38:19.618  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <150:RUNNING:1%[1%]>
+10-02 01:38:19.619  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=e0b4f8ac-31da-4597-a3d4-0059d66701a3 request_id=150 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:19.619  2733  2904 I Finsky:background: [50] DSC: reviveDownload(150)
+10-02 01:38:19.619  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=150)
+10-02 01:38:19.623  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=150, files_to_download=[com.google.android.gm.apk(size:30772447)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=311296, total_bytes=30772447, retry[count=0, next_retry=n/a])
+10-02 01:38:19.623 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@bc35a27
+10-02 01:38:19.624  2733  2733 I Finsky:background: [2] RF: onProgress request_id=150, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.apk isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=311296/30772447 pkg_bytes=524288/46801944
+10-02 01:38:19.625  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:19.657  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <149:RUNNING:16%[16%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:19.657  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:19.657  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:19.657  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:19.657  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=149
+10-02 01:38:19.657  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 262144/1632006
+10-02 01:38:19.657  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <149:RUNNING:16%[16%]>
+10-02 01:38:19.661  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=bab213b6-9560-4dab-a474-dd723a57af3d request_id=149 pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:19.661  2733  2918 I Finsky:background: [56] DSC: reviveDownload(149)
+10-02 01:38:19.662  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=149)
+10-02 01:38:19.663  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=149, files_to_download=[config.xxhdpi(size:1632006)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=262144, total_bytes=1632006, retry[count=0, next_retry=n/a])
+10-02 01:38:19.668  2733  2733 I Finsky:background: [2] RF: onProgress request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=262144/1632006 pkg_bytes=835584/46801944
+10-02 01:38:19.669  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:19.823   772  1390 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cd78838e does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:38:19.828   613  1294 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:38:19.839 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@45e1aa4 in: PAUSED
+10-02 01:38:19.839 10460 10460 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@45e1aa4
+10-02 01:38:19.841  1189  1189 D RecentsView: onTaskDisplayChanged: 238, new displayId = 0
+10-02 01:38:19.852 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+10-02 01:38:19.853 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+10-02 01:38:19.871  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:19.874  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:19.874 10503 10519 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-02 01:38:19.875 10503 10519 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-02 01:38:19.960  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:19.988 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@b790608
+10-02 01:38:19.990 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:38:19.996  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:20.060  1189  1189 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:38:20.060  1189  1189 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+10-02 01:38:20.061  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+10-02 01:38:20.064  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+10-02 01:38:20.064  1189  1189 D StatsLog: LAUNCHER_ONRESUME
+10-02 01:38:20.067  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-02 01:38:20.072  1189  1247 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+10-02 01:38:20.072  1603  1942 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-02 01:38:20.072  1603  1942 I AiAiEcho: EchoTargets:
+10-02 01:38:20.072  1603  1942 I AiAiEcho: Filtered by AiAi flag check:
+10-02 01:38:20.072  1603  1942 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-02 01:38:20.075  1603  1942 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-02 01:38:20.076  1603  1942 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-02 01:38:20.080  1189  1189 D BaseDepthController: setSurface:
+10-02 01:38:20.080  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:38:20.080  1189  1189 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#4400)/@0x5ee1042
+10-02 01:38:20.080  1189  1189 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#4400)/@0x5ee1042 applyImmediately: false
+10-02 01:38:20.080  1189  1189 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{c12d8a9 V.ED..... .......D 0,0-1080,2400 #7f0a049d app:id/workspace}, com.android.launcher3.Hotseat{dbfee2e V.ED..... .......D 0,1905-1080,2400 #7f0a01ee app:id/hotseat}]
+10-02 01:38:20.082  1025  1349 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:38:20.132  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:38:20.132  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:38:20.132  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:38:20.132  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:38:20.132  1189  1189 I SsBaseTemplateCard: Secondary card pane is null
+10-02 01:38:20.140  1189  1189 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+10-02 01:38:20.140  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:18)
+10-02 01:38:20.140  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:646)
+10-02 01:38:20.140  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:96)
+10-02 01:38:20.141  1189  1189 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+10-02 01:38:20.141  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:20)
+10-02 01:38:20.141  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:11)
+10-02 01:38:20.141  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:683)
+10-02 01:38:20.141  1189  1189 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+10-02 01:38:20.141  1189  1189 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+10-02 01:38:20.141  1189  1189 D b/311077782: LauncherAnimationRunner.setAnimation
+10-02 01:38:20.152  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:20.162  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:20.173  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-02 01:38:20.175   772   890 I ImeTracker: com.google.android.apps.nexuslauncher:c66a5d79: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:38:20.175  1189  1189 I ImeTracker: com.google.android.apps.nexuslauncher:c66a5d79: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:38:20.179  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:38:20.180  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:38:20.180   772  1293 I ImeTracker: system_server:cd8c39cf: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:38:20.181  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:38:20.181   772   799 I ImeTracker: system_server:cd8c39cf: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:38:20.183  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:38:20.499  1189  1189 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-02 01:38:20.505 10460 10460 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:38:20.511 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:38:20.512   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:38:20.514   772  1794 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:38:20.521 10460 10490 D HWUI    : endAllActiveAnimators on 0x74b2c0ca6f10 (UnprojectedRipple) with handle 0x74b240c4e680
+10-02 01:38:20.523 10503 10503 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:38:20.538  1189  1189 D RecentsView: onTaskRemoved: 238, not handling task stack changes
+10-02 01:38:20.538 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@45e1aa4 in: STOPPED
+10-02 01:38:20.538 10460 10460 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@45e1aa4
+10-02 01:38:20.539  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:20.539  1189  1189 D RecentsView: onTaskRemoved: 238, not handling task stack changes
+10-02 01:38:20.551 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:38:20.552 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@45e1aa4 in: DESTROYED
+10-02 01:38:20.552 10460 10460 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-02 01:38:20.554 10460 10460 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:38:20.560 10460 10474 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@ffcac74]
+10-02 01:38:20.566  1189  1189 D RecentsView: onTaskRemoved: 237, not handling task stack changes
+10-02 01:38:20.568  1189  1189 D RecentsView: onTaskRemoved: 237, not handling task stack changes
+10-02 01:38:20.571  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:38:20.583 10460 10474 I TestRunner: finished: c_loginYRegistroSeAlternanConservandoElLogin(com.cinemax.cliente.ui.navigation.NavegacionClienteTest)

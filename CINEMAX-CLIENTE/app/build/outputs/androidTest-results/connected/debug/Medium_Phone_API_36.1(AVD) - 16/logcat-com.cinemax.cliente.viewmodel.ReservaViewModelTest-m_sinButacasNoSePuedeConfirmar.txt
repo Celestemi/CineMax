@@ -1,0 +1,2 @@
+10-02 01:38:38.152 10460 10474 I TestRunner: started: m_sinButacasNoSePuedeConfirmar(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:38.286 10460 10474 I TestRunner: finished: m_sinButacasNoSePuedeConfirmar(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinemax.cliente.model.FechaCineMaxTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-02T01:35:45.488Z" hostname="DESKTOP-65CNQ55" time="0.008">
+  <properties/>
+  <testcase name="hoyIsoCoincideConElCalendarioDelSistema" classname="com.cinemax.cliente.model.FechaCineMaxTest" time="0.001"/>
+  <testcase name="esIsoValidaRechazaFechasQueNoExisten" classname="com.cinemax.cliente.model.FechaCineMaxTest" time="0.001"/>
+  <testcase name="unSaltoDeMesSeCalculaConElCalendario" classname="com.cinemax.cliente.model.FechaCineMaxTest" time="0.003"/>
+  <testcase name="esIsoValidaRechazaFormasIncorrectas" classname="com.cinemax.cliente.model.FechaCineMaxTest" time="0.0"/>
+  <testcase name="esIsoValidaAceptaFechasBienFormadas" classname="com.cinemax.cliente.model.FechaCineMaxTest" time="0.0"/>
+  <testcase name="hoyIsoRespetaElFormatoIso" classname="com.cinemax.cliente.model.FechaCineMaxTest" time="0.002"/>
+  <testcase name="elDesplazamientoDeDiasAplicaSobreElCalendarioReal" classname="com.cinemax.cliente.model.FechaCineMaxTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

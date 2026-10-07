@@ -1,0 +1,2 @@
+10-02 01:36:05.881 10460 10474 I TestRunner: started: e_laCombinacionEsLaInterseccionDeLosTresCriterios(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:06.000 10460 10474 I TestRunner: finished: e_laCombinacionEsLaInterseccionDeLosTresCriterios(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

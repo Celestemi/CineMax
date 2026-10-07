@@ -1,0 +1,2 @@
+10-02 01:36:06.352 10460 10474 I TestRunner: started: lasFechasDisponiblesSonLasQueTienenFunciones(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:06.454 10460 10474 I TestRunner: finished: lasFechasDisponiblesSonLasQueTienenFunciones(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

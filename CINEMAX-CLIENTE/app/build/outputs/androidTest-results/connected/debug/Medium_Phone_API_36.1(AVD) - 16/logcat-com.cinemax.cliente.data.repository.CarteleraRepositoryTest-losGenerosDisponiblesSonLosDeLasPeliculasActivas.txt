@@ -1,0 +1,2 @@
+10-02 01:36:07.651 10460 10474 I TestRunner: started: losGenerosDisponiblesSonLosDeLasPeliculasActivas(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:07.746 10460 10474 I TestRunner: finished: losGenerosDisponiblesSonLosDeLasPeliculasActivas(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

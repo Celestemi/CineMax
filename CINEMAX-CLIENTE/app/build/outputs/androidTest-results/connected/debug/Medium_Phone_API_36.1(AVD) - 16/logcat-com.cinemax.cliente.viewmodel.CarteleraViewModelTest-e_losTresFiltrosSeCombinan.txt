@@ -1,0 +1,2 @@
+10-02 01:38:34.229 10460 10474 I TestRunner: started: e_losTresFiltrosSeCombinan(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)
+10-02 01:38:34.442 10460 10474 I TestRunner: finished: e_losTresFiltrosSeCombinan(com.cinemax.cliente.viewmodel.CarteleraViewModelTest)

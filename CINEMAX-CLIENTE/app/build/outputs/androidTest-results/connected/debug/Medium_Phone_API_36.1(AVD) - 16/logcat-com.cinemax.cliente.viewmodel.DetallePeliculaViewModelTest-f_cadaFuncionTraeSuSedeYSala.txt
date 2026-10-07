@@ -1,0 +1,2 @@
+10-02 01:38:34.631 10460 10474 I TestRunner: started: f_cadaFuncionTraeSuSedeYSala(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)
+10-02 01:38:34.845 10460 10474 I TestRunner: finished: f_cadaFuncionTraeSuSedeYSala(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)

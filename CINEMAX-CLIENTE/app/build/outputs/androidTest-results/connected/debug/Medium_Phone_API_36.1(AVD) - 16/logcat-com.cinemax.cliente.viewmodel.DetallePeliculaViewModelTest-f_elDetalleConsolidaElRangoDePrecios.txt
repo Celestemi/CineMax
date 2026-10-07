@@ -1,0 +1,15 @@
+10-02 01:38:35.330 10460 10474 I TestRunner: started: f_elDetalleConsolidaElRangoDePrecios(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)
+10-02 01:38:35.398  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <149:RUNNING:82%[82%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:35.398  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:35.398  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:35.398  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:35.398  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=149
+10-02 01:38:35.398  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 1343488/1632006
+10-02 01:38:35.398  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <149:RUNNING:82%[82%]>
+10-02 01:38:35.400  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=bab213b6-9560-4dab-a474-dd723a57af3d request_id=149 pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:35.400  2733  2917 I Finsky:background: [55] DSC: reviveDownload(149)
+10-02 01:38:35.400  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=149)
+10-02 01:38:35.401  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=149, files_to_download=[config.xxhdpi(size:1632006)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=1343488, total_bytes=1632006, retry[count=1, next_retry=2026-10-02T01:38:32.188Z[GMT]])
+10-02 01:38:35.402  2733  2733 I Finsky:background: [2] RF: onProgress request_id=149, pkg_id=com.google.android.gm artifact_id=config.xxhdpi isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=1343488/1632006 pkg_bytes=6303709/46801944
+10-02 01:38:35.403  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:35.459 10460 10474 I TestRunner: finished: f_elDetalleConsolidaElRangoDePrecios(com.cinemax.cliente.viewmodel.DetallePeliculaViewModelTest)

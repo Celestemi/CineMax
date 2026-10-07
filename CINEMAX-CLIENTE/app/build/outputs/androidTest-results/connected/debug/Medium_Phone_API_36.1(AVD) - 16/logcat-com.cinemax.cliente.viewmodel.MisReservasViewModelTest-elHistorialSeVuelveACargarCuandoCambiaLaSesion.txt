@@ -1,0 +1,2 @@
+10-02 01:38:36.465 10460 10474 I TestRunner: started: elHistorialSeVuelveACargarCuandoCambiaLaSesion(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)
+10-02 01:38:36.670 10460 10474 I TestRunner: finished: elHistorialSeVuelveACargarCuandoCambiaLaSesion(com.cinemax.cliente.viewmodel.MisReservasViewModelTest)

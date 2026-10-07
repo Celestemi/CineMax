@@ -1,0 +1,2 @@
+10-02 01:38:31.193 10460 10474 I TestRunner: started: j_registroConTodosLosCamposVaciosSeRechaza(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:31.209 10460 10474 I TestRunner: finished: j_registroConTodosLosCamposVaciosSeRechaza(com.cinemax.cliente.viewmodel.AuthViewModelTest)

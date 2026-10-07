@@ -1,0 +1,2 @@
+10-02 01:36:11.166 10460 10474 I TestRunner: started: butacasInexistentesSeRechazan(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:11.262 10460 10474 I TestRunner: finished: butacasInexistentesSeRechazan(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

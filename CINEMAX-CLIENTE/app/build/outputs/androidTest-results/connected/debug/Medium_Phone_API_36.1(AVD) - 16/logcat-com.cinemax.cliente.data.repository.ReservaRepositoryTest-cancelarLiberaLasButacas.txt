@@ -1,0 +1,2 @@
+10-02 01:36:10.173 10460 10474 I TestRunner: started: cancelarLiberaLasButacas(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:10.273 10460 10474 I TestRunner: finished: cancelarLiberaLasButacas(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

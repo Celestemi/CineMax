@@ -1,0 +1,2 @@
+10-02 01:36:14.446 10460 10474 I TestRunner: started: cadaSalaTiene80Butacas(com.cinemax.cliente.data.seed.SeedInitializerTest)
+10-02 01:36:14.549 10460 10474 I TestRunner: finished: cadaSalaTiene80Butacas(com.cinemax.cliente.data.seed.SeedInitializerTest)

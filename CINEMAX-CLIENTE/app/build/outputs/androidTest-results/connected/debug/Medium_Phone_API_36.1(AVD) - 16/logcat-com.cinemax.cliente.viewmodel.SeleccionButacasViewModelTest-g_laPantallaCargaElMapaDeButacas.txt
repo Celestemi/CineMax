@@ -1,0 +1,2 @@
+10-02 01:38:41.035 10460 10474 I TestRunner: started: g_laPantallaCargaElMapaDeButacas(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:41.139 10460 10474 I TestRunner: finished: g_laPantallaCargaElMapaDeButacas(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

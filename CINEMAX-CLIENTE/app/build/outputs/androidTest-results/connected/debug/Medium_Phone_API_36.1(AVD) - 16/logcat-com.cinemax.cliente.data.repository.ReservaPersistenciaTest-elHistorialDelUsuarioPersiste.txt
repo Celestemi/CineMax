@@ -1,0 +1,2 @@
+10-02 01:36:09.294 10460 10474 I TestRunner: started: elHistorialDelUsuarioPersiste(com.cinemax.cliente.data.repository.ReservaPersistenciaTest)
+10-02 01:36:09.463 10460 10474 I TestRunner: finished: elHistorialDelUsuarioPersiste(com.cinemax.cliente.data.repository.ReservaPersistenciaTest)

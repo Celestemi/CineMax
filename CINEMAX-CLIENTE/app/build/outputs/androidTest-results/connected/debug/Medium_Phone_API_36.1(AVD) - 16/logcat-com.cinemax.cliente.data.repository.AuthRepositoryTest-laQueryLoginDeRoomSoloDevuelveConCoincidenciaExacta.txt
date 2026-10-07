@@ -1,0 +1,2 @@
+10-02 01:36:05.179 10460 10474 I TestRunner: started: laQueryLoginDeRoomSoloDevuelveConCoincidenciaExacta(com.cinemax.cliente.data.repository.AuthRepositoryTest)
+10-02 01:36:05.195 10460 10474 I TestRunner: finished: laQueryLoginDeRoomSoloDevuelveConCoincidenciaExacta(com.cinemax.cliente.data.repository.AuthRepositoryTest)

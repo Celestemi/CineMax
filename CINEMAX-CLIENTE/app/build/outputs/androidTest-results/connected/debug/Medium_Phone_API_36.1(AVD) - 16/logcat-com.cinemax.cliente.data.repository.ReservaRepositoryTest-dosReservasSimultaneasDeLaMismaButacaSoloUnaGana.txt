@@ -1,0 +1,2 @@
+10-02 01:36:09.563 10460 10474 I TestRunner: started: dosReservasSimultaneasDeLaMismaButacaSoloUnaGana(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:09.673 10460 10474 I TestRunner: finished: dosReservasSimultaneasDeLaMismaButacaSoloUnaGana(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

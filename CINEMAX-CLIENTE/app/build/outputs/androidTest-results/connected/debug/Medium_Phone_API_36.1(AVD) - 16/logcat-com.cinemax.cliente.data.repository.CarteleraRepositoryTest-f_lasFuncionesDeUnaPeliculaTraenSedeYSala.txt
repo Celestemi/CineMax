@@ -1,0 +1,2 @@
+10-02 01:36:07.374 10460 10474 I TestRunner: started: f_lasFuncionesDeUnaPeliculaTraenSedeYSala(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:07.533 10460 10474 I TestRunner: finished: f_lasFuncionesDeUnaPeliculaTraenSedeYSala(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

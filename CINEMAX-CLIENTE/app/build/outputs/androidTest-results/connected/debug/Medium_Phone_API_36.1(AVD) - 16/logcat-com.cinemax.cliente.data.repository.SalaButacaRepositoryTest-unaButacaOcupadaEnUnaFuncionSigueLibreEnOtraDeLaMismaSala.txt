@@ -1,0 +1,2 @@
+10-02 01:36:12.334 10460 10474 I TestRunner: started: unaButacaOcupadaEnUnaFuncionSigueLibreEnOtraDeLaMismaSala(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)
+10-02 01:36:12.459 10460 10474 I TestRunner: finished: unaButacaOcupadaEnUnaFuncionSigueLibreEnOtraDeLaMismaSala(com.cinemax.cliente.data.repository.SalaButacaRepositoryTest)

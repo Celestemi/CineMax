@@ -1,0 +1,2 @@
+10-02 01:36:10.556 10460 10474 I TestRunner: started: n_unaFuncionSinIdSeRechaza(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:10.650 10460 10474 I TestRunner: finished: n_unaFuncionSinIdSeRechaza(com.cinemax.cliente.data.repository.ReservaRepositoryTest)

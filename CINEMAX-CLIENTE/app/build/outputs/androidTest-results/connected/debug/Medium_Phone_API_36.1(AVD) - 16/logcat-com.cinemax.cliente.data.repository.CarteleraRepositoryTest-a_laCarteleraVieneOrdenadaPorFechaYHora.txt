@@ -1,0 +1,2 @@
+10-02 01:36:07.010 10460 10474 I TestRunner: started: a_laCarteleraVieneOrdenadaPorFechaYHora(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)
+10-02 01:36:07.108 10460 10474 I TestRunner: finished: a_laCarteleraVieneOrdenadaPorFechaYHora(com.cinemax.cliente.data.repository.CarteleraRepositoryTest)

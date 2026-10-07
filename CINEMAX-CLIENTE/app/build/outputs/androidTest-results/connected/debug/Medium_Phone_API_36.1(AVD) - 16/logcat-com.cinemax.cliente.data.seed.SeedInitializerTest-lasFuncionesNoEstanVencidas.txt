@@ -1,0 +1,2 @@
+10-02 01:36:13.764 10460 10474 I TestRunner: started: lasFuncionesNoEstanVencidas(com.cinemax.cliente.data.seed.SeedInitializerTest)
+10-02 01:36:13.905 10460 10474 I TestRunner: finished: lasFuncionesNoEstanVencidas(com.cinemax.cliente.data.seed.SeedInitializerTest)

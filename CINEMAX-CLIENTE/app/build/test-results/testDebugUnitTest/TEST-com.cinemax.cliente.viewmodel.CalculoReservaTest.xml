@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinemax.cliente.viewmodel.CalculoReservaTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2026-10-02T01:35:45.563Z" hostname="DESKTOP-65CNQ55" time="0.004">
+  <properties/>
+  <testcase name="redondearMontoUsaDosDecimales" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="k2_unPrecioNoNumeroSeRechaza" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.002"/>
+  <testcase name="k3_cantidadCeroSeRechaza" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="k3_cantidadNegativaSeRechaza" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="k1_laComaFlotanteNoSeEscapaAlRedondeo" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="todoMotivoDeRechazoTieneUnMensajeParaLaUI" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="esTotalValidoRechazaCeroNegativoYNoNumeros" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.001"/>
+  <testcase name="k1_unaSolaButacaDevuelveElPrecioDeEntrada" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="elCalculoEsDeterminista" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="k2_precioCeroSeRechaza" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="k2_precioNegativoSeRechaza" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="k1_precioYCantidadValidosDevuelvenElTotal" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.001"/>
+  <testcase name="k1_elEjemploDeLaGuiaDaCuarentaYCinco" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="siFalloElPrecioSeCompruebaAntesQueLaCantidad" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <testcase name="k1_preciosConDecimalesSeRedondeanADosCifras" classname="com.cinemax.cliente.viewmodel.CalculoReservaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

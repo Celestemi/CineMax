@@ -1,0 +1,2 @@
+10-02 01:36:05.224 10460 10474 I TestRunner: started: a_elRolYElActivoNoDependenDeQuienRegistra(com.cinemax.cliente.data.repository.AuthRepositoryTest)
+10-02 01:36:05.240 10460 10474 I TestRunner: finished: a_elRolYElActivoNoDependenDeQuienRegistra(com.cinemax.cliente.data.repository.AuthRepositoryTest)

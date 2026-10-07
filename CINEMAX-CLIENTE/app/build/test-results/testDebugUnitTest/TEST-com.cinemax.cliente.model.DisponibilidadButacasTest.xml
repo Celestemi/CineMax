@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cinemax.cliente.model.DisponibilidadButacasTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-02T01:35:45.483Z" hostname="DESKTOP-65CNQ55" time="0.003">
+  <properties/>
+  <testcase name="masOcupadasQueCapacidadSeRecortanACeroYNoDaNumeroNegativo" classname="com.cinemax.cliente.model.DisponibilidadButacasTest" time="0.001"/>
+  <testcase name="unaFuncionSinComprasTieneTodaLaCapacidadLibre" classname="com.cinemax.cliente.model.DisponibilidadButacasTest" time="0.001"/>
+  <testcase name="unaFuncionAgotadaEsLaQueNoDejaNiUnaButacaLibre" classname="com.cinemax.cliente.model.DisponibilidadButacasTest" time="0.0"/>
+  <testcase name="unaSalaSinButacasSeMarcaVaciaYNoAgotada" classname="com.cinemax.cliente.model.DisponibilidadButacasTest" time="0.0"/>
+  <testcase name="capacidadYNegativasNormalizadasACero" classname="com.cinemax.cliente.model.DisponibilidadButacasTest" time="0.001"/>
+  <testcase name="laDisponibilidadSeTomaDeSuPropiaFuncionYNoDeLasVecinas" classname="com.cinemax.cliente.model.DisponibilidadButacasTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

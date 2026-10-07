@@ -1,0 +1,2 @@
+10-02 01:38:39.061 10460 10474 I TestRunner: started: l_laReservaQuedaPersistidaConSusButacas(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:39.228 10460 10474 I TestRunner: finished: l_laReservaQuedaPersistidaConSusButacas(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

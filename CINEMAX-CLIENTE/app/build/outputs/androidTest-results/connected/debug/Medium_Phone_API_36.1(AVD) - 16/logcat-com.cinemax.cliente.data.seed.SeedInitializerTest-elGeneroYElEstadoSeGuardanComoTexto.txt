@@ -1,0 +1,9 @@
+10-02 01:36:14.189 10460 10474 I TestRunner: started: elGeneroYElEstadoSeGuardanComoTexto(com.cinemax.cliente.data.seed.SeedInitializerTest)
+10-02 01:36:14.286   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:36:14.287   772   929 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+10-02 01:36:14.288   772   929 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+10-02 01:36:14.288   772   929 D InetDiagMessage: Destroyed live tcp sockets for uids={10212} in 2ms
+10-02 01:36:14.288   772   929 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+10-02 01:36:14.288   772   929 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+10-02 01:36:14.288   772   929 D InetDiagMessage: Destroyed live tcp sockets for uids={20212} in 1ms
+10-02 01:36:14.316 10460 10474 I TestRunner: finished: elGeneroYElEstadoSeGuardanComoTexto(com.cinemax.cliente.data.seed.SeedInitializerTest)

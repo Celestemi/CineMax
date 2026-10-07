@@ -1,0 +1,85 @@
+10-02 01:38:32.600 10460 10474 I TestRunner: started: unaFuncionAgotadaSeMarcaComoTal(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)
+10-02 01:38:32.617  2733 10647 I Finsky:background: [397] CronetDownloader: onRedirectReceived
+10-02 01:38:32.617  2733 10647 I Finsky:background: [397] CronetDownloader: onRedirectReceived
+10-02 01:38:32.639  2733 10647 I Finsky:background: [397] CronetDownloader: onRedirectReceived
+10-02 01:38:32.659  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <147:RUNNING:89%[89%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.659  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:32.659  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:32.659  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:32.659  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=147
+10-02 01:38:32.659  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 589824/659614
+10-02 01:38:32.663  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <147:RUNNING:89%[89%]>
+10-02 01:38:32.664  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.664  2733  2918 I Finsky:background: [56] DSC: reviveDownload(147)
+10-02 01:38:32.664  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=147)
+10-02 01:38:32.669  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=658713, total_bytes=659614, retry[count=1, next_retry=2026-10-02T01:38:28.498Z[GMT]])
+10-02 01:38:32.672  2733  2733 I Finsky:background: [2] RF: onProgress request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=658713/659614 pkg_bytes=5381951/46801944
+10-02 01:38:32.674  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <147:RUNNING:99%[99%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.674  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:32.674  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:32.674  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:32.674  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=147
+10-02 01:38:32.674  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 658713/659614
+10-02 01:38:32.675  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <147:RUNNING:99%[99%]>
+10-02 01:38:32.675  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:32.679  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.680  2733  2904 I Finsky:background: [50] DSC: reviveDownload(147)
+10-02 01:38:32.686  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=147)
+10-02 01:38:32.687  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=659614, total_bytes=659614, retry[count=1, next_retry=2026-10-02T01:38:28.498Z[GMT]])
+10-02 01:38:32.689  2733  2733 I Finsky:background: [2] RF: onProgress request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=659614/659614 pkg_bytes=5450840/46801944
+10-02 01:38:32.690  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:32.691  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <147:RUNNING:100%[100%]> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.691  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:32.691  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:32.691  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:32.691  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=147
+10-02 01:38:32.691  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 659614/659614
+10-02 01:38:32.695  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <147:RUNNING:100%[100%]>
+10-02 01:38:32.699  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.699  2733  2917 I Finsky:background: [55] DSC: reviveDownload(147)
+10-02 01:38:32.699  2733 10579 I Finsky:background: [374] DS: Decremented runningDownloadsCount to: 3
+10-02 01:38:32.699  2733 10579 I Finsky:background: [374] DS: Current runningDownloadsCount: 3, queuedCount: 0
+10-02 01:38:32.700  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <147:SUCCEEDED> in group com.google.android.gm:QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.700  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:38:32.700  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:38:32.700  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:38:32.700  2733 10579 I Finsky:background: [374] RM: receive resource status onSuccess download_request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm reason=auto_update isid=QZpq4CKjTUOcBSDN04J74A, status_code=RESOURCE_STATUS_SUCCEEDED, legacy_status_code=200, size: 659614/659614
+10-02 01:38:32.700  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <147:SUCCEEDED>
+10-02 01:38:32.700  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=147)
+10-02 01:38:32.701  2733  2917 I Finsky:background: [55] RM: getStatus resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.701  2733  2917 I Finsky:background: [55] DSC: reviveDownload(147)
+10-02 01:38:32.701  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=succeeded, bytes_downloaded=659614, total_bytes=659614, retry[count=1, next_retry=2026-10-02T01:38:28.498Z[GMT]])
+10-02 01:38:32.702  2733  2917 I Finsky:background: [55] DS: reviveDownload(request_id=147)
+10-02 01:38:32.703  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=succeeded, bytes_downloaded=659614, total_bytes=659614, retry[count=1, next_retry=2026-10-02T01:38:28.498Z[GMT]])
+10-02 01:38:32.705  2733  2733 I Finsky:background: [2] RF: onProgress request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=659614/659614 pkg_bytes=5451741/46801944
+10-02 01:38:32.706  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:38:32.706  2733  2733 I Finsky:background: [2] RF: onResourceSuccess request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=659614/659614 pkg_bytes=5451741/46801944
+10-02 01:38:32.707  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 5451741 / 46801944 / 0.116485
+10-02 01:38:32.707  2733  2733 I Finsky:background: [2] RF: onSuccess request_id=147, pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A artifact_bytes=659614/659614 pkg_bytes=5451741/46801944
+10-02 01:38:32.709  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] status:RESOURCE_FETCH_PROGRESS, size: 5451741/46801944
+10-02 01:38:32.715  2733  2905 I Finsky:background: [51] RF: starting postprocessing for com.google.android.gm.dm
+10-02 01:38:32.715  2733  2905 I Finsky:background: [51] RF::PP-Decompress: starting to decompress for com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028].
+10-02 01:38:32.715  2733  2905 I Finsky:background: [51] RF::PP-Copy: starting to copy for com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028]
+10-02 01:38:32.718  2733 10835 I Finsky:background: [400] DU: Stored data usage stats for package com.google.android.gm; completed bytes: 659614.
+10-02 01:38:32.723  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] status:RESOURCE_FETCH_PROGRESS, size: 5451741/46801944
+10-02 01:38:32.723  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H20M1.503S, attempt=0
+10-02 01:38:32.732  2733 10599 I Finsky:background: [386] RF::PP-Copy: Starting copy of com.google.android.gm.dm
+10-02 01:38:32.732  2733 10599 I Finsky:background: [386] RF::PP-Copy: OutputStream opened for com.google.android.gm.dm
+10-02 01:38:32.732  2733 10599 I Finsky:background: [386] RF::PP-Copy: Start copying from input stream for com.google.android.gm.dm
+10-02 01:38:32.744  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.gm, isid: QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.745  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.gm
+10-02 01:38:32.749  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING]
+10-02 01:38:32.750  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H20M1.53S, attempt=0
+10-02 01:38:32.760  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.gm, isid: QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.764  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.gm
+10-02 01:38:32.768  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.gm, isid:QZpq4CKjTUOcBSDN04J74A] state:DOWNLOADING]
+10-02 01:38:32.776  2733 10599 I Finsky:background: [386] RF::PP-Copy: Finished copying from input stream for com.google.android.gm.dm
+10-02 01:38:32.783   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:38:32.792  2733  2903 I Finsky:background: [49] RF::PP-Verify: starting to verify for com.google.android.gm[iid:28] [isid:QZpq4CKjTUOcBSDN04J74A] [tid: 1000000028].
+10-02 01:38:32.813  2733  2904 I Finsky:background: [50] RF::TC: Deleting temp copy: com.google.android.gm.dm
+10-02 01:38:32.816  2733  2904 I Finsky:background: [50] RM: remove resources for request 7f918000-9537-4f63-958b-bfc67da8ba74
+10-02 01:38:32.817  2733  2918 I Finsky:background: [56] RM: remove resource_request=7f918000-9537-4f63-958b-bfc67da8ba74 request_id=147 pkg_id=com.google.android.gm artifact_id=com.google.android.gm.dm isid=QZpq4CKjTUOcBSDN04J74A
+10-02 01:38:32.817  2733  2918 I Finsky:background: [56] DSC: remove(147)
+10-02 01:38:32.818  2733  2917 I Finsky:background: [55] DS: remove(request_id=147)
+10-02 01:38:32.835  2733 10579 I Finsky:background: [374] DS: DS: onRemove(request_id=147, files_to_download=[com.google.android.gm.dm(size:659614)], context[group_id=com.google.android.gm:QZpq4CKjTUOcBSDN04J74A], display_data[invisible=true, title=Gmail], network_restrictions=UNMETERED_ONLY status=succeeded, bytes_downloaded=659614, total_bytes=659614, retry[count=1, next_retry=2026-10-02T01:38:28.498Z[GMT]])
+10-02 01:38:32.854 10460 10474 I TestRunner: finished: unaFuncionAgotadaSeMarcaComoTal(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)

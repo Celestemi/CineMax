@@ -1,0 +1,2 @@
+10-02 01:38:40.006 10460 10474 I TestRunner: started: n_unaFuncionInexistenteSeRechaza(com.cinemax.cliente.viewmodel.ReservaViewModelTest)
+10-02 01:38:40.099 10460 10474 I TestRunner: finished: n_unaFuncionInexistenteSeRechaza(com.cinemax.cliente.viewmodel.ReservaViewModelTest)

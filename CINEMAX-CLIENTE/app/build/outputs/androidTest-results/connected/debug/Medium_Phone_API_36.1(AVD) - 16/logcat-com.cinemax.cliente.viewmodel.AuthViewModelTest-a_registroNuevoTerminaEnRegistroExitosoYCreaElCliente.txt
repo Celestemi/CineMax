@@ -1,0 +1,2 @@
+10-02 01:38:31.239 10460 10474 I TestRunner: started: a_registroNuevoTerminaEnRegistroExitosoYCreaElCliente(com.cinemax.cliente.viewmodel.AuthViewModelTest)
+10-02 01:38:31.256 10460 10474 I TestRunner: finished: a_registroNuevoTerminaEnRegistroExitosoYCreaElCliente(com.cinemax.cliente.viewmodel.AuthViewModelTest)

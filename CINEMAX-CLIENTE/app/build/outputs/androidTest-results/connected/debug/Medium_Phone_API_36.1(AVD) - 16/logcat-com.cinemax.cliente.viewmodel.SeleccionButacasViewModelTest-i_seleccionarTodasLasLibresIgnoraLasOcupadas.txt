@@ -1,0 +1,2 @@
+10-02 01:38:40.413 10460 10474 I TestRunner: started: i_seleccionarTodasLasLibresIgnoraLasOcupadas(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)
+10-02 01:38:40.504 10460 10474 I TestRunner: finished: i_seleccionarTodasLasLibresIgnoraLasOcupadas(com.cinemax.cliente.viewmodel.SeleccionButacasViewModelTest)

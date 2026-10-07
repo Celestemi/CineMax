@@ -1,0 +1,279 @@
+10-02 01:37:00.830 10460 10474 I TestRunner: started: continuarEntregaElIdDeLaFuncionYLasButacasElegidas(com.cinemax.cliente.ui.SeleccionButacasScreenTest)
+10-02 01:37:00.839  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:00.845 10460 10474 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@75d4186]
+10-02 01:37:00.851 10460 10474 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-02 01:37:00.866   772  1558 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cbc3aaef does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:37:00.875   613   626 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:37:00.888  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+10-02 01:37:00.889  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+10-02 01:37:00.889  1189  1189 W SplitSelectStateCtor: Missing session instanceIds
+10-02 01:37:00.889  1189  1189 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-02 01:37:00.898  1189  1189 D RecentsView: onTaskDisplayChanged: 203, new displayId = 0
+10-02 01:37:00.899  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:00.899  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:00.904 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@70c8cf8 in: PRE_ON_CREATE
+10-02 01:37:00.904 10460 10460 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-02 01:37:00.911 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@70c8cf8 in: CREATED
+10-02 01:37:00.911 10460 10460 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@70c8cf8
+10-02 01:37:00.912 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@70c8cf8 in: STARTED
+10-02 01:37:00.912 10460 10460 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@70c8cf8
+10-02 01:37:00.915 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@70c8cf8 in: RESUMED
+10-02 01:37:00.927 10460 10460 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@70c8cf8
+10-02 01:37:00.949 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@e8c871a
+10-02 01:37:00.949 10460 10460 D VRI[ComponentActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:37:00.971  1189  1189 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+10-02 01:37:01.055  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:01.062  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <142:RUNNING:7%[7%]> in group com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.062  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:37:01.062  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:37:01.063  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:37:01.063  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=142
+10-02 01:37:01.063  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=142, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm reason=auto_update isid=ZQBBwd7NRia81GL7af8Hsw, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 16384/207931
+10-02 01:37:01.068  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <142:RUNNING:7%[7%]>
+10-02 01:37:01.075  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=8c33c368-5d15-465e-9589-52110e0badd9 request_id=142 pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.075  2733  2904 I Finsky:background: [50] DSC: reviveDownload(142)
+10-02 01:37:01.077  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=142)
+10-02 01:37:01.085   772   796 I ActivityTaskManager: Displayed com.cinemax.cliente/androidx.activity.ComponentActivity for user 0: +222ms
+10-02 01:37:01.086  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=142, files_to_download=[com.google.android.contacts.dm(size:207931)], context[group_id=com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw], display_data[invisible=true, title=Contacts], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=199960, total_bytes=207931, retry[count=2, next_retry=2026-10-02T01:37:00.312Z[GMT]])
+10-02 01:37:01.091  2733  2733 I Finsky:background: [2] RF: onProgress request_id=142, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw artifact_bytes=199960/207931 pkg_bytes=3061606/8965190
+10-02 01:37:01.095  2733  2733 I Finsky:background: [2] Updated time lastBroadcast=2026-10-02T01:36:59.077Z current=2026-10-02T01:37:01.095Z
+10-02 01:37:01.101 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:37:01.107  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 3245182 / 8965190 / 0.361976
+10-02 01:37:01.112  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <142:RUNNING:96%[96%]> in group com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.112  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:37:01.112  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:37:01.112  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:37:01.112  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=142
+10-02 01:37:01.113  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=142, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm reason=auto_update isid=ZQBBwd7NRia81GL7af8Hsw, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 199960/207931
+10-02 01:37:01.113  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <142:RUNNING:96%[96%]>
+10-02 01:37:01.114  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=8c33c368-5d15-465e-9589-52110e0badd9 request_id=142 pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.114  2733  2918 I Finsky:background: [56] DSC: reviveDownload(142)
+10-02 01:37:01.114  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=142)
+10-02 01:37:01.114  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=142, files_to_download=[com.google.android.contacts.dm(size:207931)], context[group_id=com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw], display_data[invisible=true, title=Contacts], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=199960, total_bytes=207931, retry[count=2, next_retry=2026-10-02T01:37:00.312Z[GMT]])
+10-02 01:37:01.121  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.contacts[iid:26] [isid:ZQBBwd7NRia81GL7af8Hsw] status:RESOURCE_FETCH_PROGRESS, size: 3245182/8965190
+10-02 01:37:01.124  2733  2733 I Finsky:background: [2] RF: onProgress request_id=142, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw artifact_bytes=199960/207931 pkg_bytes=3245182/8965190
+10-02 01:37:01.125  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:37:01.125   772   849 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:37:01.127  1189  1189 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-02 01:37:01.136  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <139:RUNNING:37%[37%]> in group com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.136  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:37:01.136  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:37:01.136  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:37:01.136  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=139
+10-02 01:37:01.136  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=139, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.apk reason=auto_update isid=ZQBBwd7NRia81GL7af8Hsw, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 3211248/8595605
+10-02 01:37:01.139  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:01.140  2733  2918 I Finsky:background: [56] RM: getStatus resource_request=79a71f48-7712-4ae7-8063-e07737497d87 request_id=139 pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.apk isid=ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.140  2733  2918 I Finsky:background: [56] DSC: reviveDownload(139)
+10-02 01:37:01.140  2733  2918 I Finsky:background: [56] DS: reviveDownload(request_id=139)
+10-02 01:37:01.141  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <139:RUNNING:37%[37%]>
+10-02 01:37:01.141  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=139, files_to_download=[com.google.android.contacts.apk(size:8595605)], context[group_id=com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw], display_data[invisible=true, title=Contacts], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=3211248, total_bytes=8595605, retry[count=0, next_retry=n/a])
+10-02 01:37:01.155  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <142:RUNNING:100%[100%]> in group com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.155  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:37:01.155  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:37:01.156  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:37:01.156  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=142
+10-02 01:37:01.156  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=142, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm reason=auto_update isid=ZQBBwd7NRia81GL7af8Hsw, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 207931/207931
+10-02 01:37:01.156  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <142:RUNNING:100%[100%]>
+10-02 01:37:01.167  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=8c33c368-5d15-465e-9589-52110e0badd9 request_id=142 pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.167  2733  2904 I Finsky:background: [50] DSC: reviveDownload(142)
+10-02 01:37:01.167  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=142)
+10-02 01:37:01.170  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.contacts, isid:ZQBBwd7NRia81GL7af8Hsw] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H18M30.047S, attempt=0
+10-02 01:37:01.172  2733  2733 I Finsky:background: [2] RF: onProgress request_id=139, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.apk isid=ZQBBwd7NRia81GL7af8Hsw artifact_bytes=3211248/8595605 pkg_bytes=3245182/8965190
+10-02 01:37:01.173  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=142, files_to_download=[com.google.android.contacts.dm(size:207931)], context[group_id=com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw], display_data[invisible=true, title=Contacts], network_restrictions=UNMETERED_ONLY status=succeeded, bytes_downloaded=207931, total_bytes=207931, retry[count=2, next_retry=2026-10-02T01:37:00.312Z[GMT]])
+10-02 01:37:01.174   772   890 I ImeTracker: com.cinemax.cliente:77736a7e: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:37:01.174  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:37:01.179  2733  2733 I Finsky:background: [2] RF: onProgress request_id=142, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw artifact_bytes=207931/207931 pkg_bytes=3572862/8965190
+10-02 01:37:01.181 10460 10460 I ImeTracker: com.cinemax.cliente:77736a7e: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:37:01.183  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:37:01.197   772   996 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:37:01.201  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:37:01.203  2733 10579 I Finsky:background: [374] DS: Decremented runningDownloadsCount to: 2
+10-02 01:37:01.203  2733 10579 I Finsky:background: [374] DS: Current runningDownloadsCount: 2, queuedCount: 0
+10-02 01:37:01.203  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <142:SUCCEEDED> in group com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.203  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:37:01.203  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:37:01.203  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:37:01.203   772   850 I ImeTracker: system_server:9c826951: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:37:01.203  2733 10579 I Finsky:background: [374] RM: receive resource status onSuccess download_request_id=142, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm reason=auto_update isid=ZQBBwd7NRia81GL7af8Hsw, status_code=RESOURCE_STATUS_SUCCEEDED, legacy_status_code=200, size: 207931/207931
+10-02 01:37:01.204  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:37:01.205  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:37:01.207  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 242866, 11029581, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:37:01.207  1025  1119 W FrameTracker: Missed App frame:UNKNOWN: 3, 243069, 100900812, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:37:01.207  1025  1119 W FrameTracker: Missed SF frame:UNKNOWN: 3, 243069, 100900812, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:37:01.207  1025  1119 W FrameTracker: Missed App frame:UNKNOWN: 3, 243098, 106064161, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:37:01.207  1025  1119 W FrameTracker: Missed SF frame:UNKNOWN: 3, 243098, 106064161, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:37:01.207  1025  1119 W FrameTracker: Missed App frame:UNKNOWN: 3, 243180, 40363841, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:37:01.207  1025  1119 W FrameTracker: Missed SF frame:UNKNOWN: 3, 243180, 40363841, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:37:01.207  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 243188, 43443977, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:37:01.207  1025  1119 W FrameTracker: Missed SF frame:JANK_COMPOSER, 243202, 52233086, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+10-02 01:37:01.207  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <142:SUCCEEDED>
+10-02 01:37:01.210  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:37:01.219   772   799 I ImeTracker: system_server:9c826951: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:37:01.219 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:37:01.226  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=8c33c368-5d15-465e-9589-52110e0badd9 request_id=142 pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.226  2733  2904 I Finsky:background: [50] DSC: reviveDownload(142)
+10-02 01:37:01.227  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=142)
+10-02 01:37:01.233  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=142, files_to_download=[com.google.android.contacts.dm(size:207931)], context[group_id=com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw], display_data[invisible=true, title=Contacts], network_restrictions=UNMETERED_ONLY status=succeeded, bytes_downloaded=207931, total_bytes=207931, retry[count=2, next_retry=2026-10-02T01:37:00.312Z[GMT]])
+10-02 01:37:01.236 10503 10503 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:37:01.258  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.contacts, isid: ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.261  2733  2733 I Finsky:background: [2] RF: onResourceSuccess request_id=142, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw artifact_bytes=207931/207931 pkg_bytes=3580833/8965190
+10-02 01:37:01.261  2733  2733 I Finsky:background: [2] bytesCompleted/bytesTotal/ratio = 3580833 / 8965190 / 0.399415
+10-02 01:37:01.261  2733  2733 I Finsky:background: [2] RF: onSuccess request_id=142, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw artifact_bytes=207931/207931 pkg_bytes=3580833/8965190
+10-02 01:37:01.268   772   849 W libbinder.IPCThreadState: Sending oneway calls to frozen process.
+10-02 01:37:01.273  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.contacts[iid:26] [isid:ZQBBwd7NRia81GL7af8Hsw] status:RESOURCE_FETCH_PROGRESS, size: 3580833/8965190
+10-02 01:37:01.279  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.contacts
+10-02 01:37:01.279  2733  2903 I Finsky:background: [49] RF: starting postprocessing for com.google.android.contacts.dm
+10-02 01:37:01.284  2733  2903 I Finsky:background: [49] RF::PP-Decompress: starting to decompress for com.google.android.contacts[iid:26] [isid:ZQBBwd7NRia81GL7af8Hsw] [tid: 1000000026].
+10-02 01:37:01.286  2733  2903 I Finsky:background: [49] RF::PP-Copy: starting to copy for com.google.android.contacts[iid:26] [isid:ZQBBwd7NRia81GL7af8Hsw] [tid: 1000000026]
+10-02 01:37:01.291  2733 10586 I Finsky:background: [379] DU: Stored data usage stats for package com.google.android.contacts; completed bytes: 207931.
+10-02 01:37:01.291  1189  1189 D RecentsView: onTaskRemoved: 202, not handling task stack changes
+10-02 01:37:01.291  1189  1189 D RecentsView: onTaskRemoved: 202, not handling task stack changes
+10-02 01:37:01.292  2733 10599 I Finsky:background: [386] RF::PP-Copy: Starting copy of com.google.android.contacts.dm
+10-02 01:37:01.292  2733 10599 I Finsky:background: [386] RF::PP-Copy: OutputStream opened for com.google.android.contacts.dm
+10-02 01:37:01.292  2733 10599 I Finsky:background: [386] RF::PP-Copy: Start copying from input stream for com.google.android.contacts.dm
+10-02 01:37:01.293  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.contacts, isid:ZQBBwd7NRia81GL7af8Hsw] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H18M30.17S, attempt=0
+10-02 01:37:01.295  2733  2908 I Finsky:background: [52] IV2: onTaskProgress com.google.android.contacts[iid:26] [isid:ZQBBwd7NRia81GL7af8Hsw] status:RESOURCE_FETCH_PROGRESS, size: 3580833/8965190
+10-02 01:37:01.295  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.contacts, isid:ZQBBwd7NRia81GL7af8Hsw] state:DOWNLOADING]
+10-02 01:37:01.297  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:01.322  2733 10599 I Finsky:background: [386] RF::PP-Copy: Finished copying from input stream for com.google.android.contacts.dm
+10-02 01:37:01.330  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.contacts, isid: ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.334  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.contacts
+10-02 01:37:01.337  1189  1204 W System  : A resource failed to call release.
+10-02 01:37:01.338  1189  1204 W System  : A resource failed to call release.
+10-02 01:37:01.338  1189  1204 W System  : A resource failed to call release.
+10-02 01:37:01.339  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.contacts, isid:ZQBBwd7NRia81GL7af8Hsw] state:DOWNLOADING]
+10-02 01:37:01.339  2733 10593 I Finsky:background: [384] IQ: Notifying installation update. [Package:com.google.android.contacts, isid:ZQBBwd7NRia81GL7af8Hsw] state:DOWNLOADING, status=DOWNLOADING, status_code=0, reason=auto_update, tsc=PT1H18M30.216S, attempt=0
+10-02 01:37:01.341  2733  2905 I Finsky:background: [51] RF::PP-Verify: starting to verify for com.google.android.contacts[iid:26] [isid:ZQBBwd7NRia81GL7af8Hsw] [tid: 1000000026].
+10-02 01:37:01.354  2733  2733 I Finsky:background: [2] PIM: Ignore install package event for: com.google.android.contacts, isid: ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.357  2733  2917 I Finsky:background: [55] RF::TC: Deleting temp copy: com.google.android.contacts.dm
+10-02 01:37:01.357  2733  2917 I Finsky:background: [55] RM: remove resources for request 8c33c368-5d15-465e-9589-52110e0badd9
+10-02 01:37:01.357  1914  1914 I Finsky  : [2] DL: Data loader session turned off due to Incremental install not requested: com.google.android.contacts
+10-02 01:37:01.359  2733  2918 I Finsky:background: [56] RM: remove resource_request=8c33c368-5d15-465e-9589-52110e0badd9 request_id=142 pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.dm isid=ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:01.359  2733  2918 I Finsky:background: [56] DSC: remove(142)
+10-02 01:37:01.360  2733  2918 I Finsky:background: [56] DS: remove(request_id=142)
+10-02 01:37:01.361  1914  1914 I Finsky  : [2] IQ::HLD: if pauseAppUpdates is called now, it must wait for these ongoing installs: [[Package:com.google.android.contacts, isid:ZQBBwd7NRia81GL7af8Hsw] state:DOWNLOADING]
+10-02 01:37:01.376  2733 10579 I Finsky:background: [374] DS: DS: onRemove(request_id=142, files_to_download=[com.google.android.contacts.dm(size:207931)], context[group_id=com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw], display_data[invisible=true, title=Contacts], network_restrictions=UNMETERED_ONLY status=succeeded, bytes_downloaded=207931, total_bytes=207931, retry[count=2, next_retry=2026-10-02T01:37:00.312Z[GMT]])
+10-02 01:37:01.420  1189  1189 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:37:01.421  1025  1349 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:37:01.428   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:37:01.438  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-02 01:37:01.460  1189  1189 D BaseActivity: Launcher flags updated: [] -[state_started]
+10-02 01:37:01.460  1189  1189 D BaseDepthController: setSurface:
+10-02 01:37:01.460  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:37:01.460  1189  1189 D BaseDepthController: 	mBaseSurface: null
+10-02 01:37:01.460  1189  1189 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-02 01:37:01.461  1189  1189 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+10-02 01:37:01.461  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:6)
+10-02 01:37:01.461  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:2)
+10-02 01:37:01.461  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:32)
+10-02 01:37:01.461  1189  1189 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+10-02 01:37:01.461  1189  1189 D ActivityContext: hideKeyboard
+10-02 01:37:01.461  1189  1189 D ActivityContext: isImeShown: false
+10-02 01:37:01.461  1189  1189 D StatsLog: LAUNCHER_ONSTOP
+10-02 01:37:01.463  1189  1189 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-02 01:37:01.623   772  2390 I AppSearchIcing: icing-search-engine.cc:2327: Persisting data to disk with mode 3
+10-02 01:37:01.664   772  2390 I AppSearchIcing: icing-search-engine.cc:2340: PersistToDisk completed.
+10-02 01:37:02.439   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:37:02.453  2733 10579 E Finsky:background: [374] Failed to broadcast status update [requestId=138]
+10-02 01:37:02.453  2733 10579 E Finsky:background: com.google.android.finsky.downloadservicecommon.DownloadServiceException: 0 entries found for requestId=138
+10-02 01:37:02.453  2733 10579 E Finsky:background: 	at xaf.apply(PG:46)
+10-02 01:37:02.453  2733 10579 E Finsky:background: 	at ryz.call(PG:1185)
+10-02 01:37:02.453  2733 10579 E Finsky:background: 	at bssq.a(PG:3)
+10-02 01:37:02.453  2733 10579 E Finsky:background: 	at bsrw.run(PG:19)
+10-02 01:37:02.453  2733 10579 E Finsky:background: 	at bssr.run(PG:5)
+10-02 01:37:02.453  2733 10579 E Finsky:background: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+10-02 01:37:02.453  2733 10579 E Finsky:background: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+10-02 01:37:02.453  2733 10579 E Finsky:background: 	at xth.run(PG:322)
+10-02 01:37:02.453  2733 10579 E Finsky:background: 	at java.lang.Thread.run(Thread.java:1563)
+10-02 01:37:02.626   772   850 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cd78838e does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:37:02.632   613  1294 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:37:02.639  1189  1189 D RecentsView: onTaskDisplayChanged: 204, new displayId = 0
+10-02 01:37:02.645 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@70c8cf8 in: PAUSED
+10-02 01:37:02.649  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:02.650 10460 10460 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@70c8cf8
+10-02 01:37:02.652  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:02.659 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+10-02 01:37:02.659 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+10-02 01:37:02.671 10503 10519 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-02 01:37:02.672 10503 10519 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-02 01:37:02.775  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:02.803 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@178918b
+10-02 01:37:02.808 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:37:02.808  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:02.883  1189  1189 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:37:02.884  1189  1189 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+10-02 01:37:02.886  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+10-02 01:37:02.893  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+10-02 01:37:02.893  1189  1189 D StatsLog: LAUNCHER_ONRESUME
+10-02 01:37:02.896  1189  1247 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+10-02 01:37:02.901  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-02 01:37:02.906  1603  1942 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-02 01:37:02.906  1603  1942 I AiAiEcho: EchoTargets:
+10-02 01:37:02.906  1603  1942 I AiAiEcho: Filtered by AiAi flag check:
+10-02 01:37:02.906  1603  1942 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-02 01:37:02.906  1603  1942 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-02 01:37:02.906  1603  1942 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-02 01:37:02.908  1189  1189 D BaseDepthController: setSurface:
+10-02 01:37:02.908  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:37:02.908  1189  1189 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3746)/@0x5ee1042
+10-02 01:37:02.908  1189  1189 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3746)/@0x5ee1042 applyImmediately: false
+10-02 01:37:02.908  1189  1189 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{c12d8a9 V.ED..... .......D 0,0-1080,2400 #7f0a049d app:id/workspace}, com.android.launcher3.Hotseat{dbfee2e V.ED..... .......D 0,1905-1080,2400 #7f0a01ee app:id/hotseat}]
+10-02 01:37:02.920  1025  1349 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:37:02.967  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:37:02.967  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:37:02.967  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:37:02.967  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:37:02.967  1189  1189 I SsBaseTemplateCard: Secondary card pane is null
+10-02 01:37:02.979  1189  1189 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+10-02 01:37:02.979  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:18)
+10-02 01:37:02.979  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:646)
+10-02 01:37:02.979  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:96)
+10-02 01:37:02.982  1189  1189 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+10-02 01:37:02.982  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:20)
+10-02 01:37:02.982  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:11)
+10-02 01:37:02.982  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:683)
+10-02 01:37:02.988  1189  1189 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+10-02 01:37:02.990  1189  1189 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+10-02 01:37:02.991  1189  1189 D b/311077782: LauncherAnimationRunner.setAnimation
+10-02 01:37:02.992  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:02.994  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:03.006  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-02 01:37:03.008   772   890 I ImeTracker: com.google.android.apps.nexuslauncher:73144dbf: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:37:03.010  1189  1189 I ImeTracker: com.google.android.apps.nexuslauncher:73144dbf: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:37:03.014  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:37:03.018  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:37:03.019  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:37:03.021  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:37:03.024   772  1558 I ImeTracker: system_server:9394b915: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:37:03.026   772   799 I ImeTracker: system_server:9394b915: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:37:03.070  2733 10579 I Finsky:background: [374] DSC::L: Update all listeners for download <139:RUNNING:40%[40%]> in group com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:03.070  2733 10579 I Finsky:background: [374] DSC::L: Updating listener wwp@ddfb68a for download
+10-02 01:37:03.070  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::ulr@80558f5 for download
+10-02 01:37:03.070  2733 10579 I Finsky:background: [374] DSC::L: Updating listener DownloadServiceManagerListener::arpu@4588ec4 for download
+10-02 01:37:03.070  2733 10579 I Finsky:background: [374] DS: Received onProgress request_id=139
+10-02 01:37:03.070  2733 10579 I Finsky:background: [374] RM: receive resource status onProgress download_request_id=139, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.apk reason=auto_update isid=ZQBBwd7NRia81GL7af8Hsw, status_code=RESOURCE_STATUS_IN_PROGRESS, legacy_status_code=192, size: 3440624/8595605
+10-02 01:37:03.072  2733 10579 I Finsky:background: [374] DS::IDC: updateWith: <139:RUNNING:40%[40%]>
+10-02 01:37:03.074  2733  2904 I Finsky:background: [50] RM: getStatus resource_request=79a71f48-7712-4ae7-8063-e07737497d87 request_id=139 pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.apk isid=ZQBBwd7NRia81GL7af8Hsw
+10-02 01:37:03.074  2733  2904 I Finsky:background: [50] DSC: reviveDownload(139)
+10-02 01:37:03.075  2733  2904 I Finsky:background: [50] DS: reviveDownload(request_id=139)
+10-02 01:37:03.076  2733 10579 I Finsky:background: [374] DS: DS: onReviveDownload(request_id=139, files_to_download=[com.google.android.contacts.apk(size:8595605)], context[group_id=com.google.android.contacts:ZQBBwd7NRia81GL7af8Hsw], display_data[invisible=true, title=Contacts], network_restrictions=UNMETERED_ONLY status=running, bytes_downloaded=3440624, total_bytes=8595605, retry[count=0, next_retry=n/a])
+10-02 01:37:03.077  2733  2733 I Finsky:background: [2] RF: onProgress request_id=139, pkg_id=com.google.android.contacts artifact_id=com.google.android.contacts.apk isid=ZQBBwd7NRia81GL7af8Hsw artifact_bytes=3440624/8595605 pkg_bytes=3580833/8965190
+10-02 01:37:03.078  2733  2733 I Finsky:background: [2] RF: Preventing total bytes update to listeners
+10-02 01:37:03.316  1189  1189 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-02 01:37:03.333 10460 10460 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:37:03.342   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:37:03.344   772   850 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:37:03.345 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:37:03.352 10460 10490 D HWUI    : endAllActiveAnimators on 0x74b2c0c60880 (UnprojectedRipple) with handle 0x74b240c45b60
+10-02 01:37:03.356 10503 10503 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:37:03.366  1189  1189 D RecentsView: onTaskRemoved: 204, not handling task stack changes
+10-02 01:37:03.366 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@70c8cf8 in: STOPPED
+10-02 01:37:03.367 10460 10460 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@70c8cf8
+10-02 01:37:03.373  1189  1189 D RecentsView: onTaskRemoved: 204, not handling task stack changes
+10-02 01:37:03.374  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:37:03.419 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:37:03.419 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@70c8cf8 in: DESTROYED
+10-02 01:37:03.420 10460 10460 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-02 01:37:03.423 10460 10474 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@75d4186]
+10-02 01:37:03.426 10460 10460 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:37:03.432 10460 10474 I TestRunner: finished: continuarEntregaElIdDeLaFuncionYLasButacasElegidas(com.cinemax.cliente.ui.SeleccionButacasScreenTest)

@@ -1,0 +1,3 @@
+10-02 01:38:31.908 10460 10474 I TestRunner: started: laOcupacionSeActualizaEnVivoSinVolverAPedirLaCartelera(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)
+10-02 01:38:31.925  1365  1365 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.auth.aang.events.services.START dat=chimera-action:/... xflg=0x4 cmp=com.google.android.gms/.chimera.PersistentApiService }
+10-02 01:38:32.081 10460 10474 I TestRunner: finished: laOcupacionSeActualizaEnVivoSinVolverAPedirLaCartelera(com.cinemax.cliente.viewmodel.CarteleraDisponibilidadTest)

@@ -1,0 +1,147 @@
+10-02 01:36:22.505 10460 10474 I TestRunner: started: sinFiltrosLaListaMuestraLasFuncionesDelSeed(com.cinemax.cliente.ui.CarteleraScreenTest)
+10-02 01:36:22.509  1189  1189 D RecentsView: onTaskRemoved: 161, not handling task stack changes
+10-02 01:36:22.510  1189  1189 D RecentsView: onTaskRemoved: 161, not handling task stack changes
+10-02 01:36:22.511 10460 10474 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@a1a82c2]
+10-02 01:36:22.513 10460 10474 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-02 01:36:22.524  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:22.526   772  1799 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cbc3aaef does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:36:22.537   613   626 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:36:22.541  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused] -[state_user_active]
+10-02 01:36:22.541  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_window_focused] -[state_resumed|state_deferred_resumed]
+10-02 01:36:22.541  1189  1189 W SplitSelectStateCtor: Missing session instanceIds
+10-02 01:36:22.542  1189  1189 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+10-02 01:36:22.555 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@520197d in: PRE_ON_CREATE
+10-02 01:36:22.556 10460 10460 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-02 01:36:22.560 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@520197d in: CREATED
+10-02 01:36:22.561  1189  1189 D RecentsView: onTaskDisplayChanged: 163, new displayId = 0
+10-02 01:36:22.561 10460 10460 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@520197d
+10-02 01:36:22.564 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@520197d in: STARTED
+10-02 01:36:22.565 10460 10460 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@520197d
+10-02 01:36:22.569 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@520197d in: RESUMED
+10-02 01:36:22.570 10460 10460 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@520197d
+10-02 01:36:22.574  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:22.574  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:22.574  1189  1189 D BaseActivity: Launcher flags updated: [state_started] -[state_window_focused]
+10-02 01:36:22.583 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@e737617
+10-02 01:36:22.583 10460 10460 D VRI[ComponentActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:36:22.713 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:36:22.776  1189  1189 D WorkspaceRevealAnim: onAnimationEnd: workspace alpha = 1.0
+10-02 01:36:22.795  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:22.795  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:22.819   772   796 I ActivityTaskManager: Displayed com.cinemax.cliente/androidx.activity.ComponentActivity for user 0: +277ms
+10-02 01:36:22.838 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:36:22.842 10503 10503 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:36:22.858  1189  1189 W FrameTracker: Missed SF frame:JANK_COMPOSER, 206290, 11573160, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-02 01:36:22.858  1189  1189 W FrameTracker: Missed SF frame:JANK_COMPOSER, 206443, 11196828, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-02 01:36:22.858  1189  1189 W FrameTracker: Missed App frame:UNKNOWN: 3, 206566, 51424027, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-02 01:36:22.858  1189  1189 W FrameTracker: Missed SF frame:UNKNOWN: 3, 206566, 51424027, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-02 01:36:22.858  1189  1189 W FrameTracker: Missed App frame:JANK_APPLICATION, 206588, 173989848, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-02 01:36:22.858  1189  1189 W FrameTracker: Missed App frame:UNKNOWN: 3, 206618, 169364566, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-02 01:36:22.858  1189  1189 W FrameTracker: Missed SF frame:UNKNOWN: 3, 206618, 169364566, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME_FALLBACK>
+10-02 01:36:22.867  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:22.868   772   890 I ImeTracker: com.cinemax.cliente:fe97b3ac: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:36:22.868   772  1558 D HWUI    : --- Failed to create image decoder with message 'unimplemented'
+10-02 01:36:22.872  1189  1189 D RecentsView: onTaskRemoved: 162, not handling task stack changes
+10-02 01:36:22.873  1189  1189 D RecentsView: onTaskRemoved: 162, not handling task stack changes
+10-02 01:36:22.874 10460 10460 I ImeTracker: com.cinemax.cliente:fe97b3ac: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:36:22.895  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:36:22.900  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:36:22.901  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.cinemax.cliente, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:36:22.903   772  2182 I ImeTracker: system_server:3731b077: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:36:22.907  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:36:22.908   772   799 I ImeTracker: system_server:3731b077: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:36:22.945  1189  1204 W System  : A resource failed to call release.
+10-02 01:36:22.945  1189  1204 W System  : A resource failed to call release.
+10-02 01:36:22.945  1189  1204 W System  : A resource failed to call release.
+10-02 01:36:23.109  1189  1189 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:36:23.109  1025  1349 D WallpaperService: onVisibilityChanged(false): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:36:23.118  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+10-02 01:36:23.120   772  1003 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-02 01:36:23.141  1189  1189 D BaseActivity: Launcher flags updated: [] -[state_started]
+10-02 01:36:23.141  1189  1189 D BaseDepthController: setSurface:
+10-02 01:36:23.141  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:36:23.141  1189  1189 D BaseDepthController: 	mBaseSurface: null
+10-02 01:36:23.142  1189  1189 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+10-02 01:36:23.143  1189  1189 D LauncherStateManager: StateManager.goToState: fromState: Normal, toState: Normal, partial trace:
+10-02 01:36:23.143  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:6)
+10-02 01:36:23.143  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:2)
+10-02 01:36:23.143  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:32)
+10-02 01:36:23.143  1189  1189 D LauncherStateManager: StateManager.onRepeatStateSetAborted: state: Normal
+10-02 01:36:23.143  1189  1189 D ActivityContext: hideKeyboard
+10-02 01:36:23.143  1189  1189 D ActivityContext: isImeShown: false
+10-02 01:36:23.143  1189  1189 D StatsLog: LAUNCHER_ONSTOP
+10-02 01:36:23.144  1189  1189 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+10-02 01:36:23.306   772   923 I HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+10-02 01:36:24.077   772  1558 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@cd78838e does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+10-02 01:36:24.094   613   625 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:36:24.094  1189  1189 D RecentsView: onTaskDisplayChanged: 164, new displayId = 0
+10-02 01:36:24.095 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@520197d in: PAUSED
+10-02 01:36:24.095 10460 10460 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@520197d
+10-02 01:36:24.102 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+10-02 01:36:24.103 10503 10519 I GFXSTREAM: [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+10-02 01:36:24.105  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:24.108  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:24.124 10503 10519 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+10-02 01:36:24.124 10503 10519 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+10-02 01:36:24.211  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:24.221  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:24.225   613  1294 I libbinder.BpBinder: onLastStrongRef automatically unlinking death recipients for descriptor: '(not cached)'
+10-02 01:36:24.226 10503 10503 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@b131a7
+10-02 01:36:24.226 10503 10503 D VRI[InstrumentationActivityInvoker$EmptyActivity]: WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84]
+10-02 01:36:24.229  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:24.289  1189  1189 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:36:24.289  1189  1189 D BaseActivity: Launcher flags updated: [state_started] +[state_started]
+10-02 01:36:24.289  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_user_active] +[state_resumed|state_user_active]
+10-02 01:36:24.289  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_user_active] +[state_deferred_resumed]
+10-02 01:36:24.289  1189  1189 D StatsLog: LAUNCHER_ONRESUME
+10-02 01:36:24.293  1189  1247 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+10-02 01:36:24.293  1603  1942 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+10-02 01:36:24.294  1603  1942 I AiAiEcho: EchoTargets:
+10-02 01:36:24.294  1603  1942 I AiAiEcho: Filtered by AiAi flag check:
+10-02 01:36:24.294  1603  1942 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+10-02 01:36:24.294  1603  1942 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+10-02 01:36:24.295  1603  1942 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-02 01:36:24.299  1189  1189 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+10-02 01:36:24.313  1025  1349 D WallpaperService: onVisibilityChanged(true): com.android.systemui.wallpapers.ImageWallpaper$CanvasEngine@e5c3d81
+10-02 01:36:24.320  1189  1189 D BaseDepthController: setSurface:
+10-02 01:36:24.320  1189  1189 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+10-02 01:36:24.320  1189  1189 D BaseDepthController: 	mBaseSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3010)/@0x5ee1042
+10-02 01:36:24.320  1189  1189 V BaseDepthController: Applying blur: 0 to Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#3010)/@0x5ee1042 applyImmediately: false
+10-02 01:36:24.321  1189  1189 D BaseDepthController: shouldBlurWorkspace: false targetState: Normal currentStableState: Normal mCurrentBlur: 0 mLauncher.getDepthBlurTargets(): [com.android.launcher3.Workspace{c12d8a9 V.ED..... .......D 0,0-1080,2400 #7f0a049d app:id/workspace}, com.android.launcher3.Hotseat{dbfee2e V.ED..... .......D 0,1905-1080,2400 #7f0a01ee app:id/hotseat}]
+10-02 01:36:24.370  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:36:24.371  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:36:24.371  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:36:24.371  1189  1189 D SsBaseTemplateCard: Passed-in item info is null
+10-02 01:36:24.371  1189  1189 I SsBaseTemplateCard: Secondary card pane is null
+10-02 01:36:24.381 10460 10460 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+10-02 01:36:24.394  1189  1189 D LauncherStateManager: StateManager.cancelAnimation: animation ongoing: false, partial trace:
+10-02 01:36:24.394  1189  1189 D LauncherStateManager: 	at com.android.launcher3.statemanager.StateManager.setCurrentAnimation(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:18)
+10-02 01:36:24.394  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:646)
+10-02 01:36:24.394  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager$WallpaperOpenLauncherAnimationRunner.onAnimationStart(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:96)
+10-02 01:36:24.394  1189  1189 D LauncherStateManager: StateManager.createAtomicAnimation: fromState: Normal, toState: Normal, partial trace:
+10-02 01:36:24.394  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:20)
+10-02 01:36:24.394  1189  1189 D LauncherStateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:11)
+10-02 01:36:24.394  1189  1189 D LauncherStateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme f3a19d912c87c27267cfbc05ba0bc7b202ab72a6648bd76225f5f7e128d94583:683)
+10-02 01:36:24.394  1189  1189 D AllAppsTransitionController: shouldProtectHeader: false skipScrim: true state: Normal stateManager.getState(): Normal
+10-02 01:36:24.396  1189  1189 D KeyboardInsetsHandler: removePendingImeController: pendingImeController=null
+10-02 01:36:24.398  1189  1189 D b/311077782: LauncherAnimationRunner.setAnimation
+10-02 01:36:24.408  1189  1189 D b/417220811: invalidateLoadedTasks - previous requestLoadId: -1
+10-02 01:36:24.409  1189  1189 D BaseActivity: Launcher flags updated: [state_started|state_resumed|state_deferred_resumed|state_window_focused|state_user_active] +[state_window_focused]
+10-02 01:36:24.412 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@520197d in: STOPPED
+10-02 01:36:24.412   772   890 I ImeTracker: com.google.android.apps.nexuslauncher:f80a9fad: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+10-02 01:36:24.412 10460 10460 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@520197d
+10-02 01:36:24.422  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2057
+10-02 01:36:24.423   772  1558 I ImeTracker: system_server:356909dc: onRequestHide at ORIGIN_SERVER reason IME_REQUESTED_CHANGED_LISTENER fromUser false
+10-02 01:36:24.424   772   799 I ImeTracker: system_server:356909dc: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-02 01:36:24.424  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+10-02 01:36:24.425  1457  1457 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1318 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-02 01:36:24.428  1457  1457 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+10-02 01:36:24.439  1189  1189 I ImeTracker: com.google.android.apps.nexuslauncher:f80a9fad: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+10-02 01:36:24.489 10460 10460 D WindowOnBackDispatcher: setTopOnBackInvokedCallback (unwrapped): null
+10-02 01:36:24.489 10460 10460 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@520197d in: DESTROYED
+10-02 01:36:24.490 10460 10460 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-02 01:36:24.498 10460 10460 D ViewRootImpl: Skipping stats log for color mode
+10-02 01:36:24.500 10460 10474 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@a1a82c2]
+10-02 01:36:24.526  1189  1189 D RecentsView: onTaskRemoved: 163, not handling task stack changes
+10-02 01:36:24.527  1189  1189 D RecentsView: onTaskRemoved: 163, not handling task stack changes
+10-02 01:36:24.537 10460 10474 I TestRunner: finished: sinFiltrosLaListaMuestraLasFuncionesDelSeed(com.cinemax.cliente.ui.CarteleraScreenTest)

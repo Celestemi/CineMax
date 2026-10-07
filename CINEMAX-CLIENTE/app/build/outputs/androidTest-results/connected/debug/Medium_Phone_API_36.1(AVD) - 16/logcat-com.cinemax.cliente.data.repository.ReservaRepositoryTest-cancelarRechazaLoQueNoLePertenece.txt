@@ -1,0 +1,2 @@
+10-02 01:36:11.507 10460 10474 I TestRunner: started: cancelarRechazaLoQueNoLePertenece(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
+10-02 01:36:11.594 10460 10474 I TestRunner: finished: cancelarRechazaLoQueNoLePertenece(com.cinemax.cliente.data.repository.ReservaRepositoryTest)
